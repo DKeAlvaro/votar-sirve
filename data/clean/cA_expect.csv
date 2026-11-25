@@ -1,0 +1,871 @@
+date,geo,group,variable,value,unit,source_id
+1985,ES,18-29,better,39.72,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,ES,18-29,better,44.59,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,ES,18-29,better,46.99,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,ES,18-29,better,41.06,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,ES,18-29,better,52.23,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,ES,18-29,better,44.29,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,ES,18-29,better,57.03,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,ES,18-29,better,29.67,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,ES,18-29,better,39.08,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,ES,18-29,better,46.57,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,ES,18-29,better,49.23,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,ES,18-29,better,54.1,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,ES,18-29,better,56.45,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,ES,18-29,better,58.68,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,ES,18-29,better,56.8,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,ES,18-29,better,55.55,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,ES,18-29,better,54.83,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,ES,18-29,better,65.36,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,ES,18-29,better,60.6,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,ES,18-29,better,62.42,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,ES,18-29,better,58.01,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,ES,18-29,better,61.39,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,ES,18-29,better,54.77,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,ES,18-29,better,39.52,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,ES,18-29,better,49.01,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,ES,18-29,better,49.23,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,ES,18-29,better,36.08,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,ES,18-29,better,33.82,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,ES,18-29,better,36.42,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,ES,18-29,better,37.74,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,ES,18-29,better,54.93,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,ES,18-29,better,42.64,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,ES,18-29,better,57.88,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,ES,18-29,better,56.19,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,ES,18-29,better,47.0,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,ES,18-29,better,37.31,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,ES,18-29,better,46.76,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,ES,18-29,better,42.11,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,ES,18-29,better,51.12,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,ES,18-29,better,54.73,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,ES,18-29,better,57.84,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1985,ES,18-29,dk,7.45,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,ES,18-29,dk,10.72,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,ES,18-29,dk,8.61,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,ES,18-29,dk,7.98,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,ES,18-29,dk,5.92,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,ES,18-29,dk,8.98,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,ES,18-29,dk,6.64,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,ES,18-29,dk,4.21,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,ES,18-29,dk,8.61,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,ES,18-29,dk,6.45,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,ES,18-29,dk,4.63,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,ES,18-29,dk,3.96,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,ES,18-29,dk,2.64,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,ES,18-29,dk,4.71,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,ES,18-29,dk,2.21,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,ES,18-29,dk,3.24,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,ES,18-29,dk,0.8,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,ES,18-29,dk,1.53,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,ES,18-29,dk,3.15,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,ES,18-29,dk,1.18,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,ES,18-29,dk,1.4,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,ES,18-29,dk,0.68,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,ES,18-29,dk,2.9,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,ES,18-29,dk,2.68,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,ES,18-29,dk,3.35,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,ES,18-29,dk,3.76,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,ES,18-29,dk,2.78,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,ES,18-29,dk,3.89,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,ES,18-29,dk,4.17,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,ES,18-29,dk,5.23,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,ES,18-29,dk,2.49,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,ES,18-29,dk,1.95,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,ES,18-29,dk,0.46,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,ES,18-29,dk,0.0,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,ES,18-29,dk,1.61,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,ES,18-29,dk,1.96,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,ES,18-29,dk,1.4,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,ES,18-29,dk,0.95,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,ES,18-29,dk,0.0,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,ES,18-29,dk,1.8,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,ES,18-29,dk,0.0,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1985,ES,18-29,n,249.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,ES,18-29,n,240.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,ES,18-29,n,224.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,ES,18-29,n,301.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,ES,18-29,n,256.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,ES,18-29,n,285.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,ES,18-29,n,285.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,ES,18-29,n,288.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,ES,18-29,n,271.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,ES,18-29,n,262.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,ES,18-29,n,250.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,ES,18-29,n,231.0,respondents,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,ES,18-29,n,251.0,respondents,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,ES,18-29,n,260.0,respondents,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,ES,18-29,n,245.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,ES,18-29,n,254.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,ES,18-29,n,250.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,ES,18-29,n,252.0,respondents,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,ES,18-29,n,231.0,respondents,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,ES,18-29,n,222.0,respondents,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,ES,18-29,n,184.0,respondents,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,ES,18-29,n,180.0,respondents,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,ES,18-29,n,155.0,respondents,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,ES,18-29,n,177.0,respondents,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,ES,18-29,n,195.0,respondents,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,ES,18-29,n,175.0,respondents,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,ES,18-29,n,150.0,respondents,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,ES,18-29,n,175.0,respondents,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,ES,18-29,n,158.0,respondents,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,ES,18-29,n,153.0,respondents,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,ES,18-29,n,161.0,respondents,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,ES,18-29,n,154.0,respondents,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,ES,18-29,n,158.0,respondents,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,ES,18-29,n,155.0,respondents,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,ES,18-29,n,134.0,respondents,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,ES,18-29,n,147.0,respondents,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,ES,18-29,n,163.0,respondents,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,ES,18-29,n,170.0,respondents,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,ES,18-29,n,155.0,respondents,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,ES,18-29,n,173.0,respondents,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,ES,18-29,n,170.0,respondents,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1985,ES,18-29,same,31.43,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,ES,18-29,same,35.36,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,ES,18-29,same,32.43,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,ES,18-29,same,39.35,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,ES,18-29,same,34.33,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,ES,18-29,same,31.7,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,ES,18-29,same,23.89,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,ES,18-29,same,20.43,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,ES,18-29,same,24.72,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,ES,18-29,same,25.67,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,ES,18-29,same,40.91,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,ES,18-29,same,36.83,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,ES,18-29,same,35.71,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,ES,18-29,same,36.28,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,ES,18-29,same,40.47,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,ES,18-29,same,39.58,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,ES,18-29,same,43.61,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,ES,18-29,same,31.06,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,ES,18-29,same,34.04,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,ES,18-29,same,30.7,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,ES,18-29,same,34.37,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,ES,18-29,same,33.5,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,ES,18-29,same,35.85,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,ES,18-29,same,41.56,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,ES,18-29,same,39.41,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,ES,18-29,same,34.4,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,ES,18-29,same,45.14,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,ES,18-29,same,43.0,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,ES,18-29,same,47.89,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,ES,18-29,same,52.81,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,ES,18-29,same,39.61,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,ES,18-29,same,48.15,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,ES,18-29,same,37.62,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,ES,18-29,same,39.36,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,ES,18-29,same,44.38,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,ES,18-29,same,50.36,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,ES,18-29,same,40.7,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,ES,18-29,same,48.46,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,ES,18-29,same,43.77,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,ES,18-29,same,37.36,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,ES,18-29,same,38.06,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1985,ES,18-29,worse,21.4,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,ES,18-29,worse,9.33,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,ES,18-29,worse,11.97,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,ES,18-29,worse,11.61,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,ES,18-29,worse,7.52,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,ES,18-29,worse,15.04,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,ES,18-29,worse,12.44,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,ES,18-29,worse,45.7,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,ES,18-29,worse,27.59,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,ES,18-29,worse,21.3,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,ES,18-29,worse,5.23,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,ES,18-29,worse,5.11,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,ES,18-29,worse,5.2,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,ES,18-29,worse,0.34,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,ES,18-29,worse,0.51,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,ES,18-29,worse,1.63,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,ES,18-29,worse,0.76,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,ES,18-29,worse,2.05,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,ES,18-29,worse,2.21,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,ES,18-29,worse,5.69,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,ES,18-29,worse,6.21,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,ES,18-29,worse,4.43,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,ES,18-29,worse,6.49,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,ES,18-29,worse,16.24,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,ES,18-29,worse,8.23,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,ES,18-29,worse,12.62,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,ES,18-29,worse,16.01,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,ES,18-29,worse,19.29,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,ES,18-29,worse,11.51,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,ES,18-29,worse,4.22,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,ES,18-29,worse,2.98,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,ES,18-29,worse,7.26,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,ES,18-29,worse,4.04,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,ES,18-29,worse,4.44,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,ES,18-29,worse,7.01,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,ES,18-29,worse,10.37,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,ES,18-29,worse,11.14,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,ES,18-29,worse,8.49,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,ES,18-29,worse,5.1,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,ES,18-29,worse,6.11,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,ES,18-29,worse,4.09,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1985,ES,50+,better,28.43,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,ES,50+,better,29.36,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,ES,50+,better,27.92,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,ES,50+,better,28.93,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,ES,50+,better,43.32,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,ES,50+,better,23.68,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,ES,50+,better,43.56,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,ES,50+,better,14.36,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,ES,50+,better,27.27,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,ES,50+,better,36.37,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,ES,50+,better,21.73,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,ES,50+,better,19.99,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,ES,50+,better,22.58,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,ES,50+,better,20.05,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,ES,50+,better,24.82,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,ES,50+,better,19.59,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,ES,50+,better,19.5,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,ES,50+,better,22.99,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,ES,50+,better,23.55,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,ES,50+,better,25.4,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,ES,50+,better,22.06,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,ES,50+,better,21.03,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,ES,50+,better,22.11,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,ES,50+,better,14.06,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,ES,50+,better,16.05,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,ES,50+,better,12.15,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,ES,50+,better,11.61,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,ES,50+,better,12.58,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,ES,50+,better,12.02,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,ES,50+,better,12.08,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,ES,50+,better,15.24,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,ES,50+,better,13.54,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,ES,50+,better,13.87,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,ES,50+,better,14.66,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,ES,50+,better,14.19,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,ES,50+,better,9.96,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,ES,50+,better,24.0,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,ES,50+,better,15.33,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,ES,50+,better,17.55,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,ES,50+,better,17.99,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,ES,50+,better,17.03,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1985,ES,50+,dk,22.58,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,ES,50+,dk,25.42,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,ES,50+,dk,21.31,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,ES,50+,dk,15.84,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,ES,50+,dk,17.59,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,ES,50+,dk,16.97,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,ES,50+,dk,15.21,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,ES,50+,dk,11.5,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,ES,50+,dk,11.83,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,ES,50+,dk,9.56,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,ES,50+,dk,4.57,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,ES,50+,dk,4.16,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,ES,50+,dk,5.75,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,ES,50+,dk,2.38,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,ES,50+,dk,6.48,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,ES,50+,dk,1.75,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,ES,50+,dk,3.89,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,ES,50+,dk,6.97,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,ES,50+,dk,5.01,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,ES,50+,dk,3.15,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,ES,50+,dk,4.3,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,ES,50+,dk,2.43,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,ES,50+,dk,2.32,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,ES,50+,dk,2.24,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,ES,50+,dk,2.24,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,ES,50+,dk,4.11,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,ES,50+,dk,3.74,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,ES,50+,dk,2.21,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,ES,50+,dk,3.61,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,ES,50+,dk,6.38,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,ES,50+,dk,5.32,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,ES,50+,dk,3.58,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,ES,50+,dk,2.39,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,ES,50+,dk,4.63,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,ES,50+,dk,2.66,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,ES,50+,dk,3.49,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,ES,50+,dk,2.38,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,ES,50+,dk,1.75,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,ES,50+,dk,2.56,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,ES,50+,dk,1.04,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,ES,50+,dk,1.45,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1985,ES,50+,n,387.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,ES,50+,n,408.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,ES,50+,n,431.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,ES,50+,n,352.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,ES,50+,n,365.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,ES,50+,n,342.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,ES,50+,n,379.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,ES,50+,n,359.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,ES,50+,n,358.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,ES,50+,n,373.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,ES,50+,n,368.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,ES,50+,n,366.0,respondents,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,ES,50+,n,353.0,respondents,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,ES,50+,n,361.0,respondents,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,ES,50+,n,367.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,ES,50+,n,360.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,ES,50+,n,361.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,ES,50+,n,369.0,respondents,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,ES,50+,n,377.0,respondents,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,ES,50+,n,444.0,respondents,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,ES,50+,n,454.0,respondents,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,ES,50+,n,441.0,respondents,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,ES,50+,n,484.0,respondents,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,ES,50+,n,443.0,respondents,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,ES,50+,n,432.0,respondents,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,ES,50+,n,429.0,respondents,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,ES,50+,n,456.0,respondents,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,ES,50+,n,443.0,respondents,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,ES,50+,n,416.0,respondents,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,ES,50+,n,515.0,respondents,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,ES,50+,n,518.0,respondents,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,ES,50+,n,470.0,respondents,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,ES,50+,n,501.0,respondents,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,ES,50+,n,524.0,respondents,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,ES,50+,n,552.0,respondents,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,ES,50+,n,518.0,respondents,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,ES,50+,n,511.0,respondents,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,ES,50+,n,489.0,respondents,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,ES,50+,n,487.0,respondents,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,ES,50+,n,504.0,respondents,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,ES,50+,n,481.0,respondents,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1985,ES,50+,same,22.63,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,ES,50+,same,25.29,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,ES,50+,same,34.49,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,ES,50+,same,33.47,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,ES,50+,same,25.98,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,ES,50+,same,28.63,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,ES,50+,same,21.01,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,ES,50+,same,29.41,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,ES,50+,same,30.35,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,ES,50+,same,31.83,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,ES,50+,same,58.85,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,ES,50+,same,61.1,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,ES,50+,same,59.46,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,ES,50+,same,68.58,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,ES,50+,same,63.72,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,ES,50+,same,73.04,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,ES,50+,same,70.9,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,ES,50+,same,60.01,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,ES,50+,same,61.79,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,ES,50+,same,56.32,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,ES,50+,same,58.95,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,ES,50+,same,69.18,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,ES,50+,same,64.68,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,ES,50+,same,64.73,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,ES,50+,same,66.45,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,ES,50+,same,66.64,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,ES,50+,same,68.99,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,ES,50+,same,60.74,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,ES,50+,same,66.43,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,ES,50+,same,67.11,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,ES,50+,same,69.3,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,ES,50+,same,69.29,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,ES,50+,same,72.72,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,ES,50+,same,70.05,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,ES,50+,same,66.79,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,ES,50+,same,70.88,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,ES,50+,same,62.58,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,ES,50+,same,62.18,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,ES,50+,same,66.3,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,ES,50+,same,66.35,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,ES,50+,same,71.1,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1985,ES,50+,worse,26.36,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,ES,50+,worse,19.93,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,ES,50+,worse,16.28,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,ES,50+,worse,21.76,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,ES,50+,worse,13.11,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,ES,50+,worse,30.72,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,ES,50+,worse,20.21,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,ES,50+,worse,44.73,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,ES,50+,worse,30.55,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,ES,50+,worse,22.24,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,ES,50+,worse,14.85,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,ES,50+,worse,14.75,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,ES,50+,worse,12.2,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,ES,50+,worse,8.99,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,ES,50+,worse,4.99,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,ES,50+,worse,5.63,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,ES,50+,worse,5.71,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,ES,50+,worse,10.03,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,ES,50+,worse,9.65,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,ES,50+,worse,15.13,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,ES,50+,worse,14.69,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,ES,50+,worse,7.35,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,ES,50+,worse,10.89,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,ES,50+,worse,18.97,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,ES,50+,worse,15.26,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,ES,50+,worse,17.1,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,ES,50+,worse,15.66,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,ES,50+,worse,24.47,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,ES,50+,worse,17.94,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,ES,50+,worse,14.43,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,ES,50+,worse,10.15,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,ES,50+,worse,13.59,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,ES,50+,worse,11.02,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,ES,50+,worse,10.66,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,ES,50+,worse,16.36,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,ES,50+,worse,15.67,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,ES,50+,worse,11.04,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,ES,50+,worse,20.74,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,ES,50+,worse,13.59,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,ES,50+,worse,14.62,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,ES,50+,worse,10.42,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1980,NL,18-29,better,23.11,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1981,NL,18-29,better,29.45,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1982,NL,18-29,better,26.52,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1983,NL,18-29,better,34.28,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1984,NL,18-29,better,42.4,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1985,NL,18-29,better,51.39,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,NL,18-29,better,47.55,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,NL,18-29,better,40.38,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,NL,18-29,better,46.34,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,NL,18-29,better,44.6,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,NL,18-29,better,57.02,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,NL,18-29,better,36.85,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,NL,18-29,better,47.63,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,NL,18-29,better,44.45,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,NL,18-29,better,44.72,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,NL,18-29,better,54.37,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,NL,18-29,better,54.68,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,NL,18-29,better,52.04,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,NL,18-29,better,57.18,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,NL,18-29,better,39.55,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,NL,18-29,better,48.08,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,NL,18-29,better,49.97,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,NL,18-29,better,51.21,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,NL,18-29,better,44.53,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,NL,18-29,better,48.92,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,NL,18-29,better,50.98,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,NL,18-29,better,56.34,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,NL,18-29,better,55.79,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,NL,18-29,better,55.55,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,NL,18-29,better,46.62,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,NL,18-29,better,45.94,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,NL,18-29,better,43.2,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,NL,18-29,better,41.82,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,NL,18-29,better,50.37,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,NL,18-29,better,60.33,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,NL,18-29,better,50.4,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,NL,18-29,better,49.21,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,NL,18-29,better,62.25,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,NL,18-29,better,63.02,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,NL,18-29,better,55.9,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,NL,18-29,better,44.96,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,NL,18-29,better,62.04,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,NL,18-29,better,57.16,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,NL,18-29,better,65.92,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,NL,18-29,better,57.72,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,NL,18-29,better,48.24,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1980,NL,18-29,dk,3.99,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1981,NL,18-29,dk,3.01,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1982,NL,18-29,dk,6.02,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1983,NL,18-29,dk,2.1,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1984,NL,18-29,dk,4.62,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1985,NL,18-29,dk,3.04,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,NL,18-29,dk,4.9,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,NL,18-29,dk,5.63,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,NL,18-29,dk,6.55,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,NL,18-29,dk,9.16,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,NL,18-29,dk,5.72,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,NL,18-29,dk,9.72,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,NL,18-29,dk,3.14,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,NL,18-29,dk,3.38,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,NL,18-29,dk,2.97,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,NL,18-29,dk,1.21,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,NL,18-29,dk,1.1,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,NL,18-29,dk,3.44,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,NL,18-29,dk,1.21,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,NL,18-29,dk,2.11,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,NL,18-29,dk,0.78,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,NL,18-29,dk,5.66,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,NL,18-29,dk,3.89,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,NL,18-29,dk,2.12,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,NL,18-29,dk,3.96,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,NL,18-29,dk,1.08,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,NL,18-29,dk,0.93,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,NL,18-29,dk,0.0,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,NL,18-29,dk,0.0,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,NL,18-29,dk,1.77,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,NL,18-29,dk,0.0,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,NL,18-29,dk,0.0,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,NL,18-29,dk,0.9,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,NL,18-29,dk,2.1,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,NL,18-29,dk,0.0,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,NL,18-29,dk,2.02,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,NL,18-29,dk,0.0,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,NL,18-29,dk,2.05,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,NL,18-29,dk,6.96,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,NL,18-29,dk,3.12,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,NL,18-29,dk,0.0,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,NL,18-29,dk,0.0,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,NL,18-29,dk,0.0,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,NL,18-29,dk,0.0,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,NL,18-29,dk,0.0,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,NL,18-29,dk,0.79,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1980,NL,18-29,n,302.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1981,NL,18-29,n,231.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1982,NL,18-29,n,267.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1983,NL,18-29,n,262.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1984,NL,18-29,n,252.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1985,NL,18-29,n,247.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,NL,18-29,n,236.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,NL,18-29,n,220.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,NL,18-29,n,215.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,NL,18-29,n,278.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,NL,18-29,n,263.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,NL,18-29,n,260.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,NL,18-29,n,203.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,NL,18-29,n,224.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,NL,18-29,n,212.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,NL,18-29,n,210.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,NL,18-29,n,204.0,respondents,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,NL,18-29,n,195.0,respondents,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,NL,18-29,n,181.0,respondents,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,NL,18-29,n,145.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,NL,18-29,n,174.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,NL,18-29,n,197.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,NL,18-29,n,203.0,respondents,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,NL,18-29,n,203.0,respondents,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,NL,18-29,n,118.0,respondents,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,NL,18-29,n,88.0,respondents,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,NL,18-29,n,97.0,respondents,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,NL,18-29,n,90.0,respondents,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,NL,18-29,n,59.0,respondents,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,NL,18-29,n,131.0,respondents,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,NL,18-29,n,107.0,respondents,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,NL,18-29,n,193.0,respondents,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,NL,18-29,n,139.0,respondents,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,NL,18-29,n,112.0,respondents,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,NL,18-29,n,60.0,respondents,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,NL,18-29,n,67.0,respondents,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,NL,18-29,n,57.0,respondents,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,NL,18-29,n,41.0,respondents,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,NL,18-29,n,32.0,respondents,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,NL,18-29,n,37.0,respondents,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,NL,18-29,n,26.0,respondents,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,NL,18-29,n,143.0,respondents,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,NL,18-29,n,161.0,respondents,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,NL,18-29,n,133.0,respondents,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,NL,18-29,n,240.0,respondents,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,NL,18-29,n,176.0,respondents,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1980,NL,18-29,same,35.81,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1981,NL,18-29,same,33.89,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1982,NL,18-29,same,28.82,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1983,NL,18-29,same,34.25,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1984,NL,18-29,same,17.36,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1985,NL,18-29,same,34.47,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,NL,18-29,same,37.46,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,NL,18-29,same,36.84,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,NL,18-29,same,39.68,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,NL,18-29,same,41.39,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,NL,18-29,same,27.18,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,NL,18-29,same,37.73,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,NL,18-29,same,39.43,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,NL,18-29,same,32.63,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,NL,18-29,same,34.15,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,NL,18-29,same,38.93,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,NL,18-29,same,39.17,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,NL,18-29,same,37.48,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,NL,18-29,same,35.49,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,NL,18-29,same,58.34,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,NL,18-29,same,50.99,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,NL,18-29,same,43.93,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,NL,18-29,same,41.54,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,NL,18-29,same,46.79,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,NL,18-29,same,45.35,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,NL,18-29,same,43.63,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,NL,18-29,same,41.37,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,NL,18-29,same,42.09,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,NL,18-29,same,38.1,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,NL,18-29,same,42.18,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,NL,18-29,same,50.0,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,NL,18-29,same,47.52,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,NL,18-29,same,50.63,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,NL,18-29,same,44.73,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,NL,18-29,same,38.03,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,NL,18-29,same,46.28,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,NL,18-29,same,47.92,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,NL,18-29,same,32.41,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,NL,18-29,same,26.54,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,NL,18-29,same,39.47,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,NL,18-29,same,51.24,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,NL,18-29,same,28.94,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,NL,18-29,same,36.56,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,NL,18-29,same,33.78,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,NL,18-29,same,32.89,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,NL,18-29,same,34.94,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1980,NL,18-29,worse,37.08,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1981,NL,18-29,worse,33.65,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1982,NL,18-29,worse,38.64,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1983,NL,18-29,worse,29.37,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1984,NL,18-29,worse,35.62,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1985,NL,18-29,worse,11.1,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,NL,18-29,worse,10.08,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,NL,18-29,worse,17.16,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,NL,18-29,worse,7.42,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,NL,18-29,worse,4.86,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,NL,18-29,worse,10.09,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,NL,18-29,worse,15.7,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,NL,18-29,worse,9.8,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,NL,18-29,worse,19.54,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,NL,18-29,worse,18.15,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,NL,18-29,worse,5.5,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,NL,18-29,worse,5.04,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,NL,18-29,worse,7.04,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,NL,18-29,worse,6.12,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,NL,18-29,worse,0.0,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,NL,18-29,worse,0.14,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,NL,18-29,worse,0.44,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,NL,18-29,worse,3.35,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,NL,18-29,worse,6.56,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,NL,18-29,worse,1.78,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,NL,18-29,worse,4.32,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,NL,18-29,worse,1.37,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,NL,18-29,worse,2.12,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,NL,18-29,worse,6.34,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,NL,18-29,worse,9.43,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,NL,18-29,worse,4.06,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,NL,18-29,worse,9.28,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,NL,18-29,worse,6.65,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,NL,18-29,worse,2.81,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,NL,18-29,worse,1.65,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,NL,18-29,worse,1.29,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,NL,18-29,worse,2.87,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,NL,18-29,worse,3.3,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,NL,18-29,worse,3.48,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,NL,18-29,worse,1.51,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,NL,18-29,worse,3.8,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,NL,18-29,worse,9.02,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,NL,18-29,worse,6.28,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,NL,18-29,worse,0.3,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,NL,18-29,worse,9.4,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,NL,18-29,worse,16.03,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1980,NL,50+,better,3.82,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1981,NL,50+,better,5.94,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1982,NL,50+,better,4.73,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1983,NL,50+,better,7.18,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1984,NL,50+,better,12.71,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1985,NL,50+,better,15.12,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,NL,50+,better,17.47,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,NL,50+,better,12.16,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,NL,50+,better,19.31,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,NL,50+,better,19.33,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,NL,50+,better,11.72,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,NL,50+,better,11.23,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,NL,50+,better,11.6,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,NL,50+,better,9.73,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,NL,50+,better,12.94,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,NL,50+,better,17.53,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,NL,50+,better,14.35,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,NL,50+,better,17.12,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,NL,50+,better,11.06,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,NL,50+,better,10.84,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,NL,50+,better,19.65,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,NL,50+,better,12.62,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,NL,50+,better,12.76,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,NL,50+,better,11.53,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,NL,50+,better,14.07,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,NL,50+,better,16.15,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,NL,50+,better,16.74,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,NL,50+,better,11.67,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,NL,50+,better,10.03,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,NL,50+,better,15.89,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,NL,50+,better,14.38,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,NL,50+,better,8.77,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,NL,50+,better,9.8,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,NL,50+,better,15.08,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,NL,50+,better,13.56,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,NL,50+,better,14.02,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,NL,50+,better,14.87,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,NL,50+,better,15.65,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,NL,50+,better,13.72,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,NL,50+,better,11.84,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,NL,50+,better,11.1,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,NL,50+,better,33.87,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,NL,50+,better,10.34,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,NL,50+,better,12.89,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,NL,50+,better,11.18,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,NL,50+,better,17.7,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1980,NL,50+,dk,5.2,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1981,NL,50+,dk,6.61,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1982,NL,50+,dk,4.25,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1983,NL,50+,dk,3.84,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1984,NL,50+,dk,4.42,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1985,NL,50+,dk,6.29,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,NL,50+,dk,7.57,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,NL,50+,dk,7.55,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,NL,50+,dk,4.23,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,NL,50+,dk,12.54,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,NL,50+,dk,9.15,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,NL,50+,dk,9.91,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,NL,50+,dk,5.13,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,NL,50+,dk,4.91,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,NL,50+,dk,5.6,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,NL,50+,dk,1.81,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,NL,50+,dk,3.28,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,NL,50+,dk,2.12,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,NL,50+,dk,2.13,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,NL,50+,dk,2.42,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,NL,50+,dk,4.95,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,NL,50+,dk,3.59,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,NL,50+,dk,10.03,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,NL,50+,dk,3.09,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,NL,50+,dk,3.64,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,NL,50+,dk,1.48,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,NL,50+,dk,2.6,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,NL,50+,dk,1.19,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,NL,50+,dk,0.4,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,NL,50+,dk,0.62,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,NL,50+,dk,0.55,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,NL,50+,dk,0.67,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,NL,50+,dk,0.44,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,NL,50+,dk,0.32,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,NL,50+,dk,1.05,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,NL,50+,dk,1.52,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,NL,50+,dk,0.38,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,NL,50+,dk,1.33,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,NL,50+,dk,1.19,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,NL,50+,dk,0.76,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,NL,50+,dk,0.79,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,NL,50+,dk,0.6,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,NL,50+,dk,0.79,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,NL,50+,dk,1.1,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,NL,50+,dk,0.96,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,NL,50+,dk,0.7,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1980,NL,50+,n,356.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1981,NL,50+,n,330.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1982,NL,50+,n,331.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1983,NL,50+,n,329.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1984,NL,50+,n,327.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1985,NL,50+,n,327.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,NL,50+,n,327.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,NL,50+,n,313.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,NL,50+,n,339.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,NL,50+,n,299.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,NL,50+,n,345.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,NL,50+,n,292.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,NL,50+,n,331.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,NL,50+,n,325.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,NL,50+,n,351.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,NL,50+,n,322.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,NL,50+,n,341.0,respondents,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,NL,50+,n,329.0,respondents,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,NL,50+,n,361.0,respondents,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,NL,50+,n,398.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,NL,50+,n,374.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,NL,50+,n,362.0,respondents,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,NL,50+,n,348.0,respondents,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,NL,50+,n,368.0,respondents,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,NL,50+,n,447.0,respondents,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,NL,50+,n,534.0,respondents,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,NL,50+,n,539.0,respondents,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,NL,50+,n,518.0,respondents,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,NL,50+,n,611.0,respondents,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,NL,50+,n,495.0,respondents,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,NL,50+,n,551.0,respondents,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,NL,50+,n,385.0,respondents,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,NL,50+,n,477.0,respondents,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,NL,50+,n,583.0,respondents,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,NL,50+,n,622.0,respondents,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,NL,50+,n,615.0,respondents,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,NL,50+,n,643.0,respondents,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,NL,50+,n,707.0,respondents,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,NL,50+,n,742.0,respondents,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,NL,50+,n,804.0,respondents,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,NL,50+,n,827.0,respondents,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,NL,50+,n,621.0,respondents,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,NL,50+,n,544.0,respondents,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,NL,50+,n,574.0,respondents,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,NL,50+,n,597.0,respondents,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,NL,50+,n,628.0,respondents,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1980,NL,50+,same,37.49,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1981,NL,50+,same,39.76,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1982,NL,50+,same,27.23,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1983,NL,50+,same,31.64,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1984,NL,50+,same,35.06,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1985,NL,50+,same,56.88,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,NL,50+,same,51.22,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,NL,50+,same,56.72,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,NL,50+,same,57.08,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,NL,50+,same,54.24,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,NL,50+,same,61.07,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,NL,50+,same,46.7,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,NL,50+,same,55.35,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,NL,50+,same,53.65,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,NL,50+,same,53.64,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,NL,50+,same,67.67,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,NL,50+,same,64.87,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,NL,50+,same,63.34,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,NL,50+,same,72.04,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,NL,50+,same,79.01,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,NL,50+,same,70.56,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,NL,50+,same,69.13,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,NL,50+,same,64.53,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,NL,50+,same,66.5,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,NL,50+,same,66.72,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,NL,50+,same,69.46,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,NL,50+,same,73.82,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,NL,50+,same,73.05,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,NL,50+,same,68.91,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,NL,50+,same,73.5,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,NL,50+,same,69.23,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,NL,50+,same,70.88,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,NL,50+,same,64.38,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,NL,50+,same,71.14,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,NL,50+,same,74.77,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,NL,50+,same,77.19,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,NL,50+,same,79.06,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,NL,50+,same,75.73,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,NL,50+,same,80.26,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,NL,50+,same,80.84,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,NL,50+,same,78.45,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,NL,50+,same,58.8,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,NL,50+,same,72.11,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,NL,50+,same,77.51,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,NL,50+,same,79.76,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,NL,50+,same,75.16,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general
+1980,NL,50+,worse,53.49,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1981,NL,50+,worse,47.69,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1982,NL,50+,worse,63.79,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1983,NL,50+,worse,57.34,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1984,NL,50+,worse,47.81,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1985,NL,50+,worse,21.71,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1986,NL,50+,worse,23.74,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1987,NL,50+,worse,23.57,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1988,NL,50+,worse,19.38,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1989,NL,50+,worse,13.89,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1990,NL,50+,worse,18.06,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1991,NL,50+,worse,32.16,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1992,NL,50+,worse,27.92,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1993,NL,50+,worse,31.71,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1994,NL,50+,worse,27.82,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1995,NL,50+,worse,13.0,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+1996,NL,50+,worse,17.5,pct,GESIS ZA2898 (Eurobarometer) expectations: life in general
+1997,NL,50+,worse,17.42,pct,GESIS ZA2959 (Eurobarometer) expectations: life in general
+1998,NL,50+,worse,14.77,pct,GESIS ZA3085 (Eurobarometer) expectations: life in general
+1999,NL,50+,worse,7.73,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2000,NL,50+,worse,4.84,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2001,NL,50+,worse,14.65,pct,GESIS ZA3521 (Mannheim EB trend file) var better
+2002,NL,50+,worse,12.68,pct,GESIS ZA3693 (Eurobarometer) expectations: life in general
+2003,NL,50+,worse,18.88,pct,GESIS ZA3938 (Eurobarometer) expectations: life in general
+2004,NL,50+,worse,15.57,pct,GESIS ZA4229 (Eurobarometer) expectations: life in general
+2005,NL,50+,worse,12.91,pct,GESIS ZA4414 (Eurobarometer) expectations: life in general
+2006,NL,50+,worse,6.84,pct,GESIS ZA4526 (Eurobarometer) expectations: life in general
+2007,NL,50+,worse,14.09,pct,GESIS ZA4565 (Eurobarometer) expectations: life in general
+2008,NL,50+,worse,20.66,pct,GESIS ZA4819 (Eurobarometer) expectations: life in general
+2009,NL,50+,worse,10.0,pct,GESIS ZA4994 (Eurobarometer) expectations: life in general
+2010,NL,50+,worse,15.83,pct,GESIS ZA5449 (Eurobarometer) expectations: life in general
+2011,NL,50+,worse,19.68,pct,GESIS ZA5567 (Eurobarometer) expectations: life in general
+2012,NL,50+,worse,25.39,pct,GESIS ZA5685 (Eurobarometer) expectations: life in general
+2013,NL,50+,worse,13.47,pct,GESIS ZA5876 (Eurobarometer) expectations: life in general
+2014,NL,50+,worse,10.62,pct,GESIS ZA5932 (Eurobarometer) expectations: life in general
+2015,NL,50+,worse,7.27,pct,GESIS ZA6643 (Eurobarometer) expectations: life in general
+2016,NL,50+,worse,5.69,pct,GESIS ZA6788 (Eurobarometer) expectations: life in general
+2017,NL,50+,worse,7.3,pct,GESIS ZA6928 (Eurobarometer) expectations: life in general
+2018,NL,50+,worse,4.83,pct,GESIS ZA7489 (Eurobarometer) expectations: life in general
+2019,NL,50+,worse,6.56,pct,GESIS ZA7601 (Eurobarometer) expectations: life in general
+2020,NL,50+,worse,9.67,pct,GESIS ZA7649 (Eurobarometer) expectations: life in general
+2021,NL,50+,worse,6.73,pct,GESIS ZA7780 (Eurobarometer) expectations: life in general
+2022,NL,50+,worse,16.76,pct,GESIS ZA7902 (Eurobarometer) expectations: life in general
+2023,NL,50+,worse,8.5,pct,GESIS ZA8779 (Eurobarometer) expectations: life in general
+2024,NL,50+,worse,8.09,pct,GESIS ZA8905 (Eurobarometer) expectations: life in general
+2025,NL,50+,worse,6.44,pct,GESIS ZA9130 (Eurobarometer) expectations: life in general

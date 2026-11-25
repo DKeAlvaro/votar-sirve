@@ -13,6 +13,7 @@ const COLORS = {
   "España": "#b3261e", "Holanda": "#f28e2b", "Media UE": "#8a8f98", "Portugal": "#3b7dd8",
   "Alemania": "#59a14f", "Francia": "#76b7b2", "Italia": "#af7aa1",
   "España <30": "#b3261e", "España 50+": "#e8a39e", "Holanda <30": "#f28e2b", "Holanda 50+": "#f9c999",
+  "España 18-29": "#b3261e", "Holanda 18-29": "#f28e2b",
 };
 const colorOf = (s, extra = {}) => extra[s] || COLORS[s] || COLORS[s.split(" (")[0]] || "#444";
 
@@ -44,18 +45,32 @@ function line(el, data, o = {}) {
   const marks = [];
   if (o.govs !== false) marks.push(...govLayer(xmin, xmax, ymin, ymax, width, o.lag ?? 0));
   if (o.shocks !== false) marks.push(Plot.ruleX(SHOCKS.filter((d) => d.x >= xmin && d.x <= xmax), { x: "x", stroke: "#aaa", strokeDasharray: "2,3" }));
+  if (o.breaks) marks.push(Plot.ruleX(o.breaks, { x: "x", stroke: "#666", strokeDasharray: "5,3" }),
+    Plot.text(o.breaks, { x: "x", y: ymin, text: "n", dx: 5, dy: -8, textAnchor: "start", fontSize: 10.5, fill: "#555" }));
   if (o.refY !== undefined) marks.push(Plot.ruleY([o.refY], { stroke: "#555", strokeDasharray: "4,3" }));
   marks.push(Plot.ruleY([ymin]));
-  marks.push(Plot.line(data, { x: "x", y: "y", z: "s", stroke: (d) => colorOf(d.s, o.colors), strokeWidth: 2.3, curve: "monotone-x" }));
+  marks.push(Plot.line(data, { x: "x", y: "y", z: "s", stroke: (d) => colorOf(d.s, o.colors), strokeWidth: 2.3, curve: o.curve ?? "monotone-x" }));
   if (o.dots) marks.push(Plot.dot(data, { x: "x", y: "y", fill: (d) => colorOf(d.s, o.colors), r: 3 }));
   marks.push(Plot.dot(data, Plot.pointer({ x: "x", y: "y", fill: (d) => colorOf(d.s, o.colors), r: 4.5 })));
   marks.push(Plot.tip(data, Plot.pointer({ x: "x", y: "y", title: (d) => `${d.s}\n${d.x}: ${fmt(d.y, o)}` })));
   const wide = width > 520;
+  const height = o.height ?? Math.round(Math.max(250, Math.min(390, width * 0.56)));
   if (o.endLabels !== false) {
-    marks.push(Plot.text(data, Plot.selectLast({ x: "x", y: "y", z: "s", text: (d) => d.s, fill: (d) => colorOf(d.s, o.colors), dx: 6, textAnchor: "start", fontSize: wide ? 11.5 : 10, fontWeight: 600 })));
+    // last point of each series, labels pushed apart so they never overlap (min ~13px)
+    const gap = ((ymax - ymin) * 13) / (height - 54);
+    const ends = [...d3.group(data.filter((d) => d.y != null && !Number.isNaN(d.y)), (d) => d.s)]
+      .map(([s, a]) => { const p = a.reduce((m, d) => (+d.x > +m.x ? d : m)); return { s, x: p.x, y: p.y, ly: p.y }; })
+      .sort((a, b) => a.ly - b.ly);
+    for (let i = 1; i < ends.length; i++) if (ends[i].ly < ends[i - 1].ly + gap) ends[i].ly = ends[i - 1].ly + gap;
+    const over = ends.length ? ends[ends.length - 1].ly - ymax : 0;
+    if (over > 0) {
+      ends.forEach((e) => (e.ly -= over));
+      for (let i = ends.length - 2; i >= 0; i--) if (ends[i].ly > ends[i + 1].ly - gap) ends[i].ly = ends[i + 1].ly - gap;
+    }
+    marks.push(Plot.text(ends, { x: "x", y: "ly", text: "s", fill: (d) => colorOf(d.s, o.colors), dx: 6, textAnchor: "start", fontSize: wide ? 11.5 : 10, fontWeight: 600 }));
   }
   el.replaceChildren(Plot.plot({
-    width, height: o.height ?? Math.round(Math.max(250, Math.min(390, width * 0.56))),
+    width, height,
     marginRight: o.endLabels === false ? 16 : wide ? (o.mr ?? 120) : (o.mrs ?? 84), marginTop: 24, marginLeft: o.ml ?? 48,
     style: { fontSize: wide ? "12px" : "10.5px" },
     x: { domain: [xmin, xmax], tickFormat: (d) => String(d), label: null, ticks: wide ? 9 : 4 },

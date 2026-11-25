@@ -184,6 +184,39 @@ def cB():
     print("cB hardwork <30:", x.round(1).to_dict())
 
 
+# ---------------------------------------------------------------- cA / cC (GESIS microdata)
+def cA():
+    a = rd("cA_expect")
+    name = {"ES": "España", "NL": "Holanda"}
+    out = []
+    for m, var in [("Esperan que el próximo año sea mejor", "better"), ("Esperan que sea peor", "worse")]:
+        x = a[(a.variable == var) & (a.date >= 1985)]
+        for (geo, grp), g in x.groupby(["geo", "group"]):
+            s = f"{name[geo]} {grp}"
+            g = g.sort_values("date").set_index("date").value
+            # 3-year centred mean inside each wording segment (1985-1994 'next year', 1995+ 'life in general')
+            sm = pd.concat([g[g.index <= 1994].rolling(3, center=True, min_periods=2).mean(),
+                            g[g.index >= 1995].rolling(3, center=True, min_periods=2).mean()])
+            for yr, v in sm.items():
+                out.append({"m": m, "x": int(yr), "y": round(v, 1), "raw": round(g[yr], 1), "s": s})
+            out.append({"m": m, "x": 1994.5, "y": None, "s": s})  # wording change: break the line
+    out.sort(key=lambda o: (o["m"], o["s"], o["x"]))
+    dump("cA", out)
+    p = a[a.variable == "better"].pivot_table(index="date", columns=["geo", "group"], values="value")
+    print("cA better:", p.loc[[1985, 1994, 1996, 2007, 2013, 2019, 2025]].round(1).to_string())
+
+
+def cC():
+    c = rd("cC_issp")
+    name = {"ES": "España", "NL": "Holanda", "DE": "Alemania", "PT": "Portugal", "FR": "Francia"}
+    out = []
+    for m, var in [("Prefiere trabajar para el Estado", "prefer_government"), ("Prefiere ser autónomo", "prefer_self_employed")]:
+        x = c[(c.variable == var) & (c.group == "18-29")]
+        for r in x.itertuples():
+            out.append({"m": m, "x": int(r.date), "y": round(r.value, 1), "s": name[r.geo]})
+    out.sort(key=lambda o: (o["m"], o["s"], o["x"]))
+    dump("cC", out)
+
 # ---------------------------------------------------------------- c05 panel (pre-registered test)
 GOVS = [(1982.92, 1996.33, "PSOE", "González"), (1996.33, 2004.33, "PP", "Aznar"), (2004.33, 2011.97, "PSOE", "Zapatero"),
         (2011.97, 2018.42, "PP", "Rajoy"), (2018.42, 2030.0, "PSOE", "Sánchez")]
@@ -330,7 +363,7 @@ def c12():
     dump("c12", out)
 
 
-BUILDERS = {"c01": c01, "c04": c04, "c07": c07, "c09": c09, "c12": c12, "c05": c05_labour, "c05p": c05_panel, "c08": c08, "c11": c11, "c13": c13_spend, "cB": cB}
+BUILDERS = {"c01": c01, "c04": c04, "c07": c07, "c09": c09, "c12": c12, "c05": c05_labour, "c05p": c05_panel, "c08": c08, "c11": c11, "c13": c13_spend, "cB": cB, "cA": cA, "cC": cC}
 
 
 

@@ -24,5 +24,8 @@ python -I scripts/common_cpi.py data/raw/common data/clean
 python -I scripts/build_site.py
 python -I scripts/build_c02_c03.py
 python -I scripts/build_c06.py
+# charts A and C need GESIS microdata (free login), see sources/cA.md and sources/cC.md
+python -I scripts/cAC_extract.py && python -I scripts/cA_eb_waves.py build && python -I scripts/cAC_clean.py
+python -I scripts/build_site.py cA cC
 python -m http.server 8765 -d docs
 ```

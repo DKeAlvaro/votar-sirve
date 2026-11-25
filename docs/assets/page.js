@@ -246,6 +246,40 @@ Habitantes: ${r.pop}` })),
     });
     el.insertAdjacentHTML("beforeend", GOVKEY);
   },
+  async cA(el) {
+    const d = await load("cA");
+    const ms = [...new Set(d.map((x) => x.m))].sort((a, b) => (a.includes("mejor") ? -1 : 1));
+    tabs(el, ms, (i, box) => {
+      const rows = d.filter((x) => x.m === ms[i]);
+      line(box, rows, { pct: true, ymin: 0, ymax: i === 0 ? 75 : 36, y: "% de cada grupo", mr: 112, mrs: 92,
+        breaks: [{ x: 1994.5, n: "cambia la pregunta" }] });
+    });
+    el.insertAdjacentHTML("beforeend", GOVKEY.replace("</p>", " · líneas: media de 3 años (cada oleada tiene unos ±7 puntos de margen)</p>"));
+  },
+  async cC(el) {
+    const d = await load("cC");
+    const ms = [...new Set(d.map((x) => x.m))].sort((a, b) => (a.includes("Estado") ? -1 : 1));
+    tabs(el, ms, (i, box) => {
+      const rows = d.filter((x) => x.m === ms[i]);
+      const order = ["España", "Francia", "Portugal", "Alemania", "Holanda"];
+      const width = box.clientWidth || 640;
+      const span = order.map((c) => { const v = rows.filter((r) => r.s === c).map((r) => r.y); return { s: c, a: Math.min(...v), b: Math.max(...v) }; });
+      const yc = { 1989: "#c9c9c9", 1997: "#8a8f98", 2005: "#1d1d1f" };
+      box.replaceChildren(Plot.plot({
+        width, height: 300, marginLeft: 76, marginRight: 20, marginTop: 30, marginBottom: 46,
+        style: { fontSize: width > 520 ? "12.5px" : "11px" },
+        x: { domain: [0, 85], grid: true, tickFormat: (v) => v + "%", label: "% de los jóvenes de 18-29 años que eligen esa opción", labelAnchor: "center", labelOffset: 40 },
+        y: { domain: order, label: null, tickFormat: (c) => c },
+        marks: [
+          Plot.link(span, { x1: "a", x2: "b", y1: "s", y2: "s", stroke: "#bbb", strokeWidth: 2 }),
+          Plot.dot(rows, { x: "y", y: "s", fill: (r) => yc[r.x], r: 6.5, stroke: "white", strokeWidth: 1.5 }),
+          ...[1989, 1997, 2005].map((yr) => Plot.text(rows.filter((r) => r.x === yr), { x: "y", y: "s", text: (r) => Math.round(r.y) + "%", dy: yr === 1997 ? 16 : -14, fontSize: 10.5, fontWeight: 600, fill: yr === 1989 ? "#9a9a9a" : yc[yr] })),
+          Plot.tip(rows, Plot.pointer({ x: "y", y: "s", title: (r) => `${r.s} ${r.x}: ${fmt(r.y, { pct: true })}` })),
+        ],
+      }));
+      box.insertAdjacentHTML("beforeend", `<div class="legend">${Object.entries(yc).map(([y, c]) => `<span class="lg"><i style="background:${c};border-radius:99px"></i>${y}</span>`).join("")}</div>`);
+    });
+  },
   async cB(el) {
     const d = await load("cB");
     const ms = [...new Set(d.map((x) => x.m))];

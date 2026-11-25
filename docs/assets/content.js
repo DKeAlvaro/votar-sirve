@@ -2,7 +2,7 @@
 const TLDR = `<p><b>El problema es real.</b> La mitad de los españoles de 25 a 34 años vive con sus padres (en Holanda, el 11%), y un piso de 80 m² cuesta 6 años de sueldo joven, frente a 4 en 1995.</p>
 <p><b>La etiqueta del partido explica poco.</b> Ningún indicador mejora de forma sistemática con un partido frente a su control. La emancipación y la vivienda siguen al ciclo económico, y el déficit de construcción lo comparten todos los gobiernos.</p>
 <p><b>Las leyes concretas sí mueven cosas, aunque a veces solo el papel.</b> La reforma laboral cambió el nombre de los contratos más que la estabilidad real. La subida del SMI de 2019 no dejó rastro de destrucción de empleo joven. Tras la reforma de cuotas de 2023 crecieron los autónomos jóvenes.</p>
-<p><b>Menos cultura y más reglas.</b> Emprender está peor visto en España, pero esa opinión se hundió con la crisis (en 2005 era mejor que en Alemania), y los jóvenes españoles creen en el esfuerzo tanto como los holandeses. Lo que separa de verdad a los dos países son reglas: ganando 0 €, un autónomo paga 2.471 € al año en España y 350 € en Holanda, y el 21% del coste de un sueldo va a pagar las pensiones actuales (en Holanda, el 3%). Querer ser funcionario es una apuesta racional: la plaza paga un 30-45% más.</p>
+<p><b>Menos cultura y más reglas.</b> Emprender está peor visto en España, pero esa opinión se hundió con la crisis (en 2005 era mejor que en Alemania), y los jóvenes españoles creen en el esfuerzo, esperan que les vaya mejor y quieren ser autónomos tanto como los holandeses. Lo que separa de verdad a los dos países son reglas: ganando 0 €, un autónomo paga 2.471 € al año en España y 350 € en Holanda, y el 21% del coste de un sueldo va a pagar las pensiones actuales (en Holanda, el 3%). Y aunque los jóvenes españoles prefieren el Estado mucho más que los holandeses (55% frente a 20% en 1997), querer ser funcionario es una apuesta racional: la plaza paga un 30-45% más.</p>
 <p><b>Y los jóvenes pesan cada vez menos en las urnas:</b> el 14% de los votos, frente al 25% de los mayores de 65, sobre todo por demografía.</p>
 <p><b>Veredicto:</b> votar PP o PSOE, por la etiqueta, cambia poco de lo que mide este estudio. Pero las reglas que más pesan sobre un joven (cuotas, pensiones, vivienda, contratos) se deciden por ley y se pueden cambiar. Lo que importa es qué medidas concretas apoya cada voto, más que el color del partido.</p>`;
 
@@ -164,17 +164,23 @@ const SECTIONS = [
   },
   {
     id: "esp", title: "5. Esperanza, esfuerzo y ambición",
-    intro: "La parte cualitativa: qué piensan los jóvenes. Solo preguntas con la misma redacción en todas las oleadas.",
+    intro: "La parte cualitativa: qué piensan los jóvenes, con microdatos de encuestas. Solo preguntas con la misma redacción en todas las oleadas (o con el cambio de redacción marcado).",
     cards: [
       {
-        id: "cA", verdict: "na", q: "¿Esperan los jóvenes que les vaya mejor?",
-        take: "No se puede responder con datos abiertos. Las preguntas existen desde los 80 (Eurobarómetro, CIS), pero los resultados por edad y país solo están en microdatos con registro.",
+        id: "cA", verdict: "ko", q: "¿Esperan los jóvenes que les vaya mejor?",
+        take: "Sí, y tanto como antes: en 2023-2025, el 55% de los españoles de 18 a 29 años espera que su vida vaya a mejor en los próximos doce meses. Es lo mismo que a finales de los 90 (55%) y casi lo mismo que en Holanda (57%). Lo que lo hunde son las crisis: en 2008-2013 bajó al 41%.",
         pred: "los jóvenes españoles son hoy menos optimistas que en los 80, y menos que los holandeses.",
         refute: "no son menos optimistas que entonces, o no menos que los holandeses.",
-        body: `<p>La pregunta del Eurobarómetro sobre si el año que viene será mejor o peor se hace desde 1980 (España desde 1985). Su redacción cambió en 1995 ("los próximos doce meses") y otra vez en 2020, así que hay dos tramos comparables: 1985-1994 y 1995-2019. El CIS pregunta por la situación económica personal dentro de un año, pero solo publica totales, sin cruce por edad.</p>
-        <p>Para hacer este gráfico hace falta una cuenta gratuita en GESIS (microdatos del Eurobarómetro) o pedir los microdatos al CIS por su formulario. Queda pendiente.</p>`,
-        src: "Detalle de preguntas, redacciones y accesos en <code>sources/cA.md</code> del repositorio.",
-        pending: "Sin datos abiertos por edad: pendiente de microdatos (GESIS / CIS)",
+        body: `<p>La pregunta del Eurobarómetro no ha cambiado desde 1995: "¿Qué espera de los próximos doce meses: serán mejores, peores o iguales en lo que se refiere a su vida en general?". Entre 1985 y 1994 se preguntaba algo parecido pero no igual ("¿el año que viene será mejor o peor que este?"), y la opción "igual" no se leía en voz alta. Por eso el gráfico corta en 1995: las comparaciones limpias son dentro de cada tramo y entre países en el mismo año.</p>
+        <p>La predicción falla en las dos partes:</p>
+        <ul>
+          <li><b>Hoy frente a antes:</b> con la misma pregunta, el 55% de los jóvenes españoles esperaba mejorar en 1995-1999, y el 55% en 2023-2025. Con la pregunta antigua, en 1985-1989 era el 45%.</li>
+          <li><b>Frente a Holanda:</b> 55% contra 57% en 2023-2025, una diferencia menor que el margen de error. En 2025, los españoles salen por encima (58% frente a 48%).</li>
+        </ul>
+        <p>Los que esperan que les vaya peor son pocos en los dos países: el 5% en España y el 9% en Holanda en 2023-2025.</p>
+        <p>Lo que sí se ve es el ciclo. El optimismo de los jóvenes españoles cayó del 60% (2002-2007) al 41% (2008-2013), mucho más que el de los holandeses, y luego se recuperó. Los cambios de gobierno no dejan una huella aparte. Los mayores de 50 son siempre bastante menos optimistas que los jóvenes, en los dos países.</p>
+        <p>Cautelas: cada oleada tiene unas 130-300 entrevistas de jóvenes españoles, lo que da un margen de unos ±7 puntos, así que conviene mirar varios años seguidos y no un punto suelto. En Holanda, entre 2014 y 2020 hay muy pocos jóvenes en la muestra (26-67 por oleada), así que esos años son sobre todo ruido. La pregunta mide el optimismo sobre la propia vida a un año vista, no sobre el país ni a largo plazo.</p>`,
+        src: "Fuentes: Mannheim Eurobarometer Trend File 1970-2002 (GESIS ZA3521, variable <code>better</code>, 1985-2001) y 27 oleadas del Eurobarómetro estándar de 1996 a 2025 (GESIS ZA2898 a ZA9130, pregunta \"expectations for the next twelve months: life in general\"), ponderadas por país. Lista de oleadas en <code>scripts/cAC_clean.py</code>.",
       },
       {
         id: "cB", verdict: "ko", q: "¿Creen que el esfuerzo merece la pena?",
@@ -187,14 +193,19 @@ const SECTIONS = [
         src: "Fuente: World Values Survey y European Values Study, ficheros integrados, por edad (ítems E040 \"trabajo duro vs suerte\" y E039 \"competencia buena vs dañina\"). España: 1990-2017; Holanda: 1990-2022.",
       },
       {
-        id: "cC", verdict: "na", q: "¿Dónde quieren trabajar?",
-        take: "No se puede responder: no existe una pregunta sobre empleo público, empresa privada o negocio propio repetida con la misma redacción desde 1984.",
+        id: "cC", verdict: "ko", q: "¿Dónde quieren trabajar?",
+        take: "En el único tramo con datos no sube: el 55% de los españoles de 18 a 29 años prefería trabajar para el Estado en 1997, y el 54% en 2005. Es mucho más que en Holanda (20% en 1997). Sin embargo, ser autónomo les atrae igual que a los holandeses (41% en los dos países).",
         pred: "más jóvenes quieren hoy un empleo público que en 1984.",
         refute: "igual o menos.",
-        body: `<p>Los Informes Juventud en España de 2020 y 2024 y la Encuesta de Juventud 2023 no preguntan por el sector preferido. El de 2020 pregunta por la "ocupación ideal", que no es comparable, y del informe de 1984 no hay versión digital con esa pregunta. Lo más parecido es el módulo de orientación laboral del ISSP (1997, 2005 y 2015, con registro en GESIS), que daría 1997-2015 y no 1984-2024.</p>
-        <p>Lo que sí se puede medir está en el gráfico 10: no hay más empleo público que en otros países, y la plaza paga bastante más que el sector privado.</p>`,
-        src: "Detalle de la búsqueda en <code>sources/cC.md</code> del repositorio.",
-        pending: "Sin pregunta comparable entre 1984 y 2024",
+        body: `<p>La pregunta es del ISSP, una encuesta internacional con un módulo sobre el trabajo, y tiene la misma redacción en 1989, 1997 y 2005: "Suponga que trabaja y puede elegir entre distintos tipos de empleo. ¿Cuál elegiría usted?". Se pregunta por dos pares de opciones: trabajar en una empresa privada o para la administración pública, y ser asalariado o trabajar por cuenta propia. Aquí se cuenta el porcentaje entre quienes eligen una de las dos opciones de cada par. España no entró hasta 1997 y en 2015 ya no se hicieron estas preguntas, así que el único tramo medible es 1997-2005, no 1984-2024 como pedía la predicción.</p>
+        <p>En ese tramo, la preferencia por lo público no sube (55% y 54%). Aplicando el criterio escrito antes de ver los datos, la predicción falla. Pero hay una salvedad importante: estos datos no dicen nada de la crisis de 2008 ni de hoy, que es justo cuando más se habla del boom de las oposiciones.</p>
+        <p>Lo interesante es el nivel:</p>
+        <ul>
+          <li><b>El Estado:</b> los jóvenes españoles lo prefieren mucho más que los holandeses (55% frente a 20% en 1997), y algo más que los alemanes (40%) o los portugueses (45%). Están en la línea de los franceses (60%). En 2005, la cifra holandesa sube al 39%, pero con solo 94 jóvenes en la muestra.</li>
+          <li><b>Ser autónomo:</b> les atrae igual que a los holandeses: el 41% en los dos países en 1997, y en 2005 el 38% frente al 28%.</li>
+        </ul>
+        <p>Esto encaja mejor con el gráfico 10, donde la plaza pública paga más, que con la idea de que en España no se quiere emprender.</p>`,
+        src: "Fuente: ISSP Work Orientations I-IV, fichero acumulado (GESIS ZA8797, variables v21 y v19), ponderado, 18-29 años. España: 1997 y 2005; Holanda y Alemania: 1989, 1997 y 2005; Portugal y Francia: 1997 y 2005. En 2015 no se hicieron estas dos preguntas.",
       },
     ],
   },
