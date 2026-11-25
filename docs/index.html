@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>¿Sirve de algo votar? Lo que dicen los datos para un joven en España</title>
+<meta name="description" content="Una tesis, predicciones escritas antes de mirar los datos y 16 gráficos con fuentes primarias: emancipación, vivienda, empleo, emprender, sanidad y pensiones. España frente a Holanda.">
+<meta property="og:title" content="¿Sirve de algo votar? Lo que dicen los datos">
+<meta property="og:description" content="Predicciones escritas antes de mirar los datos. 16 gráficos con fuentes primarias.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <p class="kicker">Estudio con datos · España vs Holanda</p>
+    <h1>¿Sirve de algo votar?</h1>
+    <p class="dek">La tesis: votar PP o PSOE no cambia lo que de verdad le importa a un joven (independizarse y emprender), porque los problemas son estructurales, tardan décadas y en parte son culturales. Escribí las predicciones <em>antes</em> de mirar los datos y las puse a prueba con fuentes primarias.</p>
+    <p class="byline">Álvaro Menéndez Ros · noviembre 2026 · <a href="https://github.com/DKeAlvaro/votar-sirve">datos y código</a> · <a href="https://github.com/DKeAlvaro/votar-sirve/blob/main/PLAN.md">predicciones (commit previo a los datos)</a></p>
+    <div class="score" id="score"></div>
+    <div class="tldr" id="tldr">
+      <h2>En corto</h2>
+      <div id="tldr-body"></div>
+    </div>
+    <nav class="toc">
+      <a href="#indep">Independizarse</a><a href="#gob">¿Cambia algo quién gobierna?</a><a href="#cult">¿Cultura o costes?</a><a href="#nl">España vs Holanda</a><a href="#esp">Esperanza y esfuerzo</a><a href="#metodo">Método</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap" id="main"></main>
+
+<footer class="wrap" id="metodo">
+  <h2>Método</h2>
+  <p><b>Predicciones antes que datos.</b> Cada gráfico tiene una predicción y un criterio de refutación escritos y guardados en git (<a href="https://github.com/DKeAlvaro/votar-sirve/blob/main/PLAN.md">PLAN.md</a>) antes de descargar ningún dato. El veredicto de cada tarjeta aplica ese criterio, aunque el resultado no guste.</p>
+  <p><b>Solo fuentes primarias.</b> INE, Eurostat, Seguridad Social, Ministerios, BOE, CBS, OCDE y microdatos de encuestas (WVS/EVS, GEM, CIS). Nada de cifras de periódicos o think tanks. Todo el dinero va en euros de 2025, deflactado con el IPC del INE.</p>
+  <p><b>Siempre con comparación.</b> Una línea sola no prueba nada: cada serie española va junto a Holanda, la media UE, Portugal u otro grupo de edad. El fondo de color marca quién gobernaba (rojo PSOE, azul PP) y las líneas punteadas las crisis (euro, 2008, covid), para no atribuirle a un gobierno lo que fue una crisis.</p>
+  <p><b>Límites.</b> Con solo seis cambios de gobierno desde 1982 y crisis que coinciden con ellos, las series largas describen pero no demuestran causas. Por eso están también los "antes y después" de leyes concretas. Todo lo que no se pudo medir bien está marcado como tal.</p>
+  <p class="src">Repositorio con datos limpios, scripts y notas de cada fuente: <a href="https://github.com/DKeAlvaro/votar-sirve">github.com/DKeAlvaro/votar-sirve</a>.</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6"></script>
+<script src="assets/charts.js"></script>
+<script src="assets/content.js"></script>
+<script src="assets/page.js"></script>
+</body>
+</html>

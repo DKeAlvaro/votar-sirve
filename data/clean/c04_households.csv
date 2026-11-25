@@ -1,0 +1,74 @@
+date,geo,group,variable,value,unit,source_id,note
+1999,ES,,households_stock,12949294,households,ine_epa_microdata_q2,own weighted count of reference persons (RELPP1=1) in EPA Q2 microdata; published table starts 2002
+2000,ES,,households_stock,13277766,households,ine_epa_microdata_q2,own weighted count of reference persons (RELPP1=1) in EPA Q2 microdata; published table starts 2002
+2000,ES,,households_change_yoy,328472,households,ine_epa_microdata_q2,
+2001,ES,,households_stock,13579090,households,ine_epa_microdata_q2,own weighted count of reference persons (RELPP1=1) in EPA Q2 microdata; published table starts 2002
+2001,ES,,households_change_yoy,301324,households,ine_epa_microdata_q2,
+2002,ES,,households_stock,14442600,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2002,ES,,households_change_yoy,863510,households,ine_epa_hogares_65269,SOURCE SWITCH ine_epa_microdata_q2 -> ine_epa_hogares_65269; not strictly comparable
+2003,ES,,households_stock,14877000,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2003,ES,,households_change_yoy,434400,households,ine_epa_hogares_65269,
+2004,ES,,households_stock,15266600,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2004,ES,,households_change_yoy,389600,households,ine_epa_hogares_65269,
+2005,ES,,households_stock,15708600,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2005,ES,,households_change_yoy,442000,households,ine_epa_hogares_65269,EPA 2005 questionnaire reform
+2006,ES,,households_stock,16120500,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2006,ES,,households_change_yoy,411900,households,ine_epa_hogares_65269,
+2007,ES,,households_stock,16581400,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2007,ES,,households_change_yoy,460900,households,ine_epa_hogares_65269,
+2008,ES,,households_stock,17020400,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2008,ES,,households_change_yoy,439000,households,ine_epa_hogares_65269,
+2009,ES,,households_stock,17348400,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2009,ES,,households_change_yoy,328000,households,ine_epa_hogares_65269,
+2010,ES,,households_stock,17610400,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2010,ES,,households_change_yoy,262000,households,ine_epa_hogares_65269,
+2011,ES,,households_stock,17862800,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2011,ES,,households_change_yoy,252400,households,ine_epa_hogares_65269,
+2012,ES,,households_stock,18067800,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2012,ES,,households_change_yoy,205000,households,ine_epa_hogares_65269,
+2013,ES,,households_stock,18204100,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2013,ES,,households_change_yoy,136300,households,ine_epa_hogares_65269,
+2014,ES,,households_stock,18331400,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2014,ES,,households_change_yoy,127300,households,ine_epa_hogares_65269,
+2015,ES,,households_stock,18367200,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2015,ES,,households_change_yoy,35800,households,ine_epa_hogares_65269,
+2016,ES,,households_stock,18426200,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2016,ES,,households_change_yoy,59000,households,ine_epa_hogares_65269,
+2017,ES,,households_stock,18505200,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2017,ES,,households_change_yoy,79000,households,ine_epa_hogares_65269,
+2018,ES,,households_stock,18562200,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2018,ES,,households_change_yoy,57000,households,ine_epa_hogares_65269,
+2019,ES,,households_stock,18677100,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2019,ES,,households_change_yoy,114900,households,ine_epa_hogares_65269,
+2020,ES,,households_stock,18784400,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2020,ES,,households_change_yoy,107300,households,ine_epa_hogares_65269,
+2021,ES,,households_stock,18704500,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2021,ES,,households_change_yoy,-79900,households,ine_epa_hogares_65269,"EPA 2021 new base (Census 2021 population, new questionnaire)"
+2022,ES,,households_stock,19039900,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2022,ES,,households_change_yoy,335400,households,ine_epa_hogares_65269,
+2023,ES,,households_stock,19345200,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2023,ES,,households_change_yoy,305300,households,ine_epa_hogares_65269,
+2024,ES,,households_stock,19494800,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2024,ES,,households_change_yoy,149600,households,ine_epa_hogares_65269,
+2025,ES,,households_stock,19744400,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2025,ES,,households_change_yoy,249600,households,ine_epa_hogares_65269,
+2026,ES,,households_stock,19998000,households,ine_epa_hogares_65269,"EPA published table 65269 (Hogares), Q2"
+2026,ES,,households_change_yoy,253600,households,ine_epa_hogares_65269,
+2020,ES,,households_ech_check,18689800,households,ine_ech_01001,"Encuesta Continua de Hogares 2014-2020, cross-check only"
+2019,ES,,households_ech_check,18580000,households,ine_ech_01001,"Encuesta Continua de Hogares 2014-2020, cross-check only"
+2018,ES,,households_ech_check,18503500,households,ine_ech_01001,"Encuesta Continua de Hogares 2014-2020, cross-check only"
+2017,ES,,households_ech_check,18441400,households,ine_ech_01001,"Encuesta Continua de Hogares 2014-2020, cross-check only"
+2016,ES,,households_ech_check,18378700,households,ine_ech_01001,"Encuesta Continua de Hogares 2014-2020, cross-check only"
+2015,ES,,households_ech_check,18328400,households,ine_ech_01001,"Encuesta Continua de Hogares 2014-2020, cross-check only"
+2014,ES,,households_ech_check,18252900,households,ine_ech_01001,"Encuesta Continua de Hogares 2014-2020, cross-check only"
+2026,ES,,households_ecp_check,19761683,households,ine_ecp_ECP355533,"INE ECP355533 households in family dwellings, 1 Jan, Provisional; cross-check only"
+2025,ES,,households_ecp_check,19520751,households,ine_ecp_ECP355533,"INE ECP355533 households in family dwellings, 1 Jan, Provisional; cross-check only"
+2024,ES,,households_ecp_check,19314437,households,ine_ecp_ECP355533,"INE ECP355533 households in family dwellings, 1 Jan, Provisional; cross-check only"
+2023,ES,,households_ecp_check,19102922,households,ine_ecp_ECP355533,"INE ECP355533 households in family dwellings, 1 Jan, Provisional; cross-check only"
+2022,ES,,households_ecp_check,18822068,households,ine_ecp_ECP355533,"INE ECP355533 households in family dwellings, 1 Jan, Provisional; cross-check only"
+2021,ES,,households_ecp_check,18539223,households,ine_ecp_ECP355533,"INE ECP355533 households in family dwellings, 1 Jan, Provisional; cross-check only"
+2022,ES,,households_change_yoy_ecp,282845,households,ine_ecp_ECP355533,change in 1 Jan stock; clean series across the 2021 EPA break
+2023,ES,,households_change_yoy_ecp,280854,households,ine_ecp_ECP355533,change in 1 Jan stock; clean series across the 2021 EPA break
+2024,ES,,households_change_yoy_ecp,211515,households,ine_ecp_ECP355533,change in 1 Jan stock; clean series across the 2021 EPA break
+2025,ES,,households_change_yoy_ecp,206314,households,ine_ecp_ECP355533,change in 1 Jan stock; clean series across the 2021 EPA break
+2026,ES,,households_change_yoy_ecp,240932,households,ine_ecp_ECP355533,change in 1 Jan stock; clean series across the 2021 EPA break

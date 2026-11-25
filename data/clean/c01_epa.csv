@@ -1,0 +1,514 @@
+date,geo,group,variable,value,unit,source_id
+1999-Q2,ES,25-29,share_living_with_parent_rel3,60.57,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,25-29,share_living_with_parent_any,62.25,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,25-29 M,share_living_with_parent_rel3,68.04,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,25-29 M,share_living_with_parent_any,70.01,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,25-29 F,share_living_with_parent_rel3,52.84,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,25-29 F,share_living_with_parent_any,54.23,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,30-34,share_living_with_parent_rel3,25.2,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,30-34,share_living_with_parent_any,26.73,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,30-34 M,share_living_with_parent_rel3,31.15,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,30-34 M,share_living_with_parent_any,32.33,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,30-34 F,share_living_with_parent_rel3,19.13,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,30-34 F,share_living_with_parent_any,21.01,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,25-34,share_living_with_parent_rel3,43.04,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,25-34,share_living_with_parent_any,44.64,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,25-34 M,share_living_with_parent_rel3,49.82,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,25-34 M,share_living_with_parent_any,51.4,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,25-34 F,share_living_with_parent_rel3,36.07,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,25-34 F,share_living_with_parent_any,37.7,% of persons in age band,ine_epa_microdata_q2
+1999-Q2,ES,,households_epa_microdata,12949294.0,households,ine_epa_microdata_q2
+2000-Q2,ES,25-29,share_living_with_parent_rel3,60.47,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,25-29,share_living_with_parent_any,61.93,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,25-29 M,share_living_with_parent_rel3,68.02,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,25-29 M,share_living_with_parent_any,69.53,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,25-29 F,share_living_with_parent_rel3,52.65,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,25-29 F,share_living_with_parent_any,54.05,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,30-34,share_living_with_parent_rel3,25.69,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,30-34,share_living_with_parent_any,26.82,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,30-34 M,share_living_with_parent_rel3,31.14,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,30-34 M,share_living_with_parent_any,32.07,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,30-34 F,share_living_with_parent_rel3,20.11,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,30-34 F,share_living_with_parent_any,21.44,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,25-34,share_living_with_parent_rel3,43.27,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,25-34,share_living_with_parent_any,44.56,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,25-34 M,share_living_with_parent_rel3,49.83,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,25-34 M,share_living_with_parent_any,51.06,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,25-34 F,share_living_with_parent_rel3,36.5,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,25-34 F,share_living_with_parent_any,37.86,% of persons in age band,ine_epa_microdata_q2
+2000-Q2,ES,,households_epa_microdata,13277766.0,households,ine_epa_microdata_q2
+2001-Q2,ES,25-29,share_living_with_parent_rel3,60.26,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,25-29,share_living_with_parent_any,61.88,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,25-29 M,share_living_with_parent_rel3,66.96,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,25-29 M,share_living_with_parent_any,68.77,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,25-29 F,share_living_with_parent_rel3,53.27,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,25-29 F,share_living_with_parent_any,54.69,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,30-34,share_living_with_parent_rel3,26.65,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,30-34,share_living_with_parent_any,27.84,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,30-34 M,share_living_with_parent_rel3,32.1,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,30-34 M,share_living_with_parent_any,33.42,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,30-34 F,share_living_with_parent_rel3,21.03,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,30-34 F,share_living_with_parent_any,22.1,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,25-34,share_living_with_parent_rel3,43.66,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,25-34,share_living_with_parent_any,45.07,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,25-34 M,share_living_with_parent_rel3,49.81,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,25-34 M,share_living_with_parent_any,51.37,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,25-34 F,share_living_with_parent_rel3,37.3,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,25-34 F,share_living_with_parent_any,38.54,% of persons in age band,ine_epa_microdata_q2
+2001-Q2,ES,,households_epa_microdata,13579090.0,households,ine_epa_microdata_q2
+2002-Q2,ES,25-29,share_living_with_parent_rel3,58.66,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,25-29,share_living_with_parent_any,60.11,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,25-29 M,share_living_with_parent_rel3,63.74,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,25-29 M,share_living_with_parent_any,65.37,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,25-29 F,share_living_with_parent_rel3,53.32,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,25-29 F,share_living_with_parent_any,54.59,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,30-34,share_living_with_parent_rel3,26.48,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,30-34,share_living_with_parent_any,27.71,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,30-34 M,share_living_with_parent_rel3,31.35,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,30-34 M,share_living_with_parent_any,32.61,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,30-34 F,share_living_with_parent_rel3,21.42,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,30-34 F,share_living_with_parent_any,22.63,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,25-34,share_living_with_parent_rel3,42.86,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,25-34,share_living_with_parent_any,44.2,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,25-34 M,share_living_with_parent_rel3,47.88,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,25-34 M,share_living_with_parent_any,49.33,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,25-34 F,share_living_with_parent_rel3,37.62,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,25-34 F,share_living_with_parent_any,38.85,% of persons in age band,ine_epa_microdata_q2
+2002-Q2,ES,,households_epa_microdata,14442643.0,households,ine_epa_microdata_q2
+2003-Q2,ES,25-29,share_living_with_parent_rel3,57.61,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,25-29,share_living_with_parent_any,59.52,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,25-29 M,share_living_with_parent_rel3,62.89,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,25-29 M,share_living_with_parent_any,64.66,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,25-29 F,share_living_with_parent_rel3,52.05,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,25-29 F,share_living_with_parent_any,54.11,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,30-34,share_living_with_parent_rel3,25.71,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,30-34,share_living_with_parent_any,26.95,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,30-34 M,share_living_with_parent_rel3,30.74,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,30-34 M,share_living_with_parent_any,31.83,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,30-34 F,share_living_with_parent_rel3,20.44,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,30-34 F,share_living_with_parent_any,21.83,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,25-34,share_living_with_parent_rel3,41.92,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,25-34,share_living_with_parent_any,43.5,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,25-34 M,share_living_with_parent_rel3,47.1,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,25-34 M,share_living_with_parent_any,48.54,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,25-34 F,share_living_with_parent_rel3,36.48,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,25-34 F,share_living_with_parent_any,38.21,% of persons in age band,ine_epa_microdata_q2
+2003-Q2,ES,,households_epa_microdata,14876989.0,households,ine_epa_microdata_q2
+2004-Q2,ES,25-29,share_living_with_parent_rel3,55.05,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,25-29,share_living_with_parent_any,56.69,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,25-29 M,share_living_with_parent_rel3,59.61,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,25-29 M,share_living_with_parent_any,61.3,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,25-29 F,share_living_with_parent_rel3,50.23,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,25-29 F,share_living_with_parent_any,51.82,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,30-34,share_living_with_parent_rel3,25.95,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,30-34,share_living_with_parent_any,27.32,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,30-34 M,share_living_with_parent_rel3,30.75,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,30-34 M,share_living_with_parent_any,32.17,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,30-34 F,share_living_with_parent_rel3,20.9,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,30-34 F,share_living_with_parent_any,22.2,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,25-34,share_living_with_parent_rel3,40.63,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,25-34,share_living_with_parent_any,42.13,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,25-34 M,share_living_with_parent_rel3,45.31,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,25-34 M,share_living_with_parent_any,46.87,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,25-34 F,share_living_with_parent_rel3,35.69,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,25-34 F,share_living_with_parent_any,37.14,% of persons in age band,ine_epa_microdata_q2
+2004-Q2,ES,,households_epa_microdata,15266608.0,households,ine_epa_microdata_q2
+2005-Q2,ES,25-29,share_living_with_parent_rel3,53.27,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,25-29,share_living_with_parent_any,55.23,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,25-29 M,share_living_with_parent_rel3,59.35,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,25-29 M,share_living_with_parent_any,61.4,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,25-29 F,share_living_with_parent_rel3,46.8,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,25-29 F,share_living_with_parent_any,48.66,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,30-34,share_living_with_parent_rel3,24.26,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,30-34,share_living_with_parent_any,25.97,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,30-34 M,share_living_with_parent_rel3,28.26,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,30-34 M,share_living_with_parent_any,30.05,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,30-34 F,share_living_with_parent_rel3,19.99,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,30-34 F,share_living_with_parent_any,21.63,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,25-34,share_living_with_parent_rel3,38.71,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,25-34,share_living_with_parent_any,40.54,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,25-34 M,share_living_with_parent_rel3,43.73,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,25-34 M,share_living_with_parent_any,45.65,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,25-34 F,share_living_with_parent_rel3,33.35,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,25-34 F,share_living_with_parent_any,35.09,% of persons in age band,ine_epa_microdata_q2
+2005-Q2,ES,,households_epa_microdata,15708610.0,households,ine_epa_microdata_q2
+2006-Q2,ES,25-29,share_living_with_parent_rel3,52.29,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,25-29,share_living_with_parent_any,54.13,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,25-29 M,share_living_with_parent_rel3,58.87,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,25-29 M,share_living_with_parent_any,60.71,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,25-29 F,share_living_with_parent_rel3,45.3,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,25-29 F,share_living_with_parent_any,47.13,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,30-34,share_living_with_parent_rel3,23.01,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,30-34,share_living_with_parent_any,24.75,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,30-34 M,share_living_with_parent_rel3,25.86,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,30-34 M,share_living_with_parent_any,27.87,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,30-34 F,share_living_with_parent_rel3,19.97,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,30-34 F,share_living_with_parent_any,21.41,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,25-34,share_living_with_parent_rel3,37.33,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,25-34,share_living_with_parent_any,39.11,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,25-34 M,share_living_with_parent_rel3,41.97,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,25-34 M,share_living_with_parent_any,43.9,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,25-34 F,share_living_with_parent_rel3,32.37,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,25-34 F,share_living_with_parent_any,34.0,% of persons in age band,ine_epa_microdata_q2
+2006-Q2,ES,,households_epa_microdata,16120522.0,households,ine_epa_microdata_q2
+2007-Q2,ES,25-29,share_living_with_parent_rel3,48.98,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,25-29,share_living_with_parent_any,51.48,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,25-29 M,share_living_with_parent_rel3,54.83,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,25-29 M,share_living_with_parent_any,57.16,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,25-29 F,share_living_with_parent_rel3,42.77,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,25-29 F,share_living_with_parent_any,45.46,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,30-34,share_living_with_parent_rel3,22.08,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,30-34,share_living_with_parent_any,24.05,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,30-34 M,share_living_with_parent_rel3,25.65,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,30-34 M,share_living_with_parent_any,27.81,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,30-34 F,share_living_with_parent_rel3,18.25,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,30-34 F,share_living_with_parent_any,20.02,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,25-34,share_living_with_parent_rel3,34.97,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,25-34,share_living_with_parent_any,37.2,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,25-34 M,share_living_with_parent_rel3,39.59,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,25-34 M,share_living_with_parent_any,41.84,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,25-34 F,share_living_with_parent_rel3,30.04,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,25-34 F,share_living_with_parent_any,32.24,% of persons in age band,ine_epa_microdata_q2
+2007-Q2,ES,,households_epa_microdata,16581384.0,households,ine_epa_microdata_q2
+2008-Q2,ES,25-29,share_living_with_parent_rel3,47.51,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,25-29,share_living_with_parent_any,49.78,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,25-29 M,share_living_with_parent_rel3,53.98,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,25-29 M,share_living_with_parent_any,56.29,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,25-29 F,share_living_with_parent_rel3,40.66,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,25-29 F,share_living_with_parent_any,42.9,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,30-34,share_living_with_parent_rel3,21.9,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,30-34,share_living_with_parent_any,23.64,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,30-34 M,share_living_with_parent_rel3,25.31,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,30-34 M,share_living_with_parent_any,26.96,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,30-34 F,share_living_with_parent_rel3,18.23,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,30-34 F,share_living_with_parent_any,20.06,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,25-34,share_living_with_parent_rel3,33.92,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,25-34,share_living_with_parent_any,35.91,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,25-34 M,share_living_with_parent_rel3,38.71,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,25-34 M,share_living_with_parent_any,40.66,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,25-34 F,share_living_with_parent_rel3,28.8,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,25-34 F,share_living_with_parent_any,30.83,% of persons in age band,ine_epa_microdata_q2
+2008-Q2,ES,,households_epa_microdata,17020396.0,households,ine_epa_microdata_q2
+2009-Q2,ES,25-29,share_living_with_parent_rel3,47.09,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,25-29,share_living_with_parent_any,49.14,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,25-29 M,share_living_with_parent_rel3,53.25,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,25-29 M,share_living_with_parent_any,55.46,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,25-29 F,share_living_with_parent_rel3,40.64,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,25-29 F,share_living_with_parent_any,42.52,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,30-34,share_living_with_parent_rel3,20.66,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,30-34,share_living_with_parent_any,22.22,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,30-34 M,share_living_with_parent_rel3,24.54,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,30-34 M,share_living_with_parent_any,26.04,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,30-34 F,share_living_with_parent_rel3,16.5,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,30-34 F,share_living_with_parent_any,18.12,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,25-34,share_living_with_parent_rel3,32.79,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,25-34,share_living_with_parent_any,34.57,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,25-34 M,share_living_with_parent_rel3,37.64,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,25-34 M,share_living_with_parent_any,39.47,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,25-34 F,share_living_with_parent_rel3,27.64,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,25-34 F,share_living_with_parent_any,29.39,% of persons in age band,ine_epa_microdata_q2
+2009-Q2,ES,,households_epa_microdata,17348433.0,households,ine_epa_microdata_q2
+2010-Q2,ES,25-29,share_living_with_parent_rel3,46.85,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,25-29,share_living_with_parent_any,49.23,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,25-29 M,share_living_with_parent_rel3,54.64,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,25-29 M,share_living_with_parent_any,56.96,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,25-29 F,share_living_with_parent_rel3,38.8,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,25-29 F,share_living_with_parent_any,41.23,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,30-34,share_living_with_parent_rel3,20.31,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,30-34,share_living_with_parent_any,21.95,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,30-34 M,share_living_with_parent_rel3,23.87,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,30-34 M,share_living_with_parent_any,25.7,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,30-34 F,share_living_with_parent_rel3,16.53,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,30-34 F,share_living_with_parent_any,17.97,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,25-34,share_living_with_parent_rel3,32.27,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,25-34,share_living_with_parent_any,34.24,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,25-34 M,share_living_with_parent_rel3,37.64,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,25-34 M,share_living_with_parent_any,39.69,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,25-34 F,share_living_with_parent_rel3,26.64,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,25-34 F,share_living_with_parent_any,28.52,% of persons in age band,ine_epa_microdata_q2
+2010-Q2,ES,,households_epa_microdata,17610368.0,households,ine_epa_microdata_q2
+2011-Q2,ES,25-29,share_living_with_parent_rel3,46.25,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,25-29,share_living_with_parent_any,49.23,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,25-29 M,share_living_with_parent_rel3,53.74,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,25-29 M,share_living_with_parent_any,56.88,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,25-29 F,share_living_with_parent_rel3,38.6,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,25-29 F,share_living_with_parent_any,41.41,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,30-34,share_living_with_parent_rel3,20.36,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,30-34,share_living_with_parent_any,22.42,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,30-34 M,share_living_with_parent_rel3,25.37,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,30-34 M,share_living_with_parent_any,27.65,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,30-34 F,share_living_with_parent_rel3,15.11,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,30-34 F,share_living_with_parent_any,16.93,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,25-34,share_living_with_parent_rel3,31.86,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,25-34,share_living_with_parent_any,34.33,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,25-34 M,share_living_with_parent_rel3,37.88,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,25-34 M,share_living_with_parent_any,40.54,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,25-34 F,share_living_with_parent_rel3,25.62,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,25-34 F,share_living_with_parent_any,27.89,% of persons in age band,ine_epa_microdata_q2
+2011-Q2,ES,,households_epa_microdata,17862821.0,households,ine_epa_microdata_q2
+2012-Q2,ES,25-29,share_living_with_parent_rel3,49.03,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,25-29,share_living_with_parent_any,51.65,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,25-29 M,share_living_with_parent_rel3,56.28,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,25-29 M,share_living_with_parent_any,58.94,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,25-29 F,share_living_with_parent_rel3,41.73,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,25-29 F,share_living_with_parent_any,44.31,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,30-34,share_living_with_parent_rel3,20.84,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,30-34,share_living_with_parent_any,23.05,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,30-34 M,share_living_with_parent_rel3,26.29,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,30-34 M,share_living_with_parent_any,28.38,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,30-34 F,share_living_with_parent_rel3,15.19,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,30-34 F,share_living_with_parent_any,17.52,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,25-34,share_living_with_parent_rel3,33.28,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,25-34,share_living_with_parent_any,35.67,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,25-34 M,share_living_with_parent_rel3,39.41,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,25-34 M,share_living_with_parent_any,41.75,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,25-34 F,share_living_with_parent_rel3,26.99,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,25-34 F,share_living_with_parent_any,29.43,% of persons in age band,ine_epa_microdata_q2
+2012-Q2,ES,,households_epa_microdata,18067849.0,households,ine_epa_microdata_q2
+2013-Q2,ES,25-29,share_living_with_parent_rel3,48.86,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,25-29,share_living_with_parent_any,51.51,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,25-29 M,share_living_with_parent_rel3,55.99,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,25-29 M,share_living_with_parent_any,58.83,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,25-29 F,share_living_with_parent_rel3,41.73,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,25-29 F,share_living_with_parent_any,44.19,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,30-34,share_living_with_parent_rel3,21.75,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,30-34,share_living_with_parent_any,23.99,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,30-34 M,share_living_with_parent_rel3,27.03,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,30-34 M,share_living_with_parent_any,29.66,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,30-34 F,share_living_with_parent_rel3,16.36,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,30-34 F,share_living_with_parent_any,18.21,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,25-34,share_living_with_parent_rel3,33.7,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,25-34,share_living_with_parent_any,36.12,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,25-34 M,share_living_with_parent_rel3,39.74,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,25-34 M,share_living_with_parent_any,42.45,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,25-34 F,share_living_with_parent_rel3,27.6,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,25-34 F,share_living_with_parent_any,29.72,% of persons in age band,ine_epa_microdata_q2
+2013-Q2,ES,,households_epa_microdata,18204147.0,households,ine_epa_microdata_q2
+2014-Q2,ES,25-29,share_living_with_parent_rel3,48.88,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,25-29,share_living_with_parent_any,52.17,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,25-29 M,share_living_with_parent_rel3,56.87,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,25-29 M,share_living_with_parent_any,60.3,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,25-29 F,share_living_with_parent_rel3,40.92,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,25-29 F,share_living_with_parent_any,44.07,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,30-34,share_living_with_parent_rel3,22.2,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,30-34,share_living_with_parent_any,24.3,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,30-34 M,share_living_with_parent_rel3,27.12,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,30-34 M,share_living_with_parent_any,29.54,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,30-34 F,share_living_with_parent_rel3,17.25,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,30-34 F,share_living_with_parent_any,19.03,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,25-34,share_living_with_parent_rel3,34.04,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,25-34,share_living_with_parent_any,36.67,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,25-34 M,share_living_with_parent_rel3,40.28,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,25-34 M,share_living_with_parent_any,43.15,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,25-34 F,share_living_with_parent_rel3,27.78,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,25-34 F,share_living_with_parent_any,30.17,% of persons in age band,ine_epa_microdata_q2
+2014-Q2,ES,,households_epa_microdata,18331352.0,households,ine_epa_microdata_q2
+2015-Q2,ES,25-29,share_living_with_parent_rel3,52.2,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,25-29,share_living_with_parent_any,54.89,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,25-29 M,share_living_with_parent_rel3,60.52,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,25-29 M,share_living_with_parent_any,63.54,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,25-29 F,share_living_with_parent_rel3,43.91,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,25-29 F,share_living_with_parent_any,46.28,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,30-34,share_living_with_parent_rel3,22.69,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,30-34,share_living_with_parent_any,24.5,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,30-34 M,share_living_with_parent_rel3,27.86,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,30-34 M,share_living_with_parent_any,29.98,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,30-34 F,share_living_with_parent_rel3,17.52,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,30-34 F,share_living_with_parent_any,19.02,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,25-34,share_living_with_parent_rel3,35.9,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,25-34,share_living_with_parent_any,38.11,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,25-34 M,share_living_with_parent_rel3,42.46,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,25-34 M,share_living_with_parent_any,44.99,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,25-34 F,share_living_with_parent_rel3,29.36,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,25-34 F,share_living_with_parent_any,31.25,% of persons in age band,ine_epa_microdata_q2
+2015-Q2,ES,,households_epa_microdata,18367161.0,households,ine_epa_microdata_q2
+2016-Q2,ES,25-29,share_living_with_parent_rel3,53.39,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,25-29,share_living_with_parent_any,56.44,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,25-29 M,share_living_with_parent_rel3,61.05,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,25-29 M,share_living_with_parent_any,64.18,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,25-29 F,share_living_with_parent_rel3,45.77,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,25-29 F,share_living_with_parent_any,48.73,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,30-34,share_living_with_parent_rel3,23.29,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,30-34,share_living_with_parent_any,25.36,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,30-34 M,share_living_with_parent_rel3,28.75,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,30-34 M,share_living_with_parent_any,30.92,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,30-34 F,share_living_with_parent_rel3,17.88,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,30-34 F,share_living_with_parent_any,19.86,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,25-34,share_living_with_parent_rel3,36.98,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,25-34,share_living_with_parent_any,39.49,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,25-34 M,share_living_with_parent_rel3,43.46,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,25-34 M,share_living_with_parent_any,46.07,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,25-34 F,share_living_with_parent_rel3,30.54,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,25-34 F,share_living_with_parent_any,32.96,% of persons in age band,ine_epa_microdata_q2
+2016-Q2,ES,,households_epa_microdata,18426207.0,households,ine_epa_microdata_q2
+2017-Q2,ES,25-29,share_living_with_parent_rel3,53.74,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,25-29,share_living_with_parent_any,56.58,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,25-29 M,share_living_with_parent_rel3,60.26,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,25-29 M,share_living_with_parent_any,63.45,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,25-29 F,share_living_with_parent_rel3,47.22,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,25-29 F,share_living_with_parent_any,49.7,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,30-34,share_living_with_parent_rel3,24.34,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,30-34,share_living_with_parent_any,26.26,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,30-34 M,share_living_with_parent_rel3,29.22,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,30-34 M,share_living_with_parent_any,31.47,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,30-34 F,share_living_with_parent_rel3,19.52,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,30-34 F,share_living_with_parent_any,21.12,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,25-34,share_living_with_parent_rel3,37.92,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,25-34,share_living_with_parent_any,40.27,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,25-34 M,share_living_with_parent_rel3,43.62,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,25-34 M,share_living_with_parent_any,46.31,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,25-34 F,share_living_with_parent_rel3,32.26,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,25-34 F,share_living_with_parent_any,34.26,% of persons in age band,ine_epa_microdata_q2
+2017-Q2,ES,,households_epa_microdata,18505168.0,households,ine_epa_microdata_q2
+2018-Q2,ES,25-29,share_living_with_parent_rel3,53.58,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,25-29,share_living_with_parent_any,56.66,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,25-29 M,share_living_with_parent_rel3,59.92,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,25-29 M,share_living_with_parent_any,63.39,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,25-29 F,share_living_with_parent_rel3,47.21,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,25-29 F,share_living_with_parent_any,49.9,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,30-34,share_living_with_parent_rel3,25.28,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,30-34,share_living_with_parent_any,27.45,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,30-34 M,share_living_with_parent_rel3,30.66,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,30-34 M,share_living_with_parent_any,33.13,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,30-34 F,share_living_with_parent_rel3,19.98,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,30-34 F,share_living_with_parent_any,21.85,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,25-34,share_living_with_parent_rel3,38.58,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,25-34,share_living_with_parent_any,41.17,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,25-34 M,share_living_with_parent_rel3,44.49,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,25-34 M,share_living_with_parent_any,47.43,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,25-34 F,share_living_with_parent_rel3,32.7,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,25-34 F,share_living_with_parent_any,34.95,% of persons in age band,ine_epa_microdata_q2
+2018-Q2,ES,,households_epa_microdata,18562165.0,households,ine_epa_microdata_q2
+2019-Q2,ES,25-29,share_living_with_parent_rel3,54.84,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,25-29,share_living_with_parent_any,57.96,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,25-29 M,share_living_with_parent_rel3,61.53,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,25-29 M,share_living_with_parent_any,64.54,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,25-29 F,share_living_with_parent_rel3,48.07,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,25-29 F,share_living_with_parent_any,51.29,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,30-34,share_living_with_parent_rel3,25.3,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,30-34,share_living_with_parent_any,27.68,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,30-34 M,share_living_with_parent_rel3,31.08,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,30-34 M,share_living_with_parent_any,33.18,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,30-34 F,share_living_with_parent_rel3,19.58,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,30-34 F,share_living_with_parent_any,22.24,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,25-34,share_living_with_parent_rel3,39.33,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,25-34,share_living_with_parent_any,42.06,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,25-34 M,share_living_with_parent_rel3,45.63,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,25-34 M,share_living_with_parent_any,48.17,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,25-34 F,share_living_with_parent_rel3,33.02,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,25-34 F,share_living_with_parent_any,35.94,% of persons in age band,ine_epa_microdata_q2
+2019-Q2,ES,,households_epa_microdata,18677130.0,households,ine_epa_microdata_q2
+2020-Q2,ES,25-29,share_living_with_parent_rel3,56.29,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,25-29,share_living_with_parent_any,59.45,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,25-29 M,share_living_with_parent_rel3,63.54,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,25-29 M,share_living_with_parent_any,66.84,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,25-29 F,share_living_with_parent_rel3,48.91,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,25-29 F,share_living_with_parent_any,51.93,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,30-34,share_living_with_parent_rel3,26.7,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,30-34,share_living_with_parent_any,29.01,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,30-34 M,share_living_with_parent_rel3,32.46,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,30-34 M,share_living_with_parent_any,34.86,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,30-34 F,share_living_with_parent_rel3,20.97,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,30-34 F,share_living_with_parent_any,23.2,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,25-34,share_living_with_parent_rel3,40.85,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,25-34,share_living_with_parent_any,43.57,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,25-34 M,share_living_with_parent_rel3,47.42,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,25-34 M,share_living_with_parent_any,50.25,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,25-34 F,share_living_with_parent_rel3,34.25,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,25-34 F,share_living_with_parent_any,36.86,% of persons in age band,ine_epa_microdata_q2
+2020-Q2,ES,,households_epa_microdata,18784355.0,households,ine_epa_microdata_q2
+2021-Q2,ES,25-29,share_living_with_parent_rel3,59.88,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,25-29,share_living_with_parent_any,63.71,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,25-29 M,share_living_with_parent_rel3,65.75,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,25-29 M,share_living_with_parent_any,70.26,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,25-29 F,share_living_with_parent_rel3,53.89,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,25-29 F,share_living_with_parent_any,57.01,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,30-34,share_living_with_parent_rel3,27.0,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,30-34,share_living_with_parent_any,31.47,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,30-34 M,share_living_with_parent_rel3,32.68,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,30-34 M,share_living_with_parent_any,37.2,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,30-34 F,share_living_with_parent_rel3,21.34,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,30-34 F,share_living_with_parent_any,25.75,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,25-34,share_living_with_parent_rel3,42.78,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,25-34,share_living_with_parent_any,46.93,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,25-34 M,share_living_with_parent_rel3,48.65,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,25-34 M,share_living_with_parent_any,53.17,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,25-34 F,share_living_with_parent_rel3,36.85,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,25-34 F,share_living_with_parent_any,40.65,% of persons in age band,ine_epa_microdata_q2
+2021-Q2,ES,,households_epa_microdata,18896527.0,households,ine_epa_microdata_q2
+2022-Q2,ES,25-29,share_living_with_parent_rel3,57.4,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,25-29,share_living_with_parent_any,61.58,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,25-29 M,share_living_with_parent_rel3,61.91,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,25-29 M,share_living_with_parent_any,66.47,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,25-29 F,share_living_with_parent_rel3,52.78,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,25-29 F,share_living_with_parent_any,56.57,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,30-34,share_living_with_parent_rel3,25.53,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,30-34,share_living_with_parent_any,30.92,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,30-34 M,share_living_with_parent_rel3,30.78,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,30-34 M,share_living_with_parent_any,36.44,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,30-34 F,share_living_with_parent_rel3,20.27,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,30-34 F,share_living_with_parent_any,25.4,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,25-34,share_living_with_parent_rel3,40.84,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,25-34,share_living_with_parent_any,45.65,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,25-34 M,share_living_with_parent_rel3,45.83,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,25-34 M,share_living_with_parent_any,50.95,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,25-34 F,share_living_with_parent_rel3,35.79,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,25-34 F,share_living_with_parent_any,40.28,% of persons in age band,ine_epa_microdata_q2
+2022-Q2,ES,,households_epa_microdata,19080111.0,households,ine_epa_microdata_q2
+2023-Q2,ES,25-29,share_living_with_parent_rel3,58.09,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,25-29,share_living_with_parent_any,62.2,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,25-29 M,share_living_with_parent_rel3,63.09,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,25-29 M,share_living_with_parent_any,67.52,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,25-29 F,share_living_with_parent_rel3,52.92,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,25-29 F,share_living_with_parent_any,56.69,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,30-34,share_living_with_parent_rel3,25.06,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,30-34,share_living_with_parent_any,30.16,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,30-34 M,share_living_with_parent_rel3,29.52,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,30-34 M,share_living_with_parent_any,34.95,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,30-34 F,share_living_with_parent_rel3,20.56,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,30-34 F,share_living_with_parent_any,25.32,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,25-34,share_living_with_parent_rel3,40.91,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,25-34,share_living_with_parent_any,45.53,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,25-34 M,share_living_with_parent_rel3,45.71,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,25-34 M,share_living_with_parent_any,50.65,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,25-34 F,share_living_with_parent_rel3,36.0,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,25-34 F,share_living_with_parent_any,40.29,% of persons in age band,ine_epa_microdata_q2
+2023-Q2,ES,,households_epa_microdata,19345162.0,households,ine_epa_microdata_q2
+2024-Q2,ES,25-29,share_living_with_parent_rel3,58.98,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,25-29,share_living_with_parent_any,63.58,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,25-29 M,share_living_with_parent_rel3,63.33,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,25-29 M,share_living_with_parent_any,67.91,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,25-29 F,share_living_with_parent_rel3,54.46,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,25-29 F,share_living_with_parent_any,59.08,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,30-34,share_living_with_parent_rel3,24.42,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,30-34,share_living_with_parent_any,30.14,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,30-34 M,share_living_with_parent_rel3,28.38,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,30-34 M,share_living_with_parent_any,33.58,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,30-34 F,share_living_with_parent_rel3,20.38,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,30-34 F,share_living_with_parent_any,26.64,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,25-34,share_living_with_parent_rel3,41.07,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,25-34,share_living_with_parent_any,46.25,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,25-34 M,share_living_with_parent_rel3,45.29,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,25-34 M,share_living_with_parent_any,50.19,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,25-34 F,share_living_with_parent_rel3,36.72,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,25-34 F,share_living_with_parent_any,42.19,% of persons in age band,ine_epa_microdata_q2
+2024-Q2,ES,,households_epa_microdata,19494825.0,households,ine_epa_microdata_q2
+2025-Q2,ES,25-29,share_living_with_parent_rel3,55.94,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,25-29,share_living_with_parent_any,61.4,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,25-29 M,share_living_with_parent_rel3,61.95,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,25-29 M,share_living_with_parent_any,68.04,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,25-29 F,share_living_with_parent_rel3,49.64,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,25-29 F,share_living_with_parent_any,54.45,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,30-34,share_living_with_parent_rel3,24.96,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,30-34,share_living_with_parent_any,31.57,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,30-34 M,share_living_with_parent_rel3,29.63,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,30-34 M,share_living_with_parent_any,36.72,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,30-34 F,share_living_with_parent_rel3,20.15,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,30-34 F,share_living_with_parent_any,26.25,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,25-34,share_living_with_parent_rel3,40.01,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,25-34,share_living_with_parent_any,46.06,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,25-34 M,share_living_with_parent_rel3,45.4,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,25-34 M,share_living_with_parent_any,52.0,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,25-34 F,share_living_with_parent_rel3,34.41,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,25-34 F,share_living_with_parent_any,39.89,% of persons in age band,ine_epa_microdata_q2
+2025-Q2,ES,,households_epa_microdata,19744436.0,households,ine_epa_microdata_q2

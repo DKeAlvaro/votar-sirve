@@ -1,0 +1,510 @@
+date,geo,group,variable,value,unit,source_id
+1982,ES,18+,n_valid,2348,respondents (unweighted),cis_1327
+1982,ES,18-24,n_valid,368,respondents (unweighted),cis_1327
+1982,ES,18-29,n_valid,596,respondents (unweighted),cis_1327
+1982,ES,25-29,n_valid,228,respondents (unweighted),cis_1327
+1982,ES,30-34,n_valid,248,respondents (unweighted),cis_1327
+1982,ES,30-44,n_valid,698,respondents (unweighted),cis_1327
+1982,ES,35-44,n_valid,450,respondents (unweighted),cis_1327
+1982,ES,45-54,n_valid,410,respondents (unweighted),cis_1327
+1982,ES,45-64,n_valid,716,respondents (unweighted),cis_1327
+1982,ES,55-64,n_valid,306,respondents (unweighted),cis_1327
+1982,ES,65+,n_valid,338,respondents (unweighted),cis_1327
+1982,ES,65-74,n_valid,250,respondents (unweighted),cis_1327
+1982,ES,75+,n_valid,88,respondents (unweighted),cis_1327
+1982,ES,all,official_turnout_incl_cera_pct,79.97,% of census incl. CERA abroad,interior_Elecciones-Congreso
+1982,ES,all,official_turnout_pct,79.97,"% of resident census (CER), headline",interior_Elecciones-Congreso
+1982,ES,18+,self_reported_turnout_pct_unweighted,88.5,% of valid answers,cis_1327
+1982,ES,18-24,self_reported_turnout_pct_unweighted,80.43,% of valid answers,cis_1327
+1982,ES,18-29,self_reported_turnout_pct_unweighted,81.54,% of valid answers,cis_1327
+1982,ES,25-29,self_reported_turnout_pct_unweighted,83.33,% of valid answers,cis_1327
+1982,ES,30-34,self_reported_turnout_pct_unweighted,89.11,% of valid answers,cis_1327
+1982,ES,30-44,self_reported_turnout_pct_unweighted,91.69,% of valid answers,cis_1327
+1982,ES,35-44,self_reported_turnout_pct_unweighted,93.11,% of valid answers,cis_1327
+1982,ES,45-54,self_reported_turnout_pct_unweighted,92.2,% of valid answers,cis_1327
+1982,ES,45-64,self_reported_turnout_pct_unweighted,92.74,% of valid answers,cis_1327
+1982,ES,55-64,self_reported_turnout_pct_unweighted,93.46,% of valid answers,cis_1327
+1982,ES,65+,self_reported_turnout_pct_unweighted,85.21,% of valid answers,cis_1327
+1982,ES,65-74,self_reported_turnout_pct_unweighted,84.8,% of valid answers,cis_1327
+1982,ES,75+,self_reported_turnout_pct_unweighted,86.36,% of valid answers,cis_1327
+1986,ES,18+,n_valid,8207,respondents (unweighted),cis_1542
+1986,ES,18-24,n_valid,1368,respondents (unweighted),cis_1542
+1986,ES,18-29,n_valid,2176,respondents (unweighted),cis_1542
+1986,ES,25-29,n_valid,808,respondents (unweighted),cis_1542
+1986,ES,30-34,n_valid,753,respondents (unweighted),cis_1542
+1986,ES,30-44,n_valid,2102,respondents (unweighted),cis_1542
+1986,ES,35-44,n_valid,1349,respondents (unweighted),cis_1542
+1986,ES,45-54,n_valid,1446,respondents (unweighted),cis_1542
+1986,ES,45-64,n_valid,2605,respondents (unweighted),cis_1542
+1986,ES,55-64,n_valid,1159,respondents (unweighted),cis_1542
+1986,ES,65+,n_valid,1324,respondents (unweighted),cis_1542
+1986,ES,65-74,n_valid,974,respondents (unweighted),cis_1542
+1986,ES,75+,n_valid,350,respondents (unweighted),cis_1542
+1986,ES,all,official_turnout_incl_cera_pct,70.49,% of census incl. CERA abroad,interior_Elecciones-Congreso
+1986,ES,all,official_turnout_pct,70.93,"% of resident census (CER), headline",interior_Elecciones-Congreso
+1986,ES,18+,self_reported_turnout_pct_unweighted,84.92,% of valid answers,cis_1542
+1986,ES,18-24,self_reported_turnout_pct_unweighted,76.68,% of valid answers,cis_1542
+1986,ES,18-29,self_reported_turnout_pct_unweighted,78.54,% of valid answers,cis_1542
+1986,ES,25-29,self_reported_turnout_pct_unweighted,81.68,% of valid answers,cis_1542
+1986,ES,30-34,self_reported_turnout_pct_unweighted,86.32,% of valid answers,cis_1542
+1986,ES,30-44,self_reported_turnout_pct_unweighted,87.54,% of valid answers,cis_1542
+1986,ES,35-44,self_reported_turnout_pct_unweighted,88.21,% of valid answers,cis_1542
+1986,ES,45-54,self_reported_turnout_pct_unweighted,90.73,% of valid answers,cis_1542
+1986,ES,45-64,self_reported_turnout_pct_unweighted,89.64,% of valid answers,cis_1542
+1986,ES,55-64,self_reported_turnout_pct_unweighted,88.27,% of valid answers,cis_1542
+1986,ES,65+,self_reported_turnout_pct_unweighted,81.95,% of valid answers,cis_1542
+1986,ES,65-74,self_reported_turnout_pct_unweighted,83.57,% of valid answers,cis_1542
+1986,ES,75+,self_reported_turnout_pct_unweighted,77.43,% of valid answers,cis_1542
+1986,ES,18+,self_reported_turnout_pct_weighted,85.34,% of valid answers,cis_1542
+1986,ES,18-24,self_reported_turnout_pct_weighted,76.65,% of valid answers,cis_1542
+1986,ES,18-29,self_reported_turnout_pct_weighted,78.9,% of valid answers,cis_1542
+1986,ES,25-29,self_reported_turnout_pct_weighted,82.69,% of valid answers,cis_1542
+1986,ES,30-34,self_reported_turnout_pct_weighted,85.93,% of valid answers,cis_1542
+1986,ES,30-44,self_reported_turnout_pct_weighted,87.26,% of valid answers,cis_1542
+1986,ES,35-44,self_reported_turnout_pct_weighted,87.99,% of valid answers,cis_1542
+1986,ES,45-54,self_reported_turnout_pct_weighted,91.05,% of valid answers,cis_1542
+1986,ES,45-64,self_reported_turnout_pct_weighted,90.11,% of valid answers,cis_1542
+1986,ES,55-64,self_reported_turnout_pct_weighted,88.95,% of valid answers,cis_1542
+1986,ES,65+,self_reported_turnout_pct_weighted,83.63,% of valid answers,cis_1542
+1986,ES,65-74,self_reported_turnout_pct_weighted,84.88,% of valid answers,cis_1542
+1986,ES,75+,self_reported_turnout_pct_weighted,80.16,% of valid answers,cis_1542
+1989,ES,18+,n_valid,3049,respondents (unweighted),cis_1842
+1989,ES,18-24,n_valid,460,respondents (unweighted),cis_1842
+1989,ES,18-29,n_valid,769,respondents (unweighted),cis_1842
+1989,ES,25-29,n_valid,309,respondents (unweighted),cis_1842
+1989,ES,30-34,n_valid,323,respondents (unweighted),cis_1842
+1989,ES,30-44,n_valid,820,respondents (unweighted),cis_1842
+1989,ES,35-44,n_valid,497,respondents (unweighted),cis_1842
+1989,ES,45-54,n_valid,582,respondents (unweighted),cis_1842
+1989,ES,45-64,n_valid,947,respondents (unweighted),cis_1842
+1989,ES,55-64,n_valid,365,respondents (unweighted),cis_1842
+1989,ES,65+,n_valid,513,respondents (unweighted),cis_1842
+1989,ES,65-74,n_valid,363,respondents (unweighted),cis_1842
+1989,ES,75+,n_valid,150,respondents (unweighted),cis_1842
+1989,ES,all,official_turnout_incl_cera_pct,69.74,% of census incl. CERA abroad,interior_Elecciones-Congreso
+1989,ES,all,official_turnout_pct,69.93,"% of resident census (CER), headline",interior_Elecciones-Congreso
+1989,ES,18+,self_reported_turnout_pct_unweighted,82.68,% of valid answers,cis_1842
+1989,ES,18-24,self_reported_turnout_pct_unweighted,72.83,% of valid answers,cis_1842
+1989,ES,18-29,self_reported_turnout_pct_unweighted,74.38,% of valid answers,cis_1842
+1989,ES,25-29,self_reported_turnout_pct_unweighted,76.7,% of valid answers,cis_1842
+1989,ES,30-34,self_reported_turnout_pct_unweighted,81.11,% of valid answers,cis_1842
+1989,ES,30-44,self_reported_turnout_pct_unweighted,84.88,% of valid answers,cis_1842
+1989,ES,35-44,self_reported_turnout_pct_unweighted,87.32,% of valid answers,cis_1842
+1989,ES,45-54,self_reported_turnout_pct_unweighted,89.35,% of valid answers,cis_1842
+1989,ES,45-64,self_reported_turnout_pct_unweighted,88.49,% of valid answers,cis_1842
+1989,ES,55-64,self_reported_turnout_pct_unweighted,87.12,% of valid answers,cis_1842
+1989,ES,65+,self_reported_turnout_pct_unweighted,80.9,% of valid answers,cis_1842
+1989,ES,65-74,self_reported_turnout_pct_unweighted,83.2,% of valid answers,cis_1842
+1989,ES,75+,self_reported_turnout_pct_unweighted,75.33,% of valid answers,cis_1842
+1989,ES,18+,self_reported_turnout_pct_weighted,83.22,% of valid answers,cis_1842
+1989,ES,18-24,self_reported_turnout_pct_weighted,73.24,% of valid answers,cis_1842
+1989,ES,18-29,self_reported_turnout_pct_weighted,74.84,% of valid answers,cis_1842
+1989,ES,25-29,self_reported_turnout_pct_weighted,77.11,% of valid answers,cis_1842
+1989,ES,30-34,self_reported_turnout_pct_weighted,82.3,% of valid answers,cis_1842
+1989,ES,30-44,self_reported_turnout_pct_weighted,85.48,% of valid answers,cis_1842
+1989,ES,35-44,self_reported_turnout_pct_weighted,87.61,% of valid answers,cis_1842
+1989,ES,45-54,self_reported_turnout_pct_weighted,89.71,% of valid answers,cis_1842
+1989,ES,45-64,self_reported_turnout_pct_weighted,88.83,% of valid answers,cis_1842
+1989,ES,55-64,self_reported_turnout_pct_weighted,87.27,% of valid answers,cis_1842
+1989,ES,65+,self_reported_turnout_pct_weighted,82.21,% of valid answers,cis_1842
+1989,ES,65-74,self_reported_turnout_pct_weighted,83.83,% of valid answers,cis_1842
+1989,ES,75+,self_reported_turnout_pct_weighted,78.16,% of valid answers,cis_1842
+1993,ES,18+,n_valid,4934,respondents (unweighted),cis_2061
+1993,ES,18-24,n_valid,791,respondents (unweighted),cis_2061
+1993,ES,18-29,n_valid,1302,respondents (unweighted),cis_2061
+1993,ES,25-29,n_valid,511,respondents (unweighted),cis_2061
+1993,ES,30-34,n_valid,497,respondents (unweighted),cis_2061
+1993,ES,30-44,n_valid,1324,respondents (unweighted),cis_2061
+1993,ES,35-44,n_valid,827,respondents (unweighted),cis_2061
+1993,ES,45-54,n_valid,747,respondents (unweighted),cis_2061
+1993,ES,45-64,n_valid,1497,respondents (unweighted),cis_2061
+1993,ES,55-64,n_valid,750,respondents (unweighted),cis_2061
+1993,ES,65+,n_valid,811,respondents (unweighted),cis_2061
+1993,ES,65-74,n_valid,586,respondents (unweighted),cis_2061
+1993,ES,75+,n_valid,225,respondents (unweighted),cis_2061
+1993,ES,all,official_turnout_incl_cera_pct,76.43,% of census incl. CERA abroad,interior_Elecciones-Congreso
+1993,ES,all,official_turnout_pct,76.94,"% of resident census (CER), headline",interior_Elecciones-Congreso
+1993,ES,18+,self_reported_turnout_pct_unweighted,85.95,% of valid answers,cis_2061
+1993,ES,18-24,self_reported_turnout_pct_unweighted,79.39,% of valid answers,cis_2061
+1993,ES,18-29,self_reported_turnout_pct_unweighted,80.65,% of valid answers,cis_2061
+1993,ES,25-29,self_reported_turnout_pct_unweighted,82.58,% of valid answers,cis_2061
+1993,ES,30-34,self_reported_turnout_pct_unweighted,85.51,% of valid answers,cis_2061
+1993,ES,30-44,self_reported_turnout_pct_unweighted,86.25,% of valid answers,cis_2061
+1993,ES,35-44,self_reported_turnout_pct_unweighted,86.7,% of valid answers,cis_2061
+1993,ES,45-54,self_reported_turnout_pct_unweighted,89.16,% of valid answers,cis_2061
+1993,ES,45-64,self_reported_turnout_pct_unweighted,89.85,% of valid answers,cis_2061
+1993,ES,55-64,self_reported_turnout_pct_unweighted,90.53,% of valid answers,cis_2061
+1993,ES,65+,self_reported_turnout_pct_unweighted,86.81,% of valid answers,cis_2061
+1993,ES,65-74,self_reported_turnout_pct_unweighted,87.88,% of valid answers,cis_2061
+1993,ES,75+,self_reported_turnout_pct_unweighted,84.0,% of valid answers,cis_2061
+1996,ES,18+,n_valid,5301,respondents (unweighted),cis_2210
+1996,ES,18-24,n_valid,834,respondents (unweighted),cis_2210
+1996,ES,18-29,n_valid,1369,respondents (unweighted),cis_2210
+1996,ES,25-29,n_valid,535,respondents (unweighted),cis_2210
+1996,ES,30-34,n_valid,549,respondents (unweighted),cis_2210
+1996,ES,30-44,n_valid,1452,respondents (unweighted),cis_2210
+1996,ES,35-44,n_valid,903,respondents (unweighted),cis_2210
+1996,ES,45-54,n_valid,749,respondents (unweighted),cis_2210
+1996,ES,45-64,n_valid,1528,respondents (unweighted),cis_2210
+1996,ES,55-64,n_valid,779,respondents (unweighted),cis_2210
+1996,ES,65+,n_valid,952,respondents (unweighted),cis_2210
+1996,ES,65-74,n_valid,639,respondents (unweighted),cis_2210
+1996,ES,75+,n_valid,313,respondents (unweighted),cis_2210
+1996,ES,all,official_turnout_incl_cera_pct,77.38,% of census incl. CERA abroad,interior_Elecciones-Congreso
+1996,ES,all,official_turnout_pct,78.08,"% of resident census (CER), headline",interior_Elecciones-Congreso
+1996,ES,18+,self_reported_turnout_pct_unweighted,88.06,% of valid answers,cis_2210
+1996,ES,18-24,self_reported_turnout_pct_unweighted,80.22,% of valid answers,cis_2210
+1996,ES,18-29,self_reported_turnout_pct_unweighted,80.64,% of valid answers,cis_2210
+1996,ES,25-29,self_reported_turnout_pct_unweighted,81.31,% of valid answers,cis_2210
+1996,ES,30-34,self_reported_turnout_pct_unweighted,84.88,% of valid answers,cis_2210
+1996,ES,30-44,self_reported_turnout_pct_unweighted,87.05,% of valid answers,cis_2210
+1996,ES,35-44,self_reported_turnout_pct_unweighted,88.37,% of valid answers,cis_2210
+1996,ES,45-54,self_reported_turnout_pct_unweighted,93.59,% of valid answers,cis_2210
+1996,ES,45-64,self_reported_turnout_pct_unweighted,93.39,% of valid answers,cis_2210
+1996,ES,55-64,self_reported_turnout_pct_unweighted,93.2,% of valid answers,cis_2210
+1996,ES,65+,self_reported_turnout_pct_unweighted,91.7,% of valid answers,cis_2210
+1996,ES,65-74,self_reported_turnout_pct_unweighted,92.18,% of valid answers,cis_2210
+1996,ES,75+,self_reported_turnout_pct_unweighted,90.73,% of valid answers,cis_2210
+1996,ES,18+,self_reported_turnout_pct_weighted,88.0,% of valid answers,cis_2210
+1996,ES,18-24,self_reported_turnout_pct_weighted,79.83,% of valid answers,cis_2210
+1996,ES,18-29,self_reported_turnout_pct_weighted,80.34,% of valid answers,cis_2210
+1996,ES,25-29,self_reported_turnout_pct_weighted,81.14,% of valid answers,cis_2210
+1996,ES,30-34,self_reported_turnout_pct_weighted,84.89,% of valid answers,cis_2210
+1996,ES,30-44,self_reported_turnout_pct_weighted,86.95,% of valid answers,cis_2210
+1996,ES,35-44,self_reported_turnout_pct_weighted,88.2,% of valid answers,cis_2210
+1996,ES,45-54,self_reported_turnout_pct_weighted,93.38,% of valid answers,cis_2210
+1996,ES,45-64,self_reported_turnout_pct_weighted,93.32,% of valid answers,cis_2210
+1996,ES,55-64,self_reported_turnout_pct_weighted,93.26,% of valid answers,cis_2210
+1996,ES,65+,self_reported_turnout_pct_weighted,91.99,% of valid answers,cis_2210
+1996,ES,65-74,self_reported_turnout_pct_weighted,92.49,% of valid answers,cis_2210
+1996,ES,75+,self_reported_turnout_pct_weighted,90.98,% of valid answers,cis_2210
+2000,ES,18+,n_valid,5231,respondents (unweighted),cis_2384
+2000,ES,18-24,n_valid,718,respondents (unweighted),cis_2384
+2000,ES,18-29,n_valid,1245,respondents (unweighted),cis_2384
+2000,ES,25-29,n_valid,527,respondents (unweighted),cis_2384
+2000,ES,30-34,n_valid,511,respondents (unweighted),cis_2384
+2000,ES,30-44,n_valid,1451,respondents (unweighted),cis_2384
+2000,ES,35-44,n_valid,940,respondents (unweighted),cis_2384
+2000,ES,45-54,n_valid,776,respondents (unweighted),cis_2384
+2000,ES,45-64,n_valid,1415,respondents (unweighted),cis_2384
+2000,ES,55-64,n_valid,639,respondents (unweighted),cis_2384
+2000,ES,65+,n_valid,1120,respondents (unweighted),cis_2384
+2000,ES,65-74,n_valid,746,respondents (unweighted),cis_2384
+2000,ES,75+,n_valid,374,respondents (unweighted),cis_2384
+2000,ES,all,official_turnout_incl_cera_pct,68.71,% of census incl. CERA abroad,interior_Elecciones-Congreso
+2000,ES,all,official_turnout_pct,70.0,"% of resident census (CER), headline",interior_Elecciones-Congreso
+2000,ES,18+,self_reported_turnout_pct_unweighted,83.98,% of valid answers,cis_2384
+2000,ES,18-24,self_reported_turnout_pct_unweighted,69.78,% of valid answers,cis_2384
+2000,ES,18-29,self_reported_turnout_pct_unweighted,72.93,% of valid answers,cis_2384
+2000,ES,25-29,self_reported_turnout_pct_unweighted,77.23,% of valid answers,cis_2384
+2000,ES,30-34,self_reported_turnout_pct_unweighted,78.08,% of valid answers,cis_2384
+2000,ES,30-44,self_reported_turnout_pct_unweighted,82.56,% of valid answers,cis_2384
+2000,ES,35-44,self_reported_turnout_pct_unweighted,85.0,% of valid answers,cis_2384
+2000,ES,45-54,self_reported_turnout_pct_unweighted,90.21,% of valid answers,cis_2384
+2000,ES,45-64,self_reported_turnout_pct_unweighted,90.81,% of valid answers,cis_2384
+2000,ES,55-64,self_reported_turnout_pct_unweighted,91.55,% of valid answers,cis_2384
+2000,ES,65+,self_reported_turnout_pct_unweighted,89.46,% of valid answers,cis_2384
+2000,ES,65-74,self_reported_turnout_pct_unweighted,91.55,% of valid answers,cis_2384
+2000,ES,75+,self_reported_turnout_pct_unweighted,85.29,% of valid answers,cis_2384
+2004,ES,18+,n_valid,5364,respondents (unweighted),cis_2559
+2004,ES,18-24,n_valid,714,respondents (unweighted),cis_2559
+2004,ES,18-29,n_valid,1223,respondents (unweighted),cis_2559
+2004,ES,25-29,n_valid,509,respondents (unweighted),cis_2559
+2004,ES,30-34,n_valid,573,respondents (unweighted),cis_2559
+2004,ES,30-44,n_valid,1572,respondents (unweighted),cis_2559
+2004,ES,35-44,n_valid,999,respondents (unweighted),cis_2559
+2004,ES,45-54,n_valid,776,respondents (unweighted),cis_2559
+2004,ES,45-64,n_valid,1428,respondents (unweighted),cis_2559
+2004,ES,55-64,n_valid,652,respondents (unweighted),cis_2559
+2004,ES,65+,n_valid,1141,respondents (unweighted),cis_2559
+2004,ES,65-74,n_valid,739,respondents (unweighted),cis_2559
+2004,ES,75+,n_valid,402,respondents (unweighted),cis_2559
+2004,ES,all,official_turnout_incl_cera_pct,75.66,% of census incl. CERA abroad,interior_Elecciones-Congreso
+2004,ES,all,official_turnout_pct,77.26,"% of resident census (CER), headline",interior_Elecciones-Congreso
+2004,ES,18+,self_reported_turnout_pct_unweighted,88.18,% of valid answers,cis_2559
+2004,ES,18-24,self_reported_turnout_pct_unweighted,79.27,% of valid answers,cis_2559
+2004,ES,18-29,self_reported_turnout_pct_unweighted,80.54,% of valid answers,cis_2559
+2004,ES,25-29,self_reported_turnout_pct_unweighted,82.32,% of valid answers,cis_2559
+2004,ES,30-34,self_reported_turnout_pct_unweighted,83.77,% of valid answers,cis_2559
+2004,ES,30-44,self_reported_turnout_pct_unweighted,87.34,% of valid answers,cis_2559
+2004,ES,35-44,self_reported_turnout_pct_unweighted,89.39,% of valid answers,cis_2559
+2004,ES,45-54,self_reported_turnout_pct_unweighted,93.3,% of valid answers,cis_2559
+2004,ES,45-64,self_reported_turnout_pct_unweighted,93.07,% of valid answers,cis_2559
+2004,ES,55-64,self_reported_turnout_pct_unweighted,92.79,% of valid answers,cis_2559
+2004,ES,65+,self_reported_turnout_pct_unweighted,91.41,% of valid answers,cis_2559
+2004,ES,65-74,self_reported_turnout_pct_unweighted,92.83,% of valid answers,cis_2559
+2004,ES,75+,self_reported_turnout_pct_unweighted,88.81,% of valid answers,cis_2559
+2004,ES,18+,self_reported_turnout_pct_weighted,88.15,% of valid answers,cis_2559
+2004,ES,18-24,self_reported_turnout_pct_weighted,79.36,% of valid answers,cis_2559
+2004,ES,18-29,self_reported_turnout_pct_weighted,80.53,% of valid answers,cis_2559
+2004,ES,25-29,self_reported_turnout_pct_weighted,82.17,% of valid answers,cis_2559
+2004,ES,30-34,self_reported_turnout_pct_weighted,83.7,% of valid answers,cis_2559
+2004,ES,30-44,self_reported_turnout_pct_weighted,87.26,% of valid answers,cis_2559
+2004,ES,35-44,self_reported_turnout_pct_weighted,89.3,% of valid answers,cis_2559
+2004,ES,45-54,self_reported_turnout_pct_weighted,93.3,% of valid answers,cis_2559
+2004,ES,45-64,self_reported_turnout_pct_weighted,93.02,% of valid answers,cis_2559
+2004,ES,55-64,self_reported_turnout_pct_weighted,92.67,% of valid answers,cis_2559
+2004,ES,65+,self_reported_turnout_pct_weighted,91.34,% of valid answers,cis_2559
+2004,ES,65-74,self_reported_turnout_pct_weighted,92.67,% of valid answers,cis_2559
+2004,ES,75+,self_reported_turnout_pct_weighted,88.94,% of valid answers,cis_2559
+2008,ES,18+,n_valid,6057,respondents (unweighted),cis_2757
+2008,ES,18-24,n_valid,614,respondents (unweighted),cis_2757
+2008,ES,18-29,n_valid,1157,respondents (unweighted),cis_2757
+2008,ES,25-29,n_valid,543,respondents (unweighted),cis_2757
+2008,ES,30-34,n_valid,674,respondents (unweighted),cis_2757
+2008,ES,30-44,n_valid,1865,respondents (unweighted),cis_2757
+2008,ES,35-44,n_valid,1191,respondents (unweighted),cis_2757
+2008,ES,45-54,n_valid,963,respondents (unweighted),cis_2757
+2008,ES,45-64,n_valid,1751,respondents (unweighted),cis_2757
+2008,ES,55-64,n_valid,788,respondents (unweighted),cis_2757
+2008,ES,65+,n_valid,1284,respondents (unweighted),cis_2757
+2008,ES,65-74,n_valid,729,respondents (unweighted),cis_2757
+2008,ES,75+,n_valid,555,respondents (unweighted),cis_2757
+2008,ES,all,official_turnout_incl_cera_pct,73.85,% of census incl. CERA abroad,interior_Elecciones-Congreso
+2008,ES,all,official_turnout_pct,75.35,"% of resident census (CER), headline",interior_Elecciones-Congreso
+2008,ES,18+,self_reported_turnout_pct_unweighted,86.92,% of valid answers,cis_2757
+2008,ES,18-24,self_reported_turnout_pct_unweighted,76.38,% of valid answers,cis_2757
+2008,ES,18-29,self_reported_turnout_pct_unweighted,78.39,% of valid answers,cis_2757
+2008,ES,25-29,self_reported_turnout_pct_unweighted,80.66,% of valid answers,cis_2757
+2008,ES,30-34,self_reported_turnout_pct_unweighted,86.2,% of valid answers,cis_2757
+2008,ES,30-44,self_reported_turnout_pct_unweighted,86.22,% of valid answers,cis_2757
+2008,ES,35-44,self_reported_turnout_pct_unweighted,86.23,% of valid answers,cis_2757
+2008,ES,45-54,self_reported_turnout_pct_unweighted,89.93,% of valid answers,cis_2757
+2008,ES,45-64,self_reported_turnout_pct_unweighted,90.98,% of valid answers,cis_2757
+2008,ES,55-64,self_reported_turnout_pct_unweighted,92.26,% of valid answers,cis_2757
+2008,ES,65+,self_reported_turnout_pct_unweighted,90.11,% of valid answers,cis_2757
+2008,ES,65-74,self_reported_turnout_pct_unweighted,92.59,% of valid answers,cis_2757
+2008,ES,75+,self_reported_turnout_pct_unweighted,86.85,% of valid answers,cis_2757
+2008,ES,18+,self_reported_turnout_pct_weighted,87.29,% of valid answers,cis_2757
+2008,ES,18-24,self_reported_turnout_pct_weighted,77.0,% of valid answers,cis_2757
+2008,ES,18-29,self_reported_turnout_pct_weighted,78.88,% of valid answers,cis_2757
+2008,ES,25-29,self_reported_turnout_pct_weighted,80.94,% of valid answers,cis_2757
+2008,ES,30-34,self_reported_turnout_pct_weighted,86.33,% of valid answers,cis_2757
+2008,ES,30-44,self_reported_turnout_pct_weighted,86.67,% of valid answers,cis_2757
+2008,ES,35-44,self_reported_turnout_pct_weighted,86.87,% of valid answers,cis_2757
+2008,ES,45-54,self_reported_turnout_pct_weighted,90.43,% of valid answers,cis_2757
+2008,ES,45-64,self_reported_turnout_pct_weighted,91.42,% of valid answers,cis_2757
+2008,ES,55-64,self_reported_turnout_pct_weighted,92.65,% of valid answers,cis_2757
+2008,ES,65+,self_reported_turnout_pct_weighted,90.05,% of valid answers,cis_2757
+2008,ES,65-74,self_reported_turnout_pct_weighted,92.19,% of valid answers,cis_2757
+2008,ES,75+,self_reported_turnout_pct_weighted,87.18,% of valid answers,cis_2757
+2011,ES,18+,n_valid,5673,respondents (unweighted),cis_2920
+2011,ES,18-24,n_valid,257,respondents (unweighted),cis_2920
+2011,ES,18-29,n_valid,728,respondents (unweighted),cis_2920
+2011,ES,25-29,n_valid,471,respondents (unweighted),cis_2920
+2011,ES,30-34,n_valid,625,respondents (unweighted),cis_2920
+2011,ES,30-44,n_valid,1844,respondents (unweighted),cis_2920
+2011,ES,35-44,n_valid,1219,respondents (unweighted),cis_2920
+2011,ES,45-54,n_valid,1087,respondents (unweighted),cis_2920
+2011,ES,45-64,n_valid,1893,respondents (unweighted),cis_2920
+2011,ES,55-64,n_valid,806,respondents (unweighted),cis_2920
+2011,ES,65+,n_valid,1208,respondents (unweighted),cis_2920
+2011,ES,65-74,n_valid,686,respondents (unweighted),cis_2920
+2011,ES,75+,n_valid,522,respondents (unweighted),cis_2920
+2011,ES,all,official_turnout_incl_cera_pct,68.94,% of census incl. CERA abroad,interior_Elecciones-Congreso
+2011,ES,all,official_turnout_pct,71.71,"% of resident census (CER), headline",interior_Elecciones-Congreso
+2011,ES,18+,self_reported_turnout_pct_unweighted,87.48,% of valid answers,cis_2920
+2011,ES,18-24,self_reported_turnout_pct_unweighted,75.1,% of valid answers,cis_2920
+2011,ES,18-29,self_reported_turnout_pct_unweighted,77.61,% of valid answers,cis_2920
+2011,ES,25-29,self_reported_turnout_pct_unweighted,78.98,% of valid answers,cis_2920
+2011,ES,30-34,self_reported_turnout_pct_unweighted,83.52,% of valid answers,cis_2920
+2011,ES,30-44,self_reported_turnout_pct_unweighted,84.82,% of valid answers,cis_2920
+2011,ES,35-44,self_reported_turnout_pct_unweighted,85.48,% of valid answers,cis_2920
+2011,ES,45-54,self_reported_turnout_pct_unweighted,88.78,% of valid answers,cis_2920
+2011,ES,45-64,self_reported_turnout_pct_unweighted,90.12,% of valid answers,cis_2920
+2011,ES,55-64,self_reported_turnout_pct_unweighted,91.94,% of valid answers,cis_2920
+2011,ES,65+,self_reported_turnout_pct_unweighted,93.38,% of valid answers,cis_2920
+2011,ES,65-74,self_reported_turnout_pct_unweighted,93.29,% of valid answers,cis_2920
+2011,ES,75+,self_reported_turnout_pct_unweighted,93.49,% of valid answers,cis_2920
+2011,ES,18+,self_reported_turnout_pct_weighted,87.18,% of valid answers,cis_2920
+2011,ES,18-24,self_reported_turnout_pct_weighted,73.59,% of valid answers,cis_2920
+2011,ES,18-29,self_reported_turnout_pct_weighted,78.41,% of valid answers,cis_2920
+2011,ES,25-29,self_reported_turnout_pct_weighted,81.02,% of valid answers,cis_2920
+2011,ES,30-34,self_reported_turnout_pct_weighted,82.62,% of valid answers,cis_2920
+2011,ES,30-44,self_reported_turnout_pct_weighted,84.15,% of valid answers,cis_2920
+2011,ES,35-44,self_reported_turnout_pct_weighted,84.94,% of valid answers,cis_2920
+2011,ES,45-54,self_reported_turnout_pct_weighted,88.8,% of valid answers,cis_2920
+2011,ES,45-64,self_reported_turnout_pct_weighted,89.63,% of valid answers,cis_2920
+2011,ES,55-64,self_reported_turnout_pct_weighted,90.76,% of valid answers,cis_2920
+2011,ES,65+,self_reported_turnout_pct_weighted,93.34,% of valid answers,cis_2920
+2011,ES,65-74,self_reported_turnout_pct_weighted,93.51,% of valid answers,cis_2920
+2011,ES,75+,self_reported_turnout_pct_weighted,93.1,% of valid answers,cis_2920
+2015,ES,18+,n_valid,6230,respondents (unweighted),cis_3126
+2015,ES,18-24,n_valid,477,respondents (unweighted),cis_3126
+2015,ES,18-29,n_valid,880,respondents (unweighted),cis_3126
+2015,ES,25-29,n_valid,403,respondents (unweighted),cis_3126
+2015,ES,30-34,n_valid,473,respondents (unweighted),cis_3126
+2015,ES,30-44,n_valid,1723,respondents (unweighted),cis_3126
+2015,ES,35-44,n_valid,1250,respondents (unweighted),cis_3126
+2015,ES,45-54,n_valid,1199,respondents (unweighted),cis_3126
+2015,ES,45-64,n_valid,2155,respondents (unweighted),cis_3126
+2015,ES,55-64,n_valid,956,respondents (unweighted),cis_3126
+2015,ES,65+,n_valid,1472,respondents (unweighted),cis_3126
+2015,ES,65-74,n_valid,814,respondents (unweighted),cis_3126
+2015,ES,75+,n_valid,658,respondents (unweighted),cis_3126
+2015,ES,all,official_turnout_incl_cera_pct,69.67,% of census incl. CERA abroad,interior_Elecciones-Congreso
+2015,ES,all,official_turnout_pct,73.2,"% of resident census (CER), headline",interior_Elecciones-Congreso
+2015,ES,18+,self_reported_turnout_pct_unweighted,87.78,% of valid answers,cis_3126
+2015,ES,18-24,self_reported_turnout_pct_unweighted,79.25,% of valid answers,cis_3126
+2015,ES,18-29,self_reported_turnout_pct_unweighted,81.25,% of valid answers,cis_3126
+2015,ES,25-29,self_reported_turnout_pct_unweighted,83.62,% of valid answers,cis_3126
+2015,ES,30-34,self_reported_turnout_pct_unweighted,83.3,% of valid answers,cis_3126
+2015,ES,30-44,self_reported_turnout_pct_unweighted,86.88,% of valid answers,cis_3126
+2015,ES,35-44,self_reported_turnout_pct_unweighted,88.24,% of valid answers,cis_3126
+2015,ES,45-54,self_reported_turnout_pct_unweighted,88.99,% of valid answers,cis_3126
+2015,ES,45-64,self_reported_turnout_pct_unweighted,90.02,% of valid answers,cis_3126
+2015,ES,55-64,self_reported_turnout_pct_unweighted,91.32,% of valid answers,cis_3126
+2015,ES,65+,self_reported_turnout_pct_unweighted,89.47,% of valid answers,cis_3126
+2015,ES,65-74,self_reported_turnout_pct_unweighted,92.01,% of valid answers,cis_3126
+2015,ES,75+,self_reported_turnout_pct_unweighted,86.32,% of valid answers,cis_3126
+2015,ES,18+,self_reported_turnout_pct_weighted,88.25,% of valid answers,cis_3126
+2015,ES,18-24,self_reported_turnout_pct_weighted,79.63,% of valid answers,cis_3126
+2015,ES,18-29,self_reported_turnout_pct_weighted,81.67,% of valid answers,cis_3126
+2015,ES,25-29,self_reported_turnout_pct_weighted,84.17,% of valid answers,cis_3126
+2015,ES,30-34,self_reported_turnout_pct_weighted,84.02,% of valid answers,cis_3126
+2015,ES,30-44,self_reported_turnout_pct_weighted,87.29,% of valid answers,cis_3126
+2015,ES,35-44,self_reported_turnout_pct_weighted,88.52,% of valid answers,cis_3126
+2015,ES,45-54,self_reported_turnout_pct_weighted,89.42,% of valid answers,cis_3126
+2015,ES,45-64,self_reported_turnout_pct_weighted,90.4,% of valid answers,cis_3126
+2015,ES,55-64,self_reported_turnout_pct_weighted,91.62,% of valid answers,cis_3126
+2015,ES,65+,self_reported_turnout_pct_weighted,90.13,% of valid answers,cis_3126
+2015,ES,65-74,self_reported_turnout_pct_weighted,92.45,% of valid answers,cis_3126
+2015,ES,75+,self_reported_turnout_pct_weighted,87.16,% of valid answers,cis_3126
+2016,ES,18+,n_valid,6162,respondents (unweighted),cis_3145
+2016,ES,18-24,n_valid,494,respondents (unweighted),cis_3145
+2016,ES,18-29,n_valid,910,respondents (unweighted),cis_3145
+2016,ES,25-29,n_valid,416,respondents (unweighted),cis_3145
+2016,ES,30-34,n_valid,458,respondents (unweighted),cis_3145
+2016,ES,30-44,n_valid,1642,respondents (unweighted),cis_3145
+2016,ES,35-44,n_valid,1184,respondents (unweighted),cis_3145
+2016,ES,45-54,n_valid,1192,respondents (unweighted),cis_3145
+2016,ES,45-64,n_valid,2131,respondents (unweighted),cis_3145
+2016,ES,55-64,n_valid,939,respondents (unweighted),cis_3145
+2016,ES,65+,n_valid,1479,respondents (unweighted),cis_3145
+2016,ES,65-74,n_valid,802,respondents (unweighted),cis_3145
+2016,ES,75+,n_valid,677,respondents (unweighted),cis_3145
+2016,ES,all,official_turnout_incl_cera_pct,66.48,% of census incl. CERA abroad,interior_Elecciones-Congreso
+2016,ES,all,official_turnout_pct,69.83,"% of resident census (CER), headline",interior_Elecciones-Congreso
+2016,ES,18+,self_reported_turnout_pct_unweighted,83.41,% of valid answers,cis_3145
+2016,ES,18-24,self_reported_turnout_pct_unweighted,72.27,% of valid answers,cis_3145
+2016,ES,18-29,self_reported_turnout_pct_unweighted,72.97,% of valid answers,cis_3145
+2016,ES,25-29,self_reported_turnout_pct_unweighted,73.8,% of valid answers,cis_3145
+2016,ES,30-34,self_reported_turnout_pct_unweighted,79.91,% of valid answers,cis_3145
+2016,ES,30-44,self_reported_turnout_pct_unweighted,81.3,% of valid answers,cis_3145
+2016,ES,35-44,self_reported_turnout_pct_unweighted,81.84,% of valid answers,cis_3145
+2016,ES,45-54,self_reported_turnout_pct_unweighted,83.89,% of valid answers,cis_3145
+2016,ES,45-64,self_reported_turnout_pct_unweighted,86.16,% of valid answers,cis_3145
+2016,ES,55-64,self_reported_turnout_pct_unweighted,89.03,% of valid answers,cis_3145
+2016,ES,65+,self_reported_turnout_pct_unweighted,88.24,% of valid answers,cis_3145
+2016,ES,65-74,self_reported_turnout_pct_unweighted,90.52,% of valid answers,cis_3145
+2016,ES,75+,self_reported_turnout_pct_unweighted,85.52,% of valid answers,cis_3145
+2019-04,ES,18+,n_valid,5156,respondents (unweighted),cis_3248
+2019-04,ES,18-24,n_valid,417,respondents (unweighted),cis_3248
+2019-04,ES,18-29,n_valid,727,respondents (unweighted),cis_3248
+2019-04,ES,25-29,n_valid,310,respondents (unweighted),cis_3248
+2019-04,ES,30-34,n_valid,388,respondents (unweighted),cis_3248
+2019-04,ES,30-44,n_valid,1357,respondents (unweighted),cis_3248
+2019-04,ES,35-44,n_valid,969,respondents (unweighted),cis_3248
+2019-04,ES,45-54,n_valid,1046,respondents (unweighted),cis_3248
+2019-04,ES,45-64,n_valid,1864,respondents (unweighted),cis_3248
+2019-04,ES,55-64,n_valid,818,respondents (unweighted),cis_3248
+2019-04,ES,65+,n_valid,1208,respondents (unweighted),cis_3248
+2019-04,ES,65-74,n_valid,683,respondents (unweighted),cis_3248
+2019-04,ES,75+,n_valid,525,respondents (unweighted),cis_3248
+2019-04,ES,all,official_turnout_incl_cera_pct,71.76,% of census incl. CERA abroad,interior_Elecciones-Congreso
+2019-04,ES,all,official_turnout_pct,75.75,"% of resident census (CER), headline",interior_Elecciones-Congreso
+2019-04,ES,18+,self_reported_turnout_pct_unweighted,88.34,% of valid answers,cis_3248
+2019-04,ES,18-24,self_reported_turnout_pct_unweighted,80.1,% of valid answers,cis_3248
+2019-04,ES,18-29,self_reported_turnout_pct_unweighted,82.67,% of valid answers,cis_3248
+2019-04,ES,25-29,self_reported_turnout_pct_unweighted,86.13,% of valid answers,cis_3248
+2019-04,ES,30-34,self_reported_turnout_pct_unweighted,86.08,% of valid answers,cis_3248
+2019-04,ES,30-44,self_reported_turnout_pct_unweighted,86.66,% of valid answers,cis_3248
+2019-04,ES,35-44,self_reported_turnout_pct_unweighted,86.89,% of valid answers,cis_3248
+2019-04,ES,45-54,self_reported_turnout_pct_unweighted,89.01,% of valid answers,cis_3248
+2019-04,ES,45-64,self_reported_turnout_pct_unweighted,90.45,% of valid answers,cis_3248
+2019-04,ES,55-64,self_reported_turnout_pct_unweighted,92.3,% of valid answers,cis_3248
+2019-04,ES,65+,self_reported_turnout_pct_unweighted,90.4,% of valid answers,cis_3248
+2019-04,ES,65-74,self_reported_turnout_pct_unweighted,92.09,% of valid answers,cis_3248
+2019-04,ES,75+,self_reported_turnout_pct_unweighted,88.19,% of valid answers,cis_3248
+2019-11,ES,18+,n_valid,4108,respondents (unweighted),cis_3269
+2019-11,ES,18-24,n_valid,354,respondents (unweighted),cis_3269
+2019-11,ES,18-29,n_valid,595,respondents (unweighted),cis_3269
+2019-11,ES,25-29,n_valid,241,respondents (unweighted),cis_3269
+2019-11,ES,30-34,n_valid,294,respondents (unweighted),cis_3269
+2019-11,ES,30-44,n_valid,1061,respondents (unweighted),cis_3269
+2019-11,ES,35-44,n_valid,767,respondents (unweighted),cis_3269
+2019-11,ES,45-54,n_valid,815,respondents (unweighted),cis_3269
+2019-11,ES,45-64,n_valid,1481,respondents (unweighted),cis_3269
+2019-11,ES,55-64,n_valid,666,respondents (unweighted),cis_3269
+2019-11,ES,65+,n_valid,971,respondents (unweighted),cis_3269
+2019-11,ES,65-74,n_valid,562,respondents (unweighted),cis_3269
+2019-11,ES,75+,n_valid,409,respondents (unweighted),cis_3269
+2019-11,ES,all,official_turnout_incl_cera_pct,66.23,% of census incl. CERA abroad,interior_Elecciones-Congreso
+2019-11,ES,all,official_turnout_pct,69.86,"% of resident census (CER), headline",interior_Elecciones-Congreso
+2019-11,ES,18+,self_reported_turnout_pct_unweighted,84.71,% of valid answers,cis_3269
+2019-11,ES,18-24,self_reported_turnout_pct_unweighted,81.64,% of valid answers,cis_3269
+2019-11,ES,18-29,self_reported_turnout_pct_unweighted,80.67,% of valid answers,cis_3269
+2019-11,ES,25-29,self_reported_turnout_pct_unweighted,79.25,% of valid answers,cis_3269
+2019-11,ES,30-34,self_reported_turnout_pct_unweighted,79.25,% of valid answers,cis_3269
+2019-11,ES,30-44,self_reported_turnout_pct_unweighted,82.19,% of valid answers,cis_3269
+2019-11,ES,35-44,self_reported_turnout_pct_unweighted,83.31,% of valid answers,cis_3269
+2019-11,ES,45-54,self_reported_turnout_pct_unweighted,84.79,% of valid answers,cis_3269
+2019-11,ES,45-64,self_reported_turnout_pct_unweighted,86.23,% of valid answers,cis_3269
+2019-11,ES,55-64,self_reported_turnout_pct_unweighted,87.99,% of valid answers,cis_3269
+2019-11,ES,65+,self_reported_turnout_pct_unweighted,87.64,% of valid answers,cis_3269
+2019-11,ES,65-74,self_reported_turnout_pct_unweighted,90.39,% of valid answers,cis_3269
+2019-11,ES,75+,self_reported_turnout_pct_unweighted,83.86,% of valid answers,cis_3269
+2019-11,ES,18+,self_reported_turnout_pct_weighted,85.05,% of valid answers,cis_3269
+2019-11,ES,18-24,self_reported_turnout_pct_weighted,81.74,% of valid answers,cis_3269
+2019-11,ES,18-29,self_reported_turnout_pct_weighted,81.69,% of valid answers,cis_3269
+2019-11,ES,25-29,self_reported_turnout_pct_weighted,81.63,% of valid answers,cis_3269
+2019-11,ES,30-34,self_reported_turnout_pct_weighted,79.92,% of valid answers,cis_3269
+2019-11,ES,30-44,self_reported_turnout_pct_weighted,82.29,% of valid answers,cis_3269
+2019-11,ES,35-44,self_reported_turnout_pct_weighted,83.21,% of valid answers,cis_3269
+2019-11,ES,45-54,self_reported_turnout_pct_weighted,84.03,% of valid answers,cis_3269
+2019-11,ES,45-64,self_reported_turnout_pct_weighted,86.15,% of valid answers,cis_3269
+2019-11,ES,55-64,self_reported_turnout_pct_weighted,88.79,% of valid answers,cis_3269
+2019-11,ES,65+,self_reported_turnout_pct_weighted,88.49,% of valid answers,cis_3269
+2019-11,ES,65-74,self_reported_turnout_pct_weighted,90.96,% of valid answers,cis_3269
+2019-11,ES,75+,self_reported_turnout_pct_weighted,85.12,% of valid answers,cis_3269
+2023,ES,18+,n_valid,10090,respondents (unweighted),cis_3420
+2023,ES,18-24,n_valid,674,respondents (unweighted),cis_3420
+2023,ES,18-29,n_valid,1271,respondents (unweighted),cis_3420
+2023,ES,25-29,n_valid,597,respondents (unweighted),cis_3420
+2023,ES,30-34,n_valid,633,respondents (unweighted),cis_3420
+2023,ES,30-44,n_valid,2355,respondents (unweighted),cis_3420
+2023,ES,35-44,n_valid,1722,respondents (unweighted),cis_3420
+2023,ES,45-54,n_valid,2165,respondents (unweighted),cis_3420
+2023,ES,45-64,n_valid,4116,respondents (unweighted),cis_3420
+2023,ES,55-64,n_valid,1951,respondents (unweighted),cis_3420
+2023,ES,65+,n_valid,2348,respondents (unweighted),cis_3420
+2023,ES,65-74,n_valid,1388,respondents (unweighted),cis_3420
+2023,ES,75+,n_valid,960,respondents (unweighted),cis_3420
+2023,ES,all,official_turnout_incl_cera_pct,66.59,% of census incl. CERA abroad,interior_Elecciones-Congreso
+2023,ES,all,official_turnout_pct,70.41,"% of resident census (CER), headline",interior_Elecciones-Congreso
+2023,ES,18+,self_reported_turnout_pct_unweighted,89.05,% of valid answers,cis_3420
+2023,ES,18-24,self_reported_turnout_pct_unweighted,79.82,% of valid answers,cis_3420
+2023,ES,18-29,self_reported_turnout_pct_unweighted,80.25,% of valid answers,cis_3420
+2023,ES,25-29,self_reported_turnout_pct_unweighted,80.74,% of valid answers,cis_3420
+2023,ES,30-34,self_reported_turnout_pct_unweighted,84.04,% of valid answers,cis_3420
+2023,ES,30-44,self_reported_turnout_pct_unweighted,87.13,% of valid answers,cis_3420
+2023,ES,35-44,self_reported_turnout_pct_unweighted,88.27,% of valid answers,cis_3420
+2023,ES,45-54,self_reported_turnout_pct_unweighted,88.96,% of valid answers,cis_3420
+2023,ES,45-64,self_reported_turnout_pct_unweighted,90.6,% of valid answers,cis_3420
+2023,ES,55-64,self_reported_turnout_pct_unweighted,92.41,% of valid answers,cis_3420
+2023,ES,65+,self_reported_turnout_pct_unweighted,93.02,% of valid answers,cis_3420
+2023,ES,65-74,self_reported_turnout_pct_unweighted,93.73,% of valid answers,cis_3420
+2023,ES,75+,self_reported_turnout_pct_unweighted,91.98,% of valid answers,cis_3420
+2023,ES,18+,self_reported_turnout_pct_weighted,88.94,% of valid answers,cis_3420
+2023,ES,18-24,self_reported_turnout_pct_weighted,80.32,% of valid answers,cis_3420
+2023,ES,18-29,self_reported_turnout_pct_weighted,80.63,% of valid answers,cis_3420
+2023,ES,25-29,self_reported_turnout_pct_weighted,81.08,% of valid answers,cis_3420
+2023,ES,30-34,self_reported_turnout_pct_weighted,84.42,% of valid answers,cis_3420
+2023,ES,30-44,self_reported_turnout_pct_weighted,87.12,% of valid answers,cis_3420
+2023,ES,35-44,self_reported_turnout_pct_weighted,88.12,% of valid answers,cis_3420
+2023,ES,45-54,self_reported_turnout_pct_weighted,88.93,% of valid answers,cis_3420
+2023,ES,45-64,self_reported_turnout_pct_weighted,90.56,% of valid answers,cis_3420
+2023,ES,55-64,self_reported_turnout_pct_weighted,92.39,% of valid answers,cis_3420
+2023,ES,65+,self_reported_turnout_pct_weighted,92.75,% of valid answers,cis_3420
+2023,ES,65-74,self_reported_turnout_pct_weighted,93.81,% of valid answers,cis_3420
+2023,ES,75+,self_reported_turnout_pct_weighted,91.7,% of valid answers,cis_3420

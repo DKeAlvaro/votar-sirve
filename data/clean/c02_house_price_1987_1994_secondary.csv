@@ -1,0 +1,41 @@
+date,geo,group,variable,value,unit,source_id
+1987,ESPAÑA,,price_m2_all_annual,327.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1988,ESPAÑA,,price_m2_all_annual,409.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1989,ESPAÑA,,price_m2_all_annual,505.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1990,ESPAÑA,,price_m2_all_annual,584.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1991,ESPAÑA,,price_m2_all_annual,667.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1992,ESPAÑA,,price_m2_all_annual,658.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1993,ESPAÑA,,price_m2_all_annual,656.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1994,ESPAÑA,,price_m2_all_annual,660.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1987,Andalucía,,price_m2_all_annual,270.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1988,Andalucía,,price_m2_all_annual,311.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1989,Andalucía,,price_m2_all_annual,364.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1990,Andalucía,,price_m2_all_annual,427.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1991,Andalucía,,price_m2_all_annual,472.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1992,Andalucía,,price_m2_all_annual,489.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1993,Andalucía,,price_m2_all_annual,495.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1994,Andalucía,,price_m2_all_annual,499.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1987,Cataluña,,price_m2_all_annual,303.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1988,Cataluña,,price_m2_all_annual,412.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1989,Cataluña,,price_m2_all_annual,516.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1990,Cataluña,,price_m2_all_annual,611.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1991,Cataluña,,price_m2_all_annual,724.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1992,Cataluña,,price_m2_all_annual,710.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1993,Cataluña,,price_m2_all_annual,704.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1994,Cataluña,,price_m2_all_annual,723.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1987,Comunidad Valenciana,,price_m2_all_annual,232.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1988,Comunidad Valenciana,,price_m2_all_annual,273.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1989,Comunidad Valenciana,,price_m2_all_annual,336.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1990,Comunidad Valenciana,,price_m2_all_annual,392.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1991,Comunidad Valenciana,,price_m2_all_annual,427.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1992,Comunidad Valenciana,,price_m2_all_annual,435.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1993,Comunidad Valenciana,,price_m2_all_annual,459.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1994,Comunidad Valenciana,,price_m2_all_annual,468.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1987,Madrid,,price_m2_all_annual,450.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1988,Madrid,,price_m2_all_annual,600.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1989,Madrid,,price_m2_all_annual,780.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1990,Madrid,,price_m2_all_annual,888.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1991,Madrid,,price_m2_all_annual,1060.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1992,Madrid,,price_m2_all_annual,1018.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1993,Madrid,,price_m2_all_annual,1031.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY
+1994,Madrid,,price_m2_all_annual,1031.0,EUR/m2,verges2012_fomento_tasaciones_SECONDARY

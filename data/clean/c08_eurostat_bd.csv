@@ -1,0 +1,217 @@
+date,geo,group,variable,value,unit,source_id
+2008,ES,,active_enterprises,3711835,number,eurostat_bd_9bd_sz_cl_r2
+2009,ES,,active_enterprises,3631232,number,eurostat_bd_9bd_sz_cl_r2
+2010,ES,,active_enterprises,3554571,number,eurostat_bd_9bd_sz_cl_r2
+2011,ES,,active_enterprises,3514894,number,eurostat_bd_9bd_sz_cl_r2
+2012,ES,,active_enterprises,3466110,number,eurostat_bd_9bd_sz_cl_r2
+2013,ES,,active_enterprises,3417758,number,eurostat_bd_9bd_sz_cl_r2
+2014,ES,,active_enterprises,3432072,number,eurostat_bd_9bd_sz_cl_r2
+2015,ES,,active_enterprises,3482354,number,eurostat_bd_9bd_sz_cl_r2
+2016,ES,,active_enterprises,3563816,number,eurostat_bd_9bd_sz_cl_r2
+2017,ES,,active_enterprises,3580773,number,eurostat_bd_9bd_sz_cl_r2
+2018,ES,,active_enterprises,3682313,number,eurostat_bd_9bd_sz_cl_r2
+2019,ES,,active_enterprises,3747034,number,eurostat_bd_9bd_sz_cl_r2
+2020,ES,,active_enterprises,3704082,number,eurostat_bd_9bd_sz_cl_r2
+2007,NL,,active_enterprises,1068988,number,eurostat_bd_9bd_sz_cl_r2
+2008,NL,,active_enterprises,1152867,number,eurostat_bd_9bd_sz_cl_r2
+2009,NL,,active_enterprises,1238676,number,eurostat_bd_9bd_sz_cl_r2
+2010,NL,,active_enterprises,1272747,number,eurostat_bd_9bd_sz_cl_r2
+2011,NL,,active_enterprises,1342475,number,eurostat_bd_9bd_sz_cl_r2
+2012,NL,,active_enterprises,1389274,number,eurostat_bd_9bd_sz_cl_r2
+2013,NL,,active_enterprises,1414497,number,eurostat_bd_9bd_sz_cl_r2
+2014,NL,,active_enterprises,1457482,number,eurostat_bd_9bd_sz_cl_r2
+2015,NL,,active_enterprises,1519208,number,eurostat_bd_9bd_sz_cl_r2
+2016,NL,,active_enterprises,1587303,number,eurostat_bd_9bd_sz_cl_r2
+2017,NL,,active_enterprises,1636565,number,eurostat_bd_9bd_sz_cl_r2
+2018,NL,,active_enterprises,1731813,number,eurostat_bd_9bd_sz_cl_r2
+2019,NL,,active_enterprises,1835882,number,eurostat_bd_9bd_sz_cl_r2
+2020,NL,,active_enterprises,1931211,number,eurostat_bd_9bd_sz_cl_r2
+2008,ES,,enterprise_birth_rate,7.75,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2009,ES,,enterprise_birth_rate,7.37,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2010,ES,,enterprise_birth_rate,8.04,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2011,ES,,enterprise_birth_rate,8.19,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2012,ES,,enterprise_birth_rate,8.29,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2013,ES,,enterprise_birth_rate,8.59,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2014,ES,,enterprise_birth_rate,10.13,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2015,ES,,enterprise_birth_rate,9.5,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2016,ES,,enterprise_birth_rate,10.28,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2017,ES,,enterprise_birth_rate,9.38,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2018,ES,,enterprise_birth_rate,10.23,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2019,ES,,enterprise_birth_rate,9.76,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2020,ES,,enterprise_birth_rate,7.52,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2007,NL,,enterprise_birth_rate,15.54,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2008,NL,,enterprise_birth_rate,13.43,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2009,NL,,enterprise_birth_rate,13.97,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2010,NL,,enterprise_birth_rate,11.72,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2011,NL,,enterprise_birth_rate,11.77,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2012,NL,,enterprise_birth_rate,10.65,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2013,NL,,enterprise_birth_rate,10.48,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2014,NL,,enterprise_birth_rate,10.35,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2015,NL,,enterprise_birth_rate,10.07,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2016,NL,,enterprise_birth_rate,9.94,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2017,NL,,enterprise_birth_rate,9.72,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2018,NL,,enterprise_birth_rate,10.05,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2019,NL,,enterprise_birth_rate,10.74,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2020,NL,,enterprise_birth_rate,10.27,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2004,ES,,enterprise_births,323525,number,eurostat_bd_9bd_sz_cl_r2
+2005,ES,,enterprise_births,357945,number,eurostat_bd_9bd_sz_cl_r2
+2006,ES,,enterprise_births,369304,number,eurostat_bd_9bd_sz_cl_r2
+2007,ES,,enterprise_births,356358,number,eurostat_bd_9bd_sz_cl_r2
+2008,ES,,enterprise_births,287550,number,eurostat_bd_9bd_sz_cl_r2
+2009,ES,,enterprise_births,267546,number,eurostat_bd_9bd_sz_cl_r2
+2010,ES,,enterprise_births,285736,number,eurostat_bd_9bd_sz_cl_r2
+2011,ES,,enterprise_births,287780,number,eurostat_bd_9bd_sz_cl_r2
+2012,ES,,enterprise_births,287311,number,eurostat_bd_9bd_sz_cl_r2
+2013,ES,,enterprise_births,293466,number,eurostat_bd_9bd_sz_cl_r2
+2014,ES,,enterprise_births,347605,number,eurostat_bd_9bd_sz_cl_r2
+2015,ES,,enterprise_births,330958,number,eurostat_bd_9bd_sz_cl_r2
+2016,ES,,enterprise_births,366362,number,eurostat_bd_9bd_sz_cl_r2
+2017,ES,,enterprise_births,336000,number,eurostat_bd_9bd_sz_cl_r2
+2018,ES,,enterprise_births,376785,number,eurostat_bd_9bd_sz_cl_r2
+2019,ES,,enterprise_births,365893,number,eurostat_bd_9bd_sz_cl_r2
+2020,ES,,enterprise_births,278525,number,eurostat_bd_9bd_sz_cl_r2
+2004,NL,,enterprise_births,63800,number,eurostat_bd_9bd_sz_cl_r2
+2005,NL,,enterprise_births,75506,number,eurostat_bd_9bd_sz_cl_r2
+2006,NL,,enterprise_births,87374,number,eurostat_bd_9bd_sz_cl_r2
+2007,NL,,enterprise_births,166170,number,eurostat_bd_9bd_sz_cl_r2
+2008,NL,,enterprise_births,154775,number,eurostat_bd_9bd_sz_cl_r2
+2009,NL,,enterprise_births,173029,number,eurostat_bd_9bd_sz_cl_r2
+2010,NL,,enterprise_births,149109,number,eurostat_bd_9bd_sz_cl_r2
+2011,NL,,enterprise_births,157984,number,eurostat_bd_9bd_sz_cl_r2
+2012,NL,,enterprise_births,147938,number,eurostat_bd_9bd_sz_cl_r2
+2013,NL,,enterprise_births,148176,number,eurostat_bd_9bd_sz_cl_r2
+2014,NL,,enterprise_births,150879,number,eurostat_bd_9bd_sz_cl_r2
+2015,NL,,enterprise_births,152955,number,eurostat_bd_9bd_sz_cl_r2
+2016,NL,,enterprise_births,157705,number,eurostat_bd_9bd_sz_cl_r2
+2017,NL,,enterprise_births,159075,number,eurostat_bd_9bd_sz_cl_r2
+2018,NL,,enterprise_births,174061,number,eurostat_bd_9bd_sz_cl_r2
+2019,NL,,enterprise_births,197154,number,eurostat_bd_9bd_sz_cl_r2
+2020,NL,,enterprise_births,198284,number,eurostat_bd_9bd_sz_cl_r2
+2008,ES,,enterprise_death_rate,9.19,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2009,ES,,enterprise_death_rate,9.48,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2010,ES,,enterprise_death_rate,8.95,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2011,ES,,enterprise_death_rate,9.5,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2012,ES,,enterprise_death_rate,9.6,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2013,ES,,enterprise_death_rate,9.33,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2014,ES,,enterprise_death_rate,8.06,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2015,ES,,enterprise_death_rate,8.38,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2016,ES,,enterprise_death_rate,8.88,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2017,ES,,enterprise_death_rate,7.91,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2018,ES,,enterprise_death_rate,8.0,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2019,ES,,enterprise_death_rate,8.52,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2020,ES,,enterprise_death_rate,8.4,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2007,NL,,enterprise_death_rate,7.2,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2008,NL,,enterprise_death_rate,7.44,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2009,NL,,enterprise_death_rate,8.07,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2010,NL,,enterprise_death_rate,6.99,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2011,NL,,enterprise_death_rate,7.38,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2012,NL,,enterprise_death_rate,8.61,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2013,NL,,enterprise_death_rate,7.57,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2014,NL,,enterprise_death_rate,6.12,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2015,NL,,enterprise_death_rate,5.88,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2016,NL,,enterprise_death_rate,6.58,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2017,NL,,enterprise_death_rate,5.22,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2018,NL,,enterprise_death_rate,5.43,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2019,NL,,enterprise_death_rate,5.58,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2020,NL,,enterprise_death_rate,6.88,percent of active enterprises,eurostat_bd_9bd_sz_cl_r2
+2012,ES,,high_growth_share_10plus_emp,7.99,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2013,ES,,high_growth_share_10plus_emp,7.98,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2014,ES,,high_growth_share_10plus_emp,9.48,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2015,ES,,high_growth_share_10plus_emp,11.88,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2016,ES,,high_growth_share_10plus_emp,13.92,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2017,ES,,high_growth_share_10plus_emp,15.02,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2018,ES,,high_growth_share_10plus_emp,16.07,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2019,ES,,high_growth_share_10plus_emp,15.63,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2020,ES,,high_growth_share_10plus_emp,11.28,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2014,EU27_2020,,high_growth_share_10plus_emp,8.58,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2015,EU27_2020,,high_growth_share_10plus_emp,9.7,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2016,EU27_2020,,high_growth_share_10plus_emp,10.58,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2017,EU27_2020,,high_growth_share_10plus_emp,11.48,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2018,EU27_2020,,high_growth_share_10plus_emp,11.88,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2019,EU27_2020,,high_growth_share_10plus_emp,11.46,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2020,EU27_2020,,high_growth_share_10plus_emp,9.43,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2012,NL,,high_growth_share_10plus_emp,9.83,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2013,NL,,high_growth_share_10plus_emp,9.91,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2014,NL,,high_growth_share_10plus_emp,9.64,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2015,NL,,high_growth_share_10plus_emp,10.71,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2016,NL,,high_growth_share_10plus_emp,12.29,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2017,NL,,high_growth_share_10plus_emp,13.94,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2018,NL,,high_growth_share_10plus_emp,16.27,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2019,NL,,high_growth_share_10plus_emp,14.64,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2020,NL,,high_growth_share_10plus_emp,12.52,percent of enterprises with >=10 employees,eurostat_bd_9pm_r2
+2008,ES,,survival_rate_1y,79.09,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2009,ES,,survival_rate_1y,79.18,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2010,ES,,survival_rate_1y,79.93,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2011,ES,,survival_rate_1y,76.53,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2012,ES,,survival_rate_1y,75.76,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2013,ES,,survival_rate_1y,75.96,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2014,ES,,survival_rate_1y,77.45,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2015,ES,,survival_rate_1y,76.47,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2016,ES,,survival_rate_1y,77.32,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2017,ES,,survival_rate_1y,76.49,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2018,ES,,survival_rate_1y,75.51,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2019,ES,,survival_rate_1y,76.98,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2020,ES,,survival_rate_1y,78.61,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2008,NL,,survival_rate_1y,93.38,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2009,NL,,survival_rate_1y,93.56,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2010,NL,,survival_rate_1y,92.55,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2011,NL,,survival_rate_1y,93.7,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2012,NL,,survival_rate_1y,92.05,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2013,NL,,survival_rate_1y,91.02,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2014,NL,,survival_rate_1y,94.63,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2015,NL,,survival_rate_1y,95.27,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2016,NL,,survival_rate_1y,95.71,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2017,NL,,survival_rate_1y,95.13,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2018,NL,,survival_rate_1y,96.03,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2019,NL,,survival_rate_1y,96.28,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2020,NL,,survival_rate_1y,96.06,percent of births (t-1 cohort),eurostat_bd_9bd_sz_cl_r2
+2008,ES,,survival_rate_3y,61.68,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2009,ES,,survival_rate_3y,56.07,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2010,ES,,survival_rate_3y,54.42,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2011,ES,,survival_rate_3y,55.27,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2012,ES,,survival_rate_3y,53.79,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2013,ES,,survival_rate_3y,52.02,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2014,ES,,survival_rate_3y,52.47,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2015,ES,,survival_rate_3y,54.91,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2016,ES,,survival_rate_3y,55.4,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2017,ES,,survival_rate_3y,53.54,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2018,ES,,survival_rate_3y,56.33,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2019,ES,,survival_rate_3y,56.0,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2020,ES,,survival_rate_3y,54.93,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2008,NL,,survival_rate_3y,56.86,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2009,NL,,survival_rate_3y,54.57,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2010,NL,,survival_rate_3y,69.78,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2011,NL,,survival_rate_3y,69.96,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2012,NL,,survival_rate_3y,71.19,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2013,NL,,survival_rate_3y,68.86,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2014,NL,,survival_rate_3y,67.72,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2015,NL,,survival_rate_3y,69.5,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2016,NL,,survival_rate_3y,73.58,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2017,NL,,survival_rate_3y,73.36,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2018,NL,,survival_rate_3y,76.57,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2019,NL,,survival_rate_3y,77.01,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2020,NL,,survival_rate_3y,76.94,percent of births (t-3 cohort),eurostat_bd_9bd_sz_cl_r2
+2009,ES,,survival_rate_5y,49.33,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2010,ES,,survival_rate_5y,46.07,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2011,ES,,survival_rate_5y,41.96,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2012,ES,,survival_rate_5y,40.38,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2013,ES,,survival_rate_5y,41.35,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2014,ES,,survival_rate_5y,40.71,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2015,ES,,survival_rate_5y,39.99,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2016,ES,,survival_rate_5y,40.36,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2017,ES,,survival_rate_5y,42.7,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2018,ES,,survival_rate_5y,44.07,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2019,ES,,survival_rate_5y,42.14,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2020,ES,,survival_rate_5y,45.09,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2009,NL,,survival_rate_5y,46.87,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2010,NL,,survival_rate_5y,45.91,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2011,NL,,survival_rate_5y,44.85,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2012,NL,,survival_rate_5y,57.67,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2013,NL,,survival_rate_5y,56.09,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2014,NL,,survival_rate_5y,56.51,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2015,NL,,survival_rate_5y,56.0,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2016,NL,,survival_rate_5y,56.59,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2017,NL,,survival_rate_5y,56.46,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2018,NL,,survival_rate_5y,60.38,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2019,NL,,survival_rate_5y,61.82,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2
+2020,NL,,survival_rate_5y,64.65,percent of births (t-5 cohort),eurostat_bd_9bd_sz_cl_r2

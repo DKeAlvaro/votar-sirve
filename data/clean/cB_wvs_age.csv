@@ -1,0 +1,1065 @@
+date,geo,group,variable,value,unit,source_id
+2012,NL,all,A170_lifesat:share_1to3,1.92,pct valid,wvs_online_Netherlands_2012
+2012,NL,all,A170_lifesat:share_8to10,57.27,pct valid,wvs_online_Netherlands_2012
+2012,NL,all,A170_lifesat:mean_1to10,7.49,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,all,A170_lifesat:n_total_sample_group,1902.0,respondents,wvs_online_Netherlands_2012
+2012,NL,<30,A170_lifesat:share_1to3,1.65,pct valid,wvs_online_Netherlands_2012
+2012,NL,<30,A170_lifesat:share_8to10,59.75,pct valid,wvs_online_Netherlands_2012
+2012,NL,<30,A170_lifesat:mean_1to10,7.52,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,<30,A170_lifesat:n_total_sample_group,190.0,respondents,wvs_online_Netherlands_2012
+2012,NL,30-49,A170_lifesat:share_1to3,2.95,pct valid,wvs_online_Netherlands_2012
+2012,NL,30-49,A170_lifesat:share_8to10,54.17,pct valid,wvs_online_Netherlands_2012
+2012,NL,30-49,A170_lifesat:mean_1to10,7.41,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,30-49,A170_lifesat:n_total_sample_group,569.0,respondents,wvs_online_Netherlands_2012
+2012,NL,50+,A170_lifesat:share_1to3,1.51,pct valid,wvs_online_Netherlands_2012
+2012,NL,50+,A170_lifesat:share_8to10,58.39,pct valid,wvs_online_Netherlands_2012
+2012,NL,50+,A170_lifesat:mean_1to10,7.53,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,50+,A170_lifesat:n_total_sample_group,1143.0,respondents,wvs_online_Netherlands_2012
+2012,NL,all,A173_freedom:share_1to3,2.65,pct valid,wvs_online_Netherlands_2012
+2012,NL,all,A173_freedom:share_8to10,34.53,pct valid,wvs_online_Netherlands_2012
+2012,NL,all,A173_freedom:mean_1to10,6.9,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,all,A173_freedom:n_total_sample_group,1902.0,respondents,wvs_online_Netherlands_2012
+2012,NL,<30,A173_freedom:share_1to3,1.78,pct valid,wvs_online_Netherlands_2012
+2012,NL,<30,A173_freedom:share_8to10,43.22,pct valid,wvs_online_Netherlands_2012
+2012,NL,<30,A173_freedom:mean_1to10,7.18,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,<30,A173_freedom:n_total_sample_group,190.0,respondents,wvs_online_Netherlands_2012
+2012,NL,30-49,A173_freedom:share_1to3,2.45,pct valid,wvs_online_Netherlands_2012
+2012,NL,30-49,A173_freedom:share_8to10,36.32,pct valid,wvs_online_Netherlands_2012
+2012,NL,30-49,A173_freedom:mean_1to10,7.01,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,30-49,A173_freedom:n_total_sample_group,569.0,respondents,wvs_online_Netherlands_2012
+2012,NL,50+,A173_freedom:share_1to3,2.93,pct valid,wvs_online_Netherlands_2012
+2012,NL,50+,A173_freedom:share_8to10,32.22,pct valid,wvs_online_Netherlands_2012
+2012,NL,50+,A173_freedom:mean_1to10,6.8,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,50+,A173_freedom:n_total_sample_group,1143.0,respondents,wvs_online_Netherlands_2012
+2012,NL,all,E036_ownership:share_1to3,13.56,pct valid,wvs_online_Netherlands_2012
+2012,NL,all,E036_ownership:share_8to10,12.95,pct valid,wvs_online_Netherlands_2012
+2012,NL,all,E036_ownership:mean_1to10,5.49,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,all,E036_ownership:n_total_sample_group,1902.0,respondents,wvs_online_Netherlands_2012
+2012,NL,<30,E036_ownership:share_1to3,10.88,pct valid,wvs_online_Netherlands_2012
+2012,NL,<30,E036_ownership:share_8to10,10.88,pct valid,wvs_online_Netherlands_2012
+2012,NL,<30,E036_ownership:mean_1to10,5.42,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,<30,E036_ownership:n_total_sample_group,190.0,respondents,wvs_online_Netherlands_2012
+2012,NL,30-49,E036_ownership:share_1to3,14.49,pct valid,wvs_online_Netherlands_2012
+2012,NL,30-49,E036_ownership:share_8to10,12.06,pct valid,wvs_online_Netherlands_2012
+2012,NL,30-49,E036_ownership:mean_1to10,5.37,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,30-49,E036_ownership:n_total_sample_group,569.0,respondents,wvs_online_Netherlands_2012
+2012,NL,50+,E036_ownership:share_1to3,13.29,pct valid,wvs_online_Netherlands_2012
+2012,NL,50+,E036_ownership:share_8to10,13.77,pct valid,wvs_online_Netherlands_2012
+2012,NL,50+,E036_ownership:mean_1to10,5.55,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,50+,E036_ownership:n_total_sample_group,1143.0,respondents,wvs_online_Netherlands_2012
+2012,NL,all,E037_govresp:share_1to3,15.32,pct valid,wvs_online_Netherlands_2012
+2012,NL,all,E037_govresp:share_8to10,21.72,pct valid,wvs_online_Netherlands_2012
+2012,NL,all,E037_govresp:mean_1to10,5.81,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,all,E037_govresp:n_total_sample_group,1902.0,respondents,wvs_online_Netherlands_2012
+2012,NL,<30,E037_govresp:share_1to3,14.11,pct valid,wvs_online_Netherlands_2012
+2012,NL,<30,E037_govresp:share_8to10,21.0,pct valid,wvs_online_Netherlands_2012
+2012,NL,<30,E037_govresp:mean_1to10,5.85,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,<30,E037_govresp:n_total_sample_group,190.0,respondents,wvs_online_Netherlands_2012
+2012,NL,30-49,E037_govresp:share_1to3,15.83,pct valid,wvs_online_Netherlands_2012
+2012,NL,30-49,E037_govresp:share_8to10,22.53,pct valid,wvs_online_Netherlands_2012
+2012,NL,30-49,E037_govresp:mean_1to10,5.79,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,30-49,E037_govresp:n_total_sample_group,569.0,respondents,wvs_online_Netherlands_2012
+2012,NL,50+,E037_govresp:share_1to3,15.31,pct valid,wvs_online_Netherlands_2012
+2012,NL,50+,E037_govresp:share_8to10,21.3,pct valid,wvs_online_Netherlands_2012
+2012,NL,50+,E037_govresp:mean_1to10,5.81,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,50+,E037_govresp:n_total_sample_group,1143.0,respondents,wvs_online_Netherlands_2012
+2012,NL,all,E039_competition:share_1to3,25.08,pct valid,wvs_online_Netherlands_2012
+2012,NL,all,E039_competition:share_8to10,8.32,pct valid,wvs_online_Netherlands_2012
+2012,NL,all,E039_competition:mean_1to10,4.81,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,all,E039_competition:n_total_sample_group,1902.0,respondents,wvs_online_Netherlands_2012
+2012,NL,<30,E039_competition:share_1to3,27.78,pct valid,wvs_online_Netherlands_2012
+2012,NL,<30,E039_competition:share_8to10,7.09,pct valid,wvs_online_Netherlands_2012
+2012,NL,<30,E039_competition:mean_1to10,4.55,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,<30,E039_competition:n_total_sample_group,190.0,respondents,wvs_online_Netherlands_2012
+2012,NL,30-49,E039_competition:share_1to3,21.41,pct valid,wvs_online_Netherlands_2012
+2012,NL,30-49,E039_competition:share_8to10,8.35,pct valid,wvs_online_Netherlands_2012
+2012,NL,30-49,E039_competition:mean_1to10,4.88,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,30-49,E039_competition:n_total_sample_group,569.0,respondents,wvs_online_Netherlands_2012
+2012,NL,50+,E039_competition:share_1to3,26.26,pct valid,wvs_online_Netherlands_2012
+2012,NL,50+,E039_competition:share_8to10,8.72,pct valid,wvs_online_Netherlands_2012
+2012,NL,50+,E039_competition:mean_1to10,4.82,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,50+,E039_competition:n_total_sample_group,1143.0,respondents,wvs_online_Netherlands_2012
+2012,NL,all,E040_hardwork:share_1to3,31.89,pct valid,wvs_online_Netherlands_2012
+2012,NL,all,E040_hardwork:share_8to10,11.86,pct valid,wvs_online_Netherlands_2012
+2012,NL,all,E040_hardwork:mean_1to10,4.79,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,all,E040_hardwork:n_total_sample_group,1902.0,respondents,wvs_online_Netherlands_2012
+2012,NL,<30,E040_hardwork:share_1to3,38.04,pct valid,wvs_online_Netherlands_2012
+2012,NL,<30,E040_hardwork:share_8to10,7.56,pct valid,wvs_online_Netherlands_2012
+2012,NL,<30,E040_hardwork:mean_1to10,4.36,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,<30,E040_hardwork:n_total_sample_group,190.0,respondents,wvs_online_Netherlands_2012
+2012,NL,30-49,E040_hardwork:share_1to3,30.46,pct valid,wvs_online_Netherlands_2012
+2012,NL,30-49,E040_hardwork:share_8to10,12.67,pct valid,wvs_online_Netherlands_2012
+2012,NL,30-49,E040_hardwork:mean_1to10,4.93,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,30-49,E040_hardwork:n_total_sample_group,569.0,respondents,wvs_online_Netherlands_2012
+2012,NL,50+,E040_hardwork:share_1to3,31.62,pct valid,wvs_online_Netherlands_2012
+2012,NL,50+,E040_hardwork:share_8to10,12.18,pct valid,wvs_online_Netherlands_2012
+2012,NL,50+,E040_hardwork:mean_1to10,4.79,scale 1-10,wvs_online_Netherlands_2012
+2012,NL,50+,E040_hardwork:n_total_sample_group,1143.0,respondents,wvs_online_Netherlands_2012
+2011,ES,all,A170_lifesat:share_1to3,4.17,pct valid,wvs_online_Spain_2011
+2011,ES,all,A170_lifesat:share_8to10,36.48,pct valid,wvs_online_Spain_2011
+2011,ES,all,A170_lifesat:mean_1to10,6.79,scale 1-10,wvs_online_Spain_2011
+2011,ES,all,A170_lifesat:n_total_sample_group,1189.0,respondents,wvs_online_Spain_2011
+2011,ES,<30,A170_lifesat:share_1to3,1.72,pct valid,wvs_online_Spain_2011
+2011,ES,<30,A170_lifesat:share_8to10,48.48,pct valid,wvs_online_Spain_2011
+2011,ES,<30,A170_lifesat:mean_1to10,7.25,scale 1-10,wvs_online_Spain_2011
+2011,ES,<30,A170_lifesat:n_total_sample_group,275.0,respondents,wvs_online_Spain_2011
+2011,ES,30-49,A170_lifesat:share_1to3,4.99,pct valid,wvs_online_Spain_2011
+2011,ES,30-49,A170_lifesat:share_8to10,34.76,pct valid,wvs_online_Spain_2011
+2011,ES,30-49,A170_lifesat:mean_1to10,6.66,scale 1-10,wvs_online_Spain_2011
+2011,ES,30-49,A170_lifesat:n_total_sample_group,437.0,respondents,wvs_online_Spain_2011
+2011,ES,50+,A170_lifesat:share_1to3,4.79,pct valid,wvs_online_Spain_2011
+2011,ES,50+,A170_lifesat:share_8to10,31.09,pct valid,wvs_online_Spain_2011
+2011,ES,50+,A170_lifesat:mean_1to10,6.65,scale 1-10,wvs_online_Spain_2011
+2011,ES,50+,A170_lifesat:n_total_sample_group,478.0,respondents,wvs_online_Spain_2011
+2011,ES,all,A173_freedom:share_1to3,4.15,pct valid,wvs_online_Spain_2011
+2011,ES,all,A173_freedom:share_8to10,37.34,pct valid,wvs_online_Spain_2011
+2011,ES,all,A173_freedom:mean_1to10,6.95,scale 1-10,wvs_online_Spain_2011
+2011,ES,all,A173_freedom:n_total_sample_group,1189.0,respondents,wvs_online_Spain_2011
+2011,ES,<30,A173_freedom:share_1to3,1.75,pct valid,wvs_online_Spain_2011
+2011,ES,<30,A173_freedom:share_8to10,38.66,pct valid,wvs_online_Spain_2011
+2011,ES,<30,A173_freedom:mean_1to10,7.09,scale 1-10,wvs_online_Spain_2011
+2011,ES,<30,A173_freedom:n_total_sample_group,275.0,respondents,wvs_online_Spain_2011
+2011,ES,30-49,A173_freedom:share_1to3,4.06,pct valid,wvs_online_Spain_2011
+2011,ES,30-49,A173_freedom:share_8to10,35.7,pct valid,wvs_online_Spain_2011
+2011,ES,30-49,A173_freedom:mean_1to10,6.92,scale 1-10,wvs_online_Spain_2011
+2011,ES,30-49,A173_freedom:n_total_sample_group,437.0,respondents,wvs_online_Spain_2011
+2011,ES,50+,A173_freedom:share_1to3,5.53,pct valid,wvs_online_Spain_2011
+2011,ES,50+,A173_freedom:share_8to10,38.26,pct valid,wvs_online_Spain_2011
+2011,ES,50+,A173_freedom:mean_1to10,6.89,scale 1-10,wvs_online_Spain_2011
+2011,ES,50+,A173_freedom:n_total_sample_group,478.0,respondents,wvs_online_Spain_2011
+2011,ES,all,E036_ownership:share_1to3,17.38,pct valid,wvs_online_Spain_2011
+2011,ES,all,E036_ownership:share_8to10,17.27,pct valid,wvs_online_Spain_2011
+2011,ES,all,E036_ownership:mean_1to10,5.37,scale 1-10,wvs_online_Spain_2011
+2011,ES,all,E036_ownership:n_total_sample_group,1189.0,respondents,wvs_online_Spain_2011
+2011,ES,<30,E036_ownership:share_1to3,13.99,pct valid,wvs_online_Spain_2011
+2011,ES,<30,E036_ownership:share_8to10,18.73,pct valid,wvs_online_Spain_2011
+2011,ES,<30,E036_ownership:mean_1to10,5.57,scale 1-10,wvs_online_Spain_2011
+2011,ES,<30,E036_ownership:n_total_sample_group,275.0,respondents,wvs_online_Spain_2011
+2011,ES,30-49,E036_ownership:share_1to3,18.66,pct valid,wvs_online_Spain_2011
+2011,ES,30-49,E036_ownership:share_8to10,14.19,pct valid,wvs_online_Spain_2011
+2011,ES,30-49,E036_ownership:mean_1to10,5.23,scale 1-10,wvs_online_Spain_2011
+2011,ES,30-49,E036_ownership:n_total_sample_group,437.0,respondents,wvs_online_Spain_2011
+2011,ES,50+,E036_ownership:share_1to3,18.27,pct valid,wvs_online_Spain_2011
+2011,ES,50+,E036_ownership:share_8to10,19.47,pct valid,wvs_online_Spain_2011
+2011,ES,50+,E036_ownership:mean_1to10,5.39,scale 1-10,wvs_online_Spain_2011
+2011,ES,50+,E036_ownership:n_total_sample_group,478.0,respondents,wvs_online_Spain_2011
+2011,ES,all,E037_govresp:share_1to3,39.59,pct valid,wvs_online_Spain_2011
+2011,ES,all,E037_govresp:share_8to10,10.56,pct valid,wvs_online_Spain_2011
+2011,ES,all,E037_govresp:mean_1to10,4.35,scale 1-10,wvs_online_Spain_2011
+2011,ES,all,E037_govresp:n_total_sample_group,1189.0,respondents,wvs_online_Spain_2011
+2011,ES,<30,E037_govresp:share_1to3,37.08,pct valid,wvs_online_Spain_2011
+2011,ES,<30,E037_govresp:share_8to10,11.44,pct valid,wvs_online_Spain_2011
+2011,ES,<30,E037_govresp:mean_1to10,4.52,scale 1-10,wvs_online_Spain_2011
+2011,ES,<30,E037_govresp:n_total_sample_group,275.0,respondents,wvs_online_Spain_2011
+2011,ES,30-49,E037_govresp:share_1to3,40.22,pct valid,wvs_online_Spain_2011
+2011,ES,30-49,E037_govresp:share_8to10,9.73,pct valid,wvs_online_Spain_2011
+2011,ES,30-49,E037_govresp:mean_1to10,4.26,scale 1-10,wvs_online_Spain_2011
+2011,ES,30-49,E037_govresp:n_total_sample_group,437.0,respondents,wvs_online_Spain_2011
+2011,ES,50+,E037_govresp:share_1to3,40.35,pct valid,wvs_online_Spain_2011
+2011,ES,50+,E037_govresp:share_8to10,10.84,pct valid,wvs_online_Spain_2011
+2011,ES,50+,E037_govresp:mean_1to10,4.34,scale 1-10,wvs_online_Spain_2011
+2011,ES,50+,E037_govresp:n_total_sample_group,478.0,respondents,wvs_online_Spain_2011
+2011,ES,all,E039_competition:share_1to3,47.24,pct valid,wvs_online_Spain_2011
+2011,ES,all,E039_competition:share_8to10,4.68,pct valid,wvs_online_Spain_2011
+2011,ES,all,E039_competition:mean_1to10,3.88,scale 1-10,wvs_online_Spain_2011
+2011,ES,all,E039_competition:n_total_sample_group,1189.0,respondents,wvs_online_Spain_2011
+2011,ES,<30,E039_competition:share_1to3,47.48,pct valid,wvs_online_Spain_2011
+2011,ES,<30,E039_competition:share_8to10,6.06,pct valid,wvs_online_Spain_2011
+2011,ES,<30,E039_competition:mean_1to10,3.97,scale 1-10,wvs_online_Spain_2011
+2011,ES,<30,E039_competition:n_total_sample_group,275.0,respondents,wvs_online_Spain_2011
+2011,ES,30-49,E039_competition:share_1to3,48.77,pct valid,wvs_online_Spain_2011
+2011,ES,30-49,E039_competition:share_8to10,2.78,pct valid,wvs_online_Spain_2011
+2011,ES,30-49,E039_competition:mean_1to10,3.79,scale 1-10,wvs_online_Spain_2011
+2011,ES,30-49,E039_competition:n_total_sample_group,437.0,respondents,wvs_online_Spain_2011
+2011,ES,50+,E039_competition:share_1to3,45.96,pct valid,wvs_online_Spain_2011
+2011,ES,50+,E039_competition:share_8to10,5.53,pct valid,wvs_online_Spain_2011
+2011,ES,50+,E039_competition:mean_1to10,3.91,scale 1-10,wvs_online_Spain_2011
+2011,ES,50+,E039_competition:n_total_sample_group,478.0,respondents,wvs_online_Spain_2011
+2011,ES,all,E040_hardwork:share_1to3,39.36,pct valid,wvs_online_Spain_2011
+2011,ES,all,E040_hardwork:share_8to10,10.28,pct valid,wvs_online_Spain_2011
+2011,ES,all,E040_hardwork:mean_1to10,4.27,scale 1-10,wvs_online_Spain_2011
+2011,ES,all,E040_hardwork:n_total_sample_group,1189.0,respondents,wvs_online_Spain_2011
+2011,ES,<30,E040_hardwork:share_1to3,36.98,pct valid,wvs_online_Spain_2011
+2011,ES,<30,E040_hardwork:share_8to10,10.94,pct valid,wvs_online_Spain_2011
+2011,ES,<30,E040_hardwork:mean_1to10,4.33,scale 1-10,wvs_online_Spain_2011
+2011,ES,<30,E040_hardwork:n_total_sample_group,275.0,respondents,wvs_online_Spain_2011
+2011,ES,30-49,E040_hardwork:share_1to3,38.51,pct valid,wvs_online_Spain_2011
+2011,ES,30-49,E040_hardwork:share_8to10,10.42,pct valid,wvs_online_Spain_2011
+2011,ES,30-49,E040_hardwork:mean_1to10,4.32,scale 1-10,wvs_online_Spain_2011
+2011,ES,30-49,E040_hardwork:n_total_sample_group,437.0,respondents,wvs_online_Spain_2011
+2011,ES,50+,E040_hardwork:share_1to3,41.35,pct valid,wvs_online_Spain_2011
+2011,ES,50+,E040_hardwork:share_8to10,10.0,pct valid,wvs_online_Spain_2011
+2011,ES,50+,E040_hardwork:mean_1to10,4.18,scale 1-10,wvs_online_Spain_2011
+2011,ES,50+,E040_hardwork:n_total_sample_group,478.0,respondents,wvs_online_Spain_2011
+2006,NL,all,A170_lifesat:share_1to3,0.8,pct valid,wvs_online_Netherlands_2006
+2006,NL,all,A170_lifesat:share_8to10,64.1,pct valid,wvs_online_Netherlands_2006
+2006,NL,all,A170_lifesat:mean_1to10,7.76,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,all,A170_lifesat:n_total_sample_group,1050.0,respondents,wvs_online_Netherlands_2006
+2006,NL,<30,A170_lifesat:share_1to3,1.7,pct valid,wvs_online_Netherlands_2006
+2006,NL,<30,A170_lifesat:share_8to10,66.53,pct valid,wvs_online_Netherlands_2006
+2006,NL,<30,A170_lifesat:mean_1to10,7.74,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,<30,A170_lifesat:n_total_sample_group,236.0,respondents,wvs_online_Netherlands_2006
+2006,NL,30-49,A170_lifesat:share_1to3,0.1,pct valid,wvs_online_Netherlands_2006
+2006,NL,30-49,A170_lifesat:share_8to10,65.43,pct valid,wvs_online_Netherlands_2006
+2006,NL,30-49,A170_lifesat:mean_1to10,7.83,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,30-49,A170_lifesat:n_total_sample_group,408.0,respondents,wvs_online_Netherlands_2006
+2006,NL,50+,A170_lifesat:share_1to3,0.9,pct valid,wvs_online_Netherlands_2006
+2006,NL,50+,A170_lifesat:share_8to10,61.3,pct valid,wvs_online_Netherlands_2006
+2006,NL,50+,A170_lifesat:mean_1to10,7.69,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,50+,A170_lifesat:n_total_sample_group,406.0,respondents,wvs_online_Netherlands_2006
+2006,NL,all,A173_freedom:share_1to3,5.24,pct valid,wvs_online_Netherlands_2006
+2006,NL,all,A173_freedom:share_8to10,33.53,pct valid,wvs_online_Netherlands_2006
+2006,NL,all,A173_freedom:mean_1to10,6.68,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,all,A173_freedom:n_total_sample_group,1050.0,respondents,wvs_online_Netherlands_2006
+2006,NL,<30,A173_freedom:share_1to3,5.99,pct valid,wvs_online_Netherlands_2006
+2006,NL,<30,A173_freedom:share_8to10,33.2,pct valid,wvs_online_Netherlands_2006
+2006,NL,<30,A173_freedom:mean_1to10,6.72,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,<30,A173_freedom:n_total_sample_group,236.0,respondents,wvs_online_Netherlands_2006
+2006,NL,30-49,A173_freedom:share_1to3,4.11,pct valid,wvs_online_Netherlands_2006
+2006,NL,30-49,A173_freedom:share_8to10,36.91,pct valid,wvs_online_Netherlands_2006
+2006,NL,30-49,A173_freedom:mean_1to10,6.82,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,30-49,A173_freedom:n_total_sample_group,408.0,respondents,wvs_online_Netherlands_2006
+2006,NL,50+,A173_freedom:share_1to3,6.02,pct valid,wvs_online_Netherlands_2006
+2006,NL,50+,A173_freedom:share_8to10,30.29,pct valid,wvs_online_Netherlands_2006
+2006,NL,50+,A173_freedom:mean_1to10,6.51,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,50+,A173_freedom:n_total_sample_group,406.0,respondents,wvs_online_Netherlands_2006
+2006,NL,all,E037_govresp:share_1to3,26.71,pct valid,wvs_online_Netherlands_2006
+2006,NL,all,E037_govresp:share_8to10,19.66,pct valid,wvs_online_Netherlands_2006
+2006,NL,all,E037_govresp:mean_1to10,5.29,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,all,E037_govresp:n_total_sample_group,1050.0,respondents,wvs_online_Netherlands_2006
+2006,NL,<30,E037_govresp:share_1to3,22.63,pct valid,wvs_online_Netherlands_2006
+2006,NL,<30,E037_govresp:share_8to10,15.76,pct valid,wvs_online_Netherlands_2006
+2006,NL,<30,E037_govresp:mean_1to10,5.32,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,<30,E037_govresp:n_total_sample_group,236.0,respondents,wvs_online_Netherlands_2006
+2006,NL,30-49,E037_govresp:share_1to3,25.35,pct valid,wvs_online_Netherlands_2006
+2006,NL,30-49,E037_govresp:share_8to10,16.94,pct valid,wvs_online_Netherlands_2006
+2006,NL,30-49,E037_govresp:mean_1to10,5.29,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,30-49,E037_govresp:n_total_sample_group,408.0,respondents,wvs_online_Netherlands_2006
+2006,NL,50+,E037_govresp:share_1to3,30.29,pct valid,wvs_online_Netherlands_2006
+2006,NL,50+,E037_govresp:share_8to10,24.67,pct valid,wvs_online_Netherlands_2006
+2006,NL,50+,E037_govresp:mean_1to10,5.28,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,50+,E037_govresp:n_total_sample_group,406.0,respondents,wvs_online_Netherlands_2006
+2006,NL,all,E039_competition:share_1to3,35.03,pct valid,wvs_online_Netherlands_2006
+2006,NL,all,E039_competition:share_8to10,10.88,pct valid,wvs_online_Netherlands_2006
+2006,NL,all,E039_competition:mean_1to10,4.66,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,all,E039_competition:n_total_sample_group,1050.0,respondents,wvs_online_Netherlands_2006
+2006,NL,<30,E039_competition:share_1to3,34.8,pct valid,wvs_online_Netherlands_2006
+2006,NL,<30,E039_competition:share_8to10,4.83,pct valid,wvs_online_Netherlands_2006
+2006,NL,<30,E039_competition:mean_1to10,4.51,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,<30,E039_competition:n_total_sample_group,236.0,respondents,wvs_online_Netherlands_2006
+2006,NL,30-49,E039_competition:share_1to3,35.82,pct valid,wvs_online_Netherlands_2006
+2006,NL,30-49,E039_competition:share_8to10,10.64,pct valid,wvs_online_Netherlands_2006
+2006,NL,30-49,E039_competition:mean_1to10,4.61,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,30-49,E039_competition:n_total_sample_group,408.0,respondents,wvs_online_Netherlands_2006
+2006,NL,50+,E039_competition:share_1to3,34.16,pct valid,wvs_online_Netherlands_2006
+2006,NL,50+,E039_competition:share_8to10,14.71,pct valid,wvs_online_Netherlands_2006
+2006,NL,50+,E039_competition:mean_1to10,4.79,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,50+,E039_competition:n_total_sample_group,406.0,respondents,wvs_online_Netherlands_2006
+2006,NL,all,E040_hardwork:share_1to3,30.23,pct valid,wvs_online_Netherlands_2006
+2006,NL,all,E040_hardwork:share_8to10,14.45,pct valid,wvs_online_Netherlands_2006
+2006,NL,all,E040_hardwork:mean_1to10,4.95,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,all,E040_hardwork:n_total_sample_group,1050.0,respondents,wvs_online_Netherlands_2006
+2006,NL,<30,E040_hardwork:share_1to3,30.35,pct valid,wvs_online_Netherlands_2006
+2006,NL,<30,E040_hardwork:share_8to10,8.84,pct valid,wvs_online_Netherlands_2006
+2006,NL,<30,E040_hardwork:mean_1to10,4.7,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,<30,E040_hardwork:n_total_sample_group,236.0,respondents,wvs_online_Netherlands_2006
+2006,NL,30-49,E040_hardwork:share_1to3,29.18,pct valid,wvs_online_Netherlands_2006
+2006,NL,30-49,E040_hardwork:share_8to10,14.8,pct valid,wvs_online_Netherlands_2006
+2006,NL,30-49,E040_hardwork:mean_1to10,5.03,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,30-49,E040_hardwork:n_total_sample_group,408.0,respondents,wvs_online_Netherlands_2006
+2006,NL,50+,E040_hardwork:share_1to3,31.19,pct valid,wvs_online_Netherlands_2006
+2006,NL,50+,E040_hardwork:share_8to10,17.33,pct valid,wvs_online_Netherlands_2006
+2006,NL,50+,E040_hardwork:mean_1to10,5.0,scale 1-10,wvs_online_Netherlands_2006
+2006,NL,50+,E040_hardwork:n_total_sample_group,406.0,respondents,wvs_online_Netherlands_2006
+2007,ES,all,A170_lifesat:share_1to3,1.91,pct valid,wvs_online_Spain_2007
+2007,ES,all,A170_lifesat:share_8to10,48.35,pct valid,wvs_online_Spain_2007
+2007,ES,all,A170_lifesat:mean_1to10,7.32,scale 1-10,wvs_online_Spain_2007
+2007,ES,all,A170_lifesat:n_total_sample_group,1200.0,respondents,wvs_online_Spain_2007
+2007,ES,<30,A170_lifesat:share_1to3,1.51,pct valid,wvs_online_Spain_2007
+2007,ES,<30,A170_lifesat:share_8to10,55.52,pct valid,wvs_online_Spain_2007
+2007,ES,<30,A170_lifesat:mean_1to10,7.6,scale 1-10,wvs_online_Spain_2007
+2007,ES,<30,A170_lifesat:n_total_sample_group,277.0,respondents,wvs_online_Spain_2007
+2007,ES,30-49,A170_lifesat:share_1to3,0.5,pct valid,wvs_online_Spain_2007
+2007,ES,30-49,A170_lifesat:share_8to10,56.43,pct valid,wvs_online_Spain_2007
+2007,ES,30-49,A170_lifesat:mean_1to10,7.57,scale 1-10,wvs_online_Spain_2007
+2007,ES,30-49,A170_lifesat:n_total_sample_group,441.0,respondents,wvs_online_Spain_2007
+2007,ES,50+,A170_lifesat:share_1to3,3.31,pct valid,wvs_online_Spain_2007
+2007,ES,50+,A170_lifesat:share_8to10,36.87,pct valid,wvs_online_Spain_2007
+2007,ES,50+,A170_lifesat:mean_1to10,6.94,scale 1-10,wvs_online_Spain_2007
+2007,ES,50+,A170_lifesat:n_total_sample_group,482.0,respondents,wvs_online_Spain_2007
+2007,ES,all,A173_freedom:share_1to3,3.97,pct valid,wvs_online_Spain_2007
+2007,ES,all,A173_freedom:share_8to10,35.01,pct valid,wvs_online_Spain_2007
+2007,ES,all,A173_freedom:mean_1to10,6.88,scale 1-10,wvs_online_Spain_2007
+2007,ES,all,A173_freedom:n_total_sample_group,1200.0,respondents,wvs_online_Spain_2007
+2007,ES,<30,A173_freedom:share_1to3,1.46,pct valid,wvs_online_Spain_2007
+2007,ES,<30,A173_freedom:share_8to10,41.34,pct valid,wvs_online_Spain_2007
+2007,ES,<30,A173_freedom:mean_1to10,7.21,scale 1-10,wvs_online_Spain_2007
+2007,ES,<30,A173_freedom:n_total_sample_group,277.0,respondents,wvs_online_Spain_2007
+2007,ES,30-49,A173_freedom:share_1to3,4.65,pct valid,wvs_online_Spain_2007
+2007,ES,30-49,A173_freedom:share_8to10,35.12,pct valid,wvs_online_Spain_2007
+2007,ES,30-49,A173_freedom:mean_1to10,6.86,scale 1-10,wvs_online_Spain_2007
+2007,ES,30-49,A173_freedom:n_total_sample_group,441.0,respondents,wvs_online_Spain_2007
+2007,ES,50+,A173_freedom:share_1to3,4.77,pct valid,wvs_online_Spain_2007
+2007,ES,50+,A173_freedom:share_8to10,30.97,pct valid,wvs_online_Spain_2007
+2007,ES,50+,A173_freedom:mean_1to10,6.7,scale 1-10,wvs_online_Spain_2007
+2007,ES,50+,A173_freedom:n_total_sample_group,482.0,respondents,wvs_online_Spain_2007
+2007,ES,all,E036_ownership:share_1to3,19.14,pct valid,wvs_online_Spain_2007
+2007,ES,all,E036_ownership:share_8to10,16.76,pct valid,wvs_online_Spain_2007
+2007,ES,all,E036_ownership:mean_1to10,5.43,scale 1-10,wvs_online_Spain_2007
+2007,ES,all,E036_ownership:n_total_sample_group,1200.0,respondents,wvs_online_Spain_2007
+2007,ES,<30,E036_ownership:share_1to3,21.91,pct valid,wvs_online_Spain_2007
+2007,ES,<30,E036_ownership:share_8to10,15.44,pct valid,wvs_online_Spain_2007
+2007,ES,<30,E036_ownership:mean_1to10,5.28,scale 1-10,wvs_online_Spain_2007
+2007,ES,<30,E036_ownership:n_total_sample_group,277.0,respondents,wvs_online_Spain_2007
+2007,ES,30-49,E036_ownership:share_1to3,17.61,pct valid,wvs_online_Spain_2007
+2007,ES,30-49,E036_ownership:share_8to10,16.72,pct valid,wvs_online_Spain_2007
+2007,ES,30-49,E036_ownership:mean_1to10,5.56,scale 1-10,wvs_online_Spain_2007
+2007,ES,30-49,E036_ownership:n_total_sample_group,441.0,respondents,wvs_online_Spain_2007
+2007,ES,50+,E036_ownership:share_1to3,18.96,pct valid,wvs_online_Spain_2007
+2007,ES,50+,E036_ownership:share_8to10,17.31,pct valid,wvs_online_Spain_2007
+2007,ES,50+,E036_ownership:mean_1to10,5.39,scale 1-10,wvs_online_Spain_2007
+2007,ES,50+,E036_ownership:n_total_sample_group,482.0,respondents,wvs_online_Spain_2007
+2007,ES,all,E037_govresp:share_1to3,37.1,pct valid,wvs_online_Spain_2007
+2007,ES,all,E037_govresp:share_8to10,8.53,pct valid,wvs_online_Spain_2007
+2007,ES,all,E037_govresp:mean_1to10,4.42,scale 1-10,wvs_online_Spain_2007
+2007,ES,all,E037_govresp:n_total_sample_group,1200.0,respondents,wvs_online_Spain_2007
+2007,ES,<30,E037_govresp:share_1to3,40.25,pct valid,wvs_online_Spain_2007
+2007,ES,<30,E037_govresp:share_8to10,6.81,pct valid,wvs_online_Spain_2007
+2007,ES,<30,E037_govresp:mean_1to10,4.3,scale 1-10,wvs_online_Spain_2007
+2007,ES,<30,E037_govresp:n_total_sample_group,277.0,respondents,wvs_online_Spain_2007
+2007,ES,30-49,E037_govresp:share_1to3,35.12,pct valid,wvs_online_Spain_2007
+2007,ES,30-49,E037_govresp:share_8to10,11.03,pct valid,wvs_online_Spain_2007
+2007,ES,30-49,E037_govresp:mean_1to10,4.58,scale 1-10,wvs_online_Spain_2007
+2007,ES,30-49,E037_govresp:n_total_sample_group,441.0,respondents,wvs_online_Spain_2007
+2007,ES,50+,E037_govresp:share_1to3,37.2,pct valid,wvs_online_Spain_2007
+2007,ES,50+,E037_govresp:share_8to10,7.36,pct valid,wvs_online_Spain_2007
+2007,ES,50+,E037_govresp:mean_1to10,4.34,scale 1-10,wvs_online_Spain_2007
+2007,ES,50+,E037_govresp:n_total_sample_group,482.0,respondents,wvs_online_Spain_2007
+2007,ES,all,E039_competition:share_1to3,38.94,pct valid,wvs_online_Spain_2007
+2007,ES,all,E039_competition:share_8to10,5.92,pct valid,wvs_online_Spain_2007
+2007,ES,all,E039_competition:mean_1to10,4.2,scale 1-10,wvs_online_Spain_2007
+2007,ES,all,E039_competition:n_total_sample_group,1200.0,respondents,wvs_online_Spain_2007
+2007,ES,<30,E039_competition:share_1to3,41.62,pct valid,wvs_online_Spain_2007
+2007,ES,<30,E039_competition:share_8to10,5.21,pct valid,wvs_online_Spain_2007
+2007,ES,<30,E039_competition:mean_1to10,4.13,scale 1-10,wvs_online_Spain_2007
+2007,ES,<30,E039_competition:n_total_sample_group,277.0,respondents,wvs_online_Spain_2007
+2007,ES,30-49,E039_competition:share_1to3,39.8,pct valid,wvs_online_Spain_2007
+2007,ES,30-49,E039_competition:share_8to10,7.96,pct valid,wvs_online_Spain_2007
+2007,ES,30-49,E039_competition:mean_1to10,4.24,scale 1-10,wvs_online_Spain_2007
+2007,ES,30-49,E039_competition:n_total_sample_group,441.0,respondents,wvs_online_Spain_2007
+2007,ES,50+,E039_competition:share_1to3,36.57,pct valid,wvs_online_Spain_2007
+2007,ES,50+,E039_competition:share_8to10,4.69,pct valid,wvs_online_Spain_2007
+2007,ES,50+,E039_competition:mean_1to10,4.22,scale 1-10,wvs_online_Spain_2007
+2007,ES,50+,E039_competition:n_total_sample_group,482.0,respondents,wvs_online_Spain_2007
+2007,ES,all,E040_hardwork:share_1to3,41.57,pct valid,wvs_online_Spain_2007
+2007,ES,all,E040_hardwork:share_8to10,7.25,pct valid,wvs_online_Spain_2007
+2007,ES,all,E040_hardwork:mean_1to10,4.19,scale 1-10,wvs_online_Spain_2007
+2007,ES,all,E040_hardwork:n_total_sample_group,1200.0,respondents,wvs_online_Spain_2007
+2007,ES,<30,E040_hardwork:share_1to3,39.47,pct valid,wvs_online_Spain_2007
+2007,ES,<30,E040_hardwork:share_8to10,7.06,pct valid,wvs_online_Spain_2007
+2007,ES,<30,E040_hardwork:mean_1to10,4.23,scale 1-10,wvs_online_Spain_2007
+2007,ES,<30,E040_hardwork:n_total_sample_group,277.0,respondents,wvs_online_Spain_2007
+2007,ES,30-49,E040_hardwork:share_1to3,41.75,pct valid,wvs_online_Spain_2007
+2007,ES,30-49,E040_hardwork:share_8to10,8.96,pct valid,wvs_online_Spain_2007
+2007,ES,30-49,E040_hardwork:mean_1to10,4.29,scale 1-10,wvs_online_Spain_2007
+2007,ES,30-49,E040_hardwork:n_total_sample_group,441.0,respondents,wvs_online_Spain_2007
+2007,ES,50+,E040_hardwork:share_1to3,42.37,pct valid,wvs_online_Spain_2007
+2007,ES,50+,E040_hardwork:share_8to10,6.14,pct valid,wvs_online_Spain_2007
+2007,ES,50+,E040_hardwork:mean_1to10,4.07,scale 1-10,wvs_online_Spain_2007
+2007,ES,50+,E040_hardwork:n_total_sample_group,482.0,respondents,wvs_online_Spain_2007
+2000,ES,all,A170_lifesat:share_1to3,3.81,pct valid,wvs_online_Spain_2000
+2000,ES,all,A170_lifesat:share_8to10,39.72,pct valid,wvs_online_Spain_2000
+2000,ES,all,A170_lifesat:mean_1to10,6.99,scale 1-10,wvs_online_Spain_2000
+2000,ES,all,A170_lifesat:n_total_sample_group,1209.0,respondents,wvs_online_Spain_2000
+2000,ES,<30,A170_lifesat:share_1to3,2.9,pct valid,wvs_online_Spain_2000
+2000,ES,<30,A170_lifesat:share_8to10,44.7,pct valid,wvs_online_Spain_2000
+2000,ES,<30,A170_lifesat:mean_1to10,7.19,scale 1-10,wvs_online_Spain_2000
+2000,ES,<30,A170_lifesat:n_total_sample_group,315.0,respondents,wvs_online_Spain_2000
+2000,ES,30-49,A170_lifesat:share_1to3,3.92,pct valid,wvs_online_Spain_2000
+2000,ES,30-49,A170_lifesat:share_8to10,38.79,pct valid,wvs_online_Spain_2000
+2000,ES,30-49,A170_lifesat:mean_1to10,7.0,scale 1-10,wvs_online_Spain_2000
+2000,ES,30-49,A170_lifesat:n_total_sample_group,411.0,respondents,wvs_online_Spain_2000
+2000,ES,50+,A170_lifesat:share_1to3,4.51,pct valid,wvs_online_Spain_2000
+2000,ES,50+,A170_lifesat:share_8to10,37.11,pct valid,wvs_online_Spain_2000
+2000,ES,50+,A170_lifesat:mean_1to10,6.86,scale 1-10,wvs_online_Spain_2000
+2000,ES,50+,A170_lifesat:n_total_sample_group,484.0,respondents,wvs_online_Spain_2000
+2000,ES,all,A173_freedom:share_1to3,5.82,pct valid,wvs_online_Spain_2000
+2000,ES,all,A173_freedom:share_8to10,35.2,pct valid,wvs_online_Spain_2000
+2000,ES,all,A173_freedom:mean_1to10,6.73,scale 1-10,wvs_online_Spain_2000
+2000,ES,all,A173_freedom:n_total_sample_group,1209.0,respondents,wvs_online_Spain_2000
+2000,ES,<30,A173_freedom:share_1to3,4.46,pct valid,wvs_online_Spain_2000
+2000,ES,<30,A173_freedom:share_8to10,38.95,pct valid,wvs_online_Spain_2000
+2000,ES,<30,A173_freedom:mean_1to10,6.89,scale 1-10,wvs_online_Spain_2000
+2000,ES,<30,A173_freedom:n_total_sample_group,315.0,respondents,wvs_online_Spain_2000
+2000,ES,30-49,A173_freedom:share_1to3,5.69,pct valid,wvs_online_Spain_2000
+2000,ES,30-49,A173_freedom:share_8to10,33.2,pct valid,wvs_online_Spain_2000
+2000,ES,30-49,A173_freedom:mean_1to10,6.71,scale 1-10,wvs_online_Spain_2000
+2000,ES,30-49,A173_freedom:n_total_sample_group,411.0,respondents,wvs_online_Spain_2000
+2000,ES,50+,A173_freedom:share_1to3,6.61,pct valid,wvs_online_Spain_2000
+2000,ES,50+,A173_freedom:share_8to10,34.45,pct valid,wvs_online_Spain_2000
+2000,ES,50+,A173_freedom:mean_1to10,6.63,scale 1-10,wvs_online_Spain_2000
+2000,ES,50+,A173_freedom:n_total_sample_group,484.0,respondents,wvs_online_Spain_2000
+2000,ES,all,E036_ownership:share_1to3,21.66,pct valid,wvs_online_Spain_2000
+2000,ES,all,E036_ownership:share_8to10,22.93,pct valid,wvs_online_Spain_2000
+2000,ES,all,E036_ownership:mean_1to10,5.53,scale 1-10,wvs_online_Spain_2000
+2000,ES,all,E036_ownership:n_total_sample_group,1209.0,respondents,wvs_online_Spain_2000
+2000,ES,<30,E036_ownership:share_1to3,22.97,pct valid,wvs_online_Spain_2000
+2000,ES,<30,E036_ownership:share_8to10,23.63,pct valid,wvs_online_Spain_2000
+2000,ES,<30,E036_ownership:mean_1to10,5.52,scale 1-10,wvs_online_Spain_2000
+2000,ES,<30,E036_ownership:n_total_sample_group,315.0,respondents,wvs_online_Spain_2000
+2000,ES,30-49,E036_ownership:share_1to3,21.2,pct valid,wvs_online_Spain_2000
+2000,ES,30-49,E036_ownership:share_8to10,21.85,pct valid,wvs_online_Spain_2000
+2000,ES,30-49,E036_ownership:mean_1to10,5.53,scale 1-10,wvs_online_Spain_2000
+2000,ES,30-49,E036_ownership:n_total_sample_group,411.0,respondents,wvs_online_Spain_2000
+2000,ES,50+,E036_ownership:share_1to3,21.36,pct valid,wvs_online_Spain_2000
+2000,ES,50+,E036_ownership:share_8to10,23.7,pct valid,wvs_online_Spain_2000
+2000,ES,50+,E036_ownership:mean_1to10,5.55,scale 1-10,wvs_online_Spain_2000
+2000,ES,50+,E036_ownership:n_total_sample_group,484.0,respondents,wvs_online_Spain_2000
+2000,ES,all,E037_govresp:share_1to3,49.07,pct valid,wvs_online_Spain_2000
+2000,ES,all,E037_govresp:share_8to10,8.3,pct valid,wvs_online_Spain_2000
+2000,ES,all,E037_govresp:mean_1to10,3.9,scale 1-10,wvs_online_Spain_2000
+2000,ES,all,E037_govresp:n_total_sample_group,1209.0,respondents,wvs_online_Spain_2000
+2000,ES,<30,E037_govresp:share_1to3,53.89,pct valid,wvs_online_Spain_2000
+2000,ES,<30,E037_govresp:share_8to10,6.85,pct valid,wvs_online_Spain_2000
+2000,ES,<30,E037_govresp:mean_1to10,3.63,scale 1-10,wvs_online_Spain_2000
+2000,ES,<30,E037_govresp:n_total_sample_group,315.0,respondents,wvs_online_Spain_2000
+2000,ES,30-49,E037_govresp:share_1to3,48.03,pct valid,wvs_online_Spain_2000
+2000,ES,30-49,E037_govresp:share_8to10,8.98,pct valid,wvs_online_Spain_2000
+2000,ES,30-49,E037_govresp:mean_1to10,4.0,scale 1-10,wvs_online_Spain_2000
+2000,ES,30-49,E037_govresp:n_total_sample_group,411.0,respondents,wvs_online_Spain_2000
+2000,ES,50+,E037_govresp:share_1to3,46.92,pct valid,wvs_online_Spain_2000
+2000,ES,50+,E037_govresp:share_8to10,8.6,pct valid,wvs_online_Spain_2000
+2000,ES,50+,E037_govresp:mean_1to10,3.99,scale 1-10,wvs_online_Spain_2000
+2000,ES,50+,E037_govresp:n_total_sample_group,484.0,respondents,wvs_online_Spain_2000
+2000,ES,all,E039_competition:share_1to3,40.79,pct valid,wvs_online_Spain_2000
+2000,ES,all,E039_competition:share_8to10,11.61,pct valid,wvs_online_Spain_2000
+2000,ES,all,E039_competition:mean_1to10,4.29,scale 1-10,wvs_online_Spain_2000
+2000,ES,all,E039_competition:n_total_sample_group,1209.0,respondents,wvs_online_Spain_2000
+2000,ES,<30,E039_competition:share_1to3,40.02,pct valid,wvs_online_Spain_2000
+2000,ES,<30,E039_competition:share_8to10,13.61,pct valid,wvs_online_Spain_2000
+2000,ES,<30,E039_competition:mean_1to10,4.38,scale 1-10,wvs_online_Spain_2000
+2000,ES,<30,E039_competition:n_total_sample_group,315.0,respondents,wvs_online_Spain_2000
+2000,ES,30-49,E039_competition:share_1to3,40.53,pct valid,wvs_online_Spain_2000
+2000,ES,30-49,E039_competition:share_8to10,11.46,pct valid,wvs_online_Spain_2000
+2000,ES,30-49,E039_competition:mean_1to10,4.32,scale 1-10,wvs_online_Spain_2000
+2000,ES,30-49,E039_competition:n_total_sample_group,411.0,respondents,wvs_online_Spain_2000
+2000,ES,50+,E039_competition:share_1to3,41.68,pct valid,wvs_online_Spain_2000
+2000,ES,50+,E039_competition:share_8to10,10.39,pct valid,wvs_online_Spain_2000
+2000,ES,50+,E039_competition:mean_1to10,4.2,scale 1-10,wvs_online_Spain_2000
+2000,ES,50+,E039_competition:n_total_sample_group,484.0,respondents,wvs_online_Spain_2000
+1995,ES,all,A170_lifesat:share_1to3,5.94,pct valid,wvs_online_Spain_1995
+1995,ES,all,A170_lifesat:share_8to10,25.48,pct valid,wvs_online_Spain_1995
+1995,ES,all,A170_lifesat:mean_1to10,6.61,scale 1-10,wvs_online_Spain_1995
+1995,ES,all,A170_lifesat:n_total_sample_group,1211.0,respondents,wvs_online_Spain_1995
+1995,ES,<30,A170_lifesat:share_1to3,5.24,pct valid,wvs_online_Spain_1995
+1995,ES,<30,A170_lifesat:share_8to10,29.2,pct valid,wvs_online_Spain_1995
+1995,ES,<30,A170_lifesat:mean_1to10,6.89,scale 1-10,wvs_online_Spain_1995
+1995,ES,<30,A170_lifesat:n_total_sample_group,316.0,respondents,wvs_online_Spain_1995
+1995,ES,30-49,A170_lifesat:share_1to3,5.63,pct valid,wvs_online_Spain_1995
+1995,ES,30-49,A170_lifesat:share_8to10,25.43,pct valid,wvs_online_Spain_1995
+1995,ES,30-49,A170_lifesat:mean_1to10,6.61,scale 1-10,wvs_online_Spain_1995
+1995,ES,30-49,A170_lifesat:n_total_sample_group,412.0,respondents,wvs_online_Spain_1995
+1995,ES,50+,A170_lifesat:share_1to3,6.55,pct valid,wvs_online_Spain_1995
+1995,ES,50+,A170_lifesat:share_8to10,23.29,pct valid,wvs_online_Spain_1995
+1995,ES,50+,A170_lifesat:mean_1to10,6.43,scale 1-10,wvs_online_Spain_1995
+1995,ES,50+,A170_lifesat:n_total_sample_group,483.0,respondents,wvs_online_Spain_1995
+1995,ES,all,A173_freedom:share_1to3,8.82,pct valid,wvs_online_Spain_1995
+1995,ES,all,A173_freedom:share_8to10,23.13,pct valid,wvs_online_Spain_1995
+1995,ES,all,A173_freedom:mean_1to10,6.33,scale 1-10,wvs_online_Spain_1995
+1995,ES,all,A173_freedom:n_total_sample_group,1211.0,respondents,wvs_online_Spain_1995
+1995,ES,<30,A173_freedom:share_1to3,6.7,pct valid,wvs_online_Spain_1995
+1995,ES,<30,A173_freedom:share_8to10,24.67,pct valid,wvs_online_Spain_1995
+1995,ES,<30,A173_freedom:mean_1to10,6.52,scale 1-10,wvs_online_Spain_1995
+1995,ES,<30,A173_freedom:n_total_sample_group,316.0,respondents,wvs_online_Spain_1995
+1995,ES,30-49,A173_freedom:share_1to3,7.37,pct valid,wvs_online_Spain_1995
+1995,ES,30-49,A173_freedom:share_8to10,23.23,pct valid,wvs_online_Spain_1995
+1995,ES,30-49,A173_freedom:mean_1to10,6.34,scale 1-10,wvs_online_Spain_1995
+1995,ES,30-49,A173_freedom:n_total_sample_group,412.0,respondents,wvs_online_Spain_1995
+1995,ES,50+,A173_freedom:share_1to3,11.54,pct valid,wvs_online_Spain_1995
+1995,ES,50+,A173_freedom:share_8to10,22.01,pct valid,wvs_online_Spain_1995
+1995,ES,50+,A173_freedom:mean_1to10,6.18,scale 1-10,wvs_online_Spain_1995
+1995,ES,50+,A173_freedom:n_total_sample_group,483.0,respondents,wvs_online_Spain_1995
+1995,ES,all,E036_ownership:share_1to3,25.32,pct valid,wvs_online_Spain_1995
+1995,ES,all,E036_ownership:share_8to10,23.11,pct valid,wvs_online_Spain_1995
+1995,ES,all,E036_ownership:mean_1to10,5.33,scale 1-10,wvs_online_Spain_1995
+1995,ES,all,E036_ownership:n_total_sample_group,1211.0,respondents,wvs_online_Spain_1995
+1995,ES,<30,E036_ownership:share_1to3,23.51,pct valid,wvs_online_Spain_1995
+1995,ES,<30,E036_ownership:share_8to10,24.57,pct valid,wvs_online_Spain_1995
+1995,ES,<30,E036_ownership:mean_1to10,5.42,scale 1-10,wvs_online_Spain_1995
+1995,ES,<30,E036_ownership:n_total_sample_group,316.0,respondents,wvs_online_Spain_1995
+1995,ES,30-49,E036_ownership:share_1to3,25.46,pct valid,wvs_online_Spain_1995
+1995,ES,30-49,E036_ownership:share_8to10,24.65,pct valid,wvs_online_Spain_1995
+1995,ES,30-49,E036_ownership:mean_1to10,5.4,scale 1-10,wvs_online_Spain_1995
+1995,ES,30-49,E036_ownership:n_total_sample_group,412.0,respondents,wvs_online_Spain_1995
+1995,ES,50+,E036_ownership:share_1to3,26.46,pct valid,wvs_online_Spain_1995
+1995,ES,50+,E036_ownership:share_8to10,20.37,pct valid,wvs_online_Spain_1995
+1995,ES,50+,E036_ownership:mean_1to10,5.2,scale 1-10,wvs_online_Spain_1995
+1995,ES,50+,E036_ownership:n_total_sample_group,483.0,respondents,wvs_online_Spain_1995
+1995,ES,all,E037_govresp:share_1to3,41.92,pct valid,wvs_online_Spain_1995
+1995,ES,all,E037_govresp:share_8to10,17.21,pct valid,wvs_online_Spain_1995
+1995,ES,all,E037_govresp:mean_1to10,4.47,scale 1-10,wvs_online_Spain_1995
+1995,ES,all,E037_govresp:n_total_sample_group,1211.0,respondents,wvs_online_Spain_1995
+1995,ES,<30,E037_govresp:share_1to3,39.96,pct valid,wvs_online_Spain_1995
+1995,ES,<30,E037_govresp:share_8to10,18.65,pct valid,wvs_online_Spain_1995
+1995,ES,<30,E037_govresp:mean_1to10,4.53,scale 1-10,wvs_online_Spain_1995
+1995,ES,<30,E037_govresp:n_total_sample_group,316.0,respondents,wvs_online_Spain_1995
+1995,ES,30-49,E037_govresp:share_1to3,40.37,pct valid,wvs_online_Spain_1995
+1995,ES,30-49,E037_govresp:share_8to10,18.63,pct valid,wvs_online_Spain_1995
+1995,ES,30-49,E037_govresp:mean_1to10,4.65,scale 1-10,wvs_online_Spain_1995
+1995,ES,30-49,E037_govresp:n_total_sample_group,412.0,respondents,wvs_online_Spain_1995
+1995,ES,50+,E037_govresp:share_1to3,44.5,pct valid,wvs_online_Spain_1995
+1995,ES,50+,E037_govresp:share_8to10,14.94,pct valid,wvs_online_Spain_1995
+1995,ES,50+,E037_govresp:mean_1to10,4.28,scale 1-10,wvs_online_Spain_1995
+1995,ES,50+,E037_govresp:n_total_sample_group,483.0,respondents,wvs_online_Spain_1995
+1995,ES,all,E039_competition:share_1to3,41.82,pct valid,wvs_online_Spain_1995
+1995,ES,all,E039_competition:share_8to10,14.78,pct valid,wvs_online_Spain_1995
+1995,ES,all,E039_competition:mean_1to10,4.4,scale 1-10,wvs_online_Spain_1995
+1995,ES,all,E039_competition:n_total_sample_group,1211.0,respondents,wvs_online_Spain_1995
+1995,ES,<30,E039_competition:share_1to3,40.93,pct valid,wvs_online_Spain_1995
+1995,ES,<30,E039_competition:share_8to10,18.03,pct valid,wvs_online_Spain_1995
+1995,ES,<30,E039_competition:mean_1to10,4.52,scale 1-10,wvs_online_Spain_1995
+1995,ES,<30,E039_competition:n_total_sample_group,316.0,respondents,wvs_online_Spain_1995
+1995,ES,30-49,E039_competition:share_1to3,43.18,pct valid,wvs_online_Spain_1995
+1995,ES,30-49,E039_competition:share_8to10,14.46,pct valid,wvs_online_Spain_1995
+1995,ES,30-49,E039_competition:mean_1to10,4.29,scale 1-10,wvs_online_Spain_1995
+1995,ES,30-49,E039_competition:n_total_sample_group,412.0,respondents,wvs_online_Spain_1995
+1995,ES,50+,E039_competition:share_1to3,40.98,pct valid,wvs_online_Spain_1995
+1995,ES,50+,E039_competition:share_8to10,13.11,pct valid,wvs_online_Spain_1995
+1995,ES,50+,E039_competition:mean_1to10,4.41,scale 1-10,wvs_online_Spain_1995
+1995,ES,50+,E039_competition:n_total_sample_group,483.0,respondents,wvs_online_Spain_1995
+1995,ES,all,E040_hardwork:share_1to3,44.7,pct valid,wvs_online_Spain_1995
+1995,ES,all,E040_hardwork:share_8to10,19.26,pct valid,wvs_online_Spain_1995
+1995,ES,all,E040_hardwork:mean_1to10,4.48,scale 1-10,wvs_online_Spain_1995
+1995,ES,all,E040_hardwork:n_total_sample_group,1211.0,respondents,wvs_online_Spain_1995
+1995,ES,<30,E040_hardwork:share_1to3,43.03,pct valid,wvs_online_Spain_1995
+1995,ES,<30,E040_hardwork:share_8to10,21.41,pct valid,wvs_online_Spain_1995
+1995,ES,<30,E040_hardwork:mean_1to10,4.57,scale 1-10,wvs_online_Spain_1995
+1995,ES,<30,E040_hardwork:n_total_sample_group,316.0,respondents,wvs_online_Spain_1995
+1995,ES,30-49,E040_hardwork:share_1to3,43.17,pct valid,wvs_online_Spain_1995
+1995,ES,30-49,E040_hardwork:share_8to10,21.58,pct valid,wvs_online_Spain_1995
+1995,ES,30-49,E040_hardwork:mean_1to10,4.58,scale 1-10,wvs_online_Spain_1995
+1995,ES,30-49,E040_hardwork:n_total_sample_group,412.0,respondents,wvs_online_Spain_1995
+1995,ES,50+,E040_hardwork:share_1to3,47.32,pct valid,wvs_online_Spain_1995
+1995,ES,50+,E040_hardwork:share_8to10,15.74,pct valid,wvs_online_Spain_1995
+1995,ES,50+,E040_hardwork:mean_1to10,4.35,scale 1-10,wvs_online_Spain_1995
+1995,ES,50+,E040_hardwork:n_total_sample_group,483.0,respondents,wvs_online_Spain_1995
+1990,NL,all,A170_lifesat:share_1to3,2.4,pct valid,wvs_online_Netherlands_EVS
+1990,NL,all,A170_lifesat:share_8to10,66.9,pct valid,wvs_online_Netherlands_EVS
+1990,NL,all,A170_lifesat:mean_1to10,7.76,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,all,A170_lifesat:n_total_sample_group,1017.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,<30,A170_lifesat:share_1to3,1.6,pct valid,wvs_online_Netherlands_EVS
+1990,NL,<30,A170_lifesat:share_8to10,68.07,pct valid,wvs_online_Netherlands_EVS
+1990,NL,<30,A170_lifesat:mean_1to10,7.85,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,<30,A170_lifesat:n_total_sample_group,271.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,30-49,A170_lifesat:share_1to3,2.1,pct valid,wvs_online_Netherlands_EVS
+1990,NL,30-49,A170_lifesat:share_8to10,68.57,pct valid,wvs_online_Netherlands_EVS
+1990,NL,30-49,A170_lifesat:mean_1to10,7.77,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,30-49,A170_lifesat:n_total_sample_group,390.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,50+,A170_lifesat:share_1to3,3.4,pct valid,wvs_online_Netherlands_EVS
+1990,NL,50+,A170_lifesat:share_8to10,64.26,pct valid,wvs_online_Netherlands_EVS
+1990,NL,50+,A170_lifesat:mean_1to10,7.68,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,50+,A170_lifesat:n_total_sample_group,356.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,all,A173_freedom:share_1to3,12.37,pct valid,wvs_online_Netherlands_EVS
+1990,NL,all,A173_freedom:share_8to10,27.97,pct valid,wvs_online_Netherlands_EVS
+1990,NL,all,A173_freedom:mean_1to10,6.17,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,all,A173_freedom:n_total_sample_group,1017.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,<30,A173_freedom:share_1to3,6.75,pct valid,wvs_online_Netherlands_EVS
+1990,NL,<30,A173_freedom:share_8to10,36.49,pct valid,wvs_online_Netherlands_EVS
+1990,NL,<30,A173_freedom:mean_1to10,6.75,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,<30,A173_freedom:n_total_sample_group,271.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,30-49,A173_freedom:share_1to3,8.73,pct valid,wvs_online_Netherlands_EVS
+1990,NL,30-49,A173_freedom:share_8to10,29.59,pct valid,wvs_online_Netherlands_EVS
+1990,NL,30-49,A173_freedom:mean_1to10,6.37,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,30-49,A173_freedom:n_total_sample_group,390.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,50+,A173_freedom:share_1to3,20.79,pct valid,wvs_online_Netherlands_EVS
+1990,NL,50+,A173_freedom:share_8to10,19.58,pct valid,wvs_online_Netherlands_EVS
+1990,NL,50+,A173_freedom:mean_1to10,5.52,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,50+,A173_freedom:n_total_sample_group,356.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,all,E036_ownership:share_1to3,32.51,pct valid,wvs_online_Netherlands_EVS
+1990,NL,all,E036_ownership:share_8to10,4.21,pct valid,wvs_online_Netherlands_EVS
+1990,NL,all,E036_ownership:mean_1to10,4.34,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,all,E036_ownership:n_total_sample_group,1017.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,<30,E036_ownership:share_1to3,29.89,pct valid,wvs_online_Netherlands_EVS
+1990,NL,<30,E036_ownership:share_8to10,4.11,pct valid,wvs_online_Netherlands_EVS
+1990,NL,<30,E036_ownership:mean_1to10,4.44,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,<30,E036_ownership:n_total_sample_group,271.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,30-49,E036_ownership:share_1to3,33.9,pct valid,wvs_online_Netherlands_EVS
+1990,NL,30-49,E036_ownership:share_8to10,5.17,pct valid,wvs_online_Netherlands_EVS
+1990,NL,30-49,E036_ownership:mean_1to10,4.28,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,30-49,E036_ownership:n_total_sample_group,390.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,50+,E036_ownership:share_1to3,32.99,pct valid,wvs_online_Netherlands_EVS
+1990,NL,50+,E036_ownership:share_8to10,3.29,pct valid,wvs_online_Netherlands_EVS
+1990,NL,50+,E036_ownership:mean_1to10,4.32,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,50+,E036_ownership:n_total_sample_group,356.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,all,E037_govresp:share_1to3,33.4,pct valid,wvs_online_Netherlands_EVS
+1990,NL,all,E037_govresp:share_8to10,12.35,pct valid,wvs_online_Netherlands_EVS
+1990,NL,all,E037_govresp:mean_1to10,4.65,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,all,E037_govresp:n_total_sample_group,1017.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,<30,E037_govresp:share_1to3,30.48,pct valid,wvs_online_Netherlands_EVS
+1990,NL,<30,E037_govresp:share_8to10,9.05,pct valid,wvs_online_Netherlands_EVS
+1990,NL,<30,E037_govresp:mean_1to10,4.66,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,<30,E037_govresp:n_total_sample_group,271.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,30-49,E037_govresp:share_1to3,33.3,pct valid,wvs_online_Netherlands_EVS
+1990,NL,30-49,E037_govresp:share_8to10,11.3,pct valid,wvs_online_Netherlands_EVS
+1990,NL,30-49,E037_govresp:mean_1to10,4.64,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,30-49,E037_govresp:n_total_sample_group,390.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,50+,E037_govresp:share_1to3,35.79,pct valid,wvs_online_Netherlands_EVS
+1990,NL,50+,E037_govresp:share_8to10,15.95,pct valid,wvs_online_Netherlands_EVS
+1990,NL,50+,E037_govresp:mean_1to10,4.65,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,50+,E037_govresp:n_total_sample_group,356.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,all,E039_competition:share_1to3,37.69,pct valid,wvs_online_Netherlands_EVS
+1990,NL,all,E039_competition:share_8to10,7.83,pct valid,wvs_online_Netherlands_EVS
+1990,NL,all,E039_competition:mean_1to10,4.28,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,all,E039_competition:n_total_sample_group,1017.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,<30,E039_competition:share_1to3,40.66,pct valid,wvs_online_Netherlands_EVS
+1990,NL,<30,E039_competition:share_8to10,5.26,pct valid,wvs_online_Netherlands_EVS
+1990,NL,<30,E039_competition:mean_1to10,4.14,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,<30,E039_competition:n_total_sample_group,271.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,30-49,E039_competition:share_1to3,34.84,pct valid,wvs_online_Netherlands_EVS
+1990,NL,30-49,E039_competition:share_8to10,7.68,pct valid,wvs_online_Netherlands_EVS
+1990,NL,30-49,E039_competition:mean_1to10,4.34,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,30-49,E039_competition:n_total_sample_group,390.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,50+,E039_competition:share_1to3,38.59,pct valid,wvs_online_Netherlands_EVS
+1990,NL,50+,E039_competition:share_8to10,9.85,pct valid,wvs_online_Netherlands_EVS
+1990,NL,50+,E039_competition:mean_1to10,4.31,scale 1-10,wvs_online_Netherlands_EVS
+1990,NL,50+,E039_competition:n_total_sample_group,356.0,respondents,wvs_online_Netherlands_EVS
+1990,NL,all,E040_hardwork:share_1to3,23.16,pct valid,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,all,E040_hardwork:share_8to10,18.57,pct valid,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,all,E040_hardwork:mean_1to10,5.29,scale 1-10,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,all,E040_hardwork:n_total_sample_group,1017.0,respondents,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,<30,E040_hardwork:share_1to3,18.46,pct valid,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,<30,E040_hardwork:share_8to10,16.23,pct valid,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,<30,E040_hardwork:mean_1to10,5.39,scale 1-10,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,<30,E040_hardwork:n_total_sample_group,271.0,respondents,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,30-49,E040_hardwork:share_1to3,20.57,pct valid,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,30-49,E040_hardwork:share_8to10,18.24,pct valid,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,30-49,E040_hardwork:mean_1to10,5.4,scale 1-10,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,30-49,E040_hardwork:n_total_sample_group,390.0,respondents,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,50+,E040_hardwork:share_1to3,29.76,pct valid,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,50+,E040_hardwork:share_8to10,20.8,pct valid,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,50+,E040_hardwork:mean_1to10,5.09,scale 1-10,wvs_online_Netherlands_EVS;wording_break_1990
+1990,NL,50+,E040_hardwork:n_total_sample_group,356.0,respondents,wvs_online_Netherlands_EVS;wording_break_1990
+1990,ES,all,A170_lifesat:share_1to3,4.13,pct valid,wvs_online_Spain_1990
+1990,ES,all,A170_lifesat:share_8to10,47.18,pct valid,wvs_online_Spain_1990
+1990,ES,all,A170_lifesat:mean_1to10,7.16,scale 1-10,wvs_online_Spain_1990
+1990,ES,all,A170_lifesat:n_total_sample_group,1510.0,respondents,wvs_online_Spain_1990
+1990,ES,<30,A170_lifesat:share_1to3,3.9,pct valid,wvs_online_Spain_1990
+1990,ES,<30,A170_lifesat:share_8to10,44.84,pct valid,wvs_online_Spain_1990
+1990,ES,<30,A170_lifesat:mean_1to10,7.11,scale 1-10,wvs_online_Spain_1990
+1990,ES,<30,A170_lifesat:n_total_sample_group,391.0,respondents,wvs_online_Spain_1990
+1990,ES,30-49,A170_lifesat:share_1to3,3.11,pct valid,wvs_online_Spain_1990
+1990,ES,30-49,A170_lifesat:share_8to10,48.69,pct valid,wvs_online_Spain_1990
+1990,ES,30-49,A170_lifesat:mean_1to10,7.26,scale 1-10,wvs_online_Spain_1990
+1990,ES,30-49,A170_lifesat:n_total_sample_group,530.0,respondents,wvs_online_Spain_1990
+1990,ES,50+,A170_lifesat:share_1to3,5.08,pct valid,wvs_online_Spain_1990
+1990,ES,50+,A170_lifesat:share_8to10,47.51,pct valid,wvs_online_Spain_1990
+1990,ES,50+,A170_lifesat:mean_1to10,7.09,scale 1-10,wvs_online_Spain_1990
+1990,ES,50+,A170_lifesat:n_total_sample_group,589.0,respondents,wvs_online_Spain_1990
+1990,ES,all,A173_freedom:share_1to3,6.01,pct valid,wvs_online_Spain_1990
+1990,ES,all,A173_freedom:share_8to10,40.62,pct valid,wvs_online_Spain_1990
+1990,ES,all,A173_freedom:mean_1to10,6.82,scale 1-10,wvs_online_Spain_1990
+1990,ES,all,A173_freedom:n_total_sample_group,1510.0,respondents,wvs_online_Spain_1990
+1990,ES,<30,A173_freedom:share_1to3,5.64,pct valid,wvs_online_Spain_1990
+1990,ES,<30,A173_freedom:share_8to10,38.37,pct valid,wvs_online_Spain_1990
+1990,ES,<30,A173_freedom:mean_1to10,6.76,scale 1-10,wvs_online_Spain_1990
+1990,ES,<30,A173_freedom:n_total_sample_group,391.0,respondents,wvs_online_Spain_1990
+1990,ES,30-49,A173_freedom:share_1to3,5.1,pct valid,wvs_online_Spain_1990
+1990,ES,30-49,A173_freedom:share_8to10,37.35,pct valid,wvs_online_Spain_1990
+1990,ES,30-49,A173_freedom:mean_1to10,6.77,scale 1-10,wvs_online_Spain_1990
+1990,ES,30-49,A173_freedom:n_total_sample_group,530.0,respondents,wvs_online_Spain_1990
+1990,ES,50+,A173_freedom:share_1to3,7.28,pct valid,wvs_online_Spain_1990
+1990,ES,50+,A173_freedom:share_8to10,45.18,pct valid,wvs_online_Spain_1990
+1990,ES,50+,A173_freedom:mean_1to10,6.91,scale 1-10,wvs_online_Spain_1990
+1990,ES,50+,A173_freedom:n_total_sample_group,589.0,respondents,wvs_online_Spain_1990
+1990,ES,all,E036_ownership:share_1to3,22.39,pct valid,wvs_online_Spain_1990
+1990,ES,all,E036_ownership:share_8to10,28.19,pct valid,wvs_online_Spain_1990
+1990,ES,all,E036_ownership:mean_1to10,5.66,scale 1-10,wvs_online_Spain_1990
+1990,ES,all,E036_ownership:n_total_sample_group,1510.0,respondents,wvs_online_Spain_1990
+1990,ES,<30,E036_ownership:share_1to3,19.37,pct valid,wvs_online_Spain_1990
+1990,ES,<30,E036_ownership:share_8to10,28.17,pct valid,wvs_online_Spain_1990
+1990,ES,<30,E036_ownership:mean_1to10,5.75,scale 1-10,wvs_online_Spain_1990
+1990,ES,<30,E036_ownership:n_total_sample_group,391.0,respondents,wvs_online_Spain_1990
+1990,ES,30-49,E036_ownership:share_1to3,23.54,pct valid,wvs_online_Spain_1990
+1990,ES,30-49,E036_ownership:share_8to10,30.59,pct valid,wvs_online_Spain_1990
+1990,ES,30-49,E036_ownership:mean_1to10,5.7,scale 1-10,wvs_online_Spain_1990
+1990,ES,30-49,E036_ownership:n_total_sample_group,530.0,respondents,wvs_online_Spain_1990
+1990,ES,50+,E036_ownership:share_1to3,23.6,pct valid,wvs_online_Spain_1990
+1990,ES,50+,E036_ownership:share_8to10,25.66,pct valid,wvs_online_Spain_1990
+1990,ES,50+,E036_ownership:mean_1to10,5.55,scale 1-10,wvs_online_Spain_1990
+1990,ES,50+,E036_ownership:n_total_sample_group,589.0,respondents,wvs_online_Spain_1990
+1990,ES,all,E037_govresp:share_1to3,25.41,pct valid,wvs_online_Spain_1990
+1990,ES,all,E037_govresp:share_8to10,35.49,pct valid,wvs_online_Spain_1990
+1990,ES,all,E037_govresp:mean_1to10,5.86,scale 1-10,wvs_online_Spain_1990
+1990,ES,all,E037_govresp:n_total_sample_group,1510.0,respondents,wvs_online_Spain_1990
+1990,ES,<30,E037_govresp:share_1to3,24.92,pct valid,wvs_online_Spain_1990
+1990,ES,<30,E037_govresp:share_8to10,35.47,pct valid,wvs_online_Spain_1990
+1990,ES,<30,E037_govresp:mean_1to10,5.79,scale 1-10,wvs_online_Spain_1990
+1990,ES,<30,E037_govresp:n_total_sample_group,391.0,respondents,wvs_online_Spain_1990
+1990,ES,30-49,E037_govresp:share_1to3,23.95,pct valid,wvs_online_Spain_1990
+1990,ES,30-49,E037_govresp:share_8to10,36.87,pct valid,wvs_online_Spain_1990
+1990,ES,30-49,E037_govresp:mean_1to10,6.02,scale 1-10,wvs_online_Spain_1990
+1990,ES,30-49,E037_govresp:n_total_sample_group,530.0,respondents,wvs_online_Spain_1990
+1990,ES,50+,E037_govresp:share_1to3,27.11,pct valid,wvs_online_Spain_1990
+1990,ES,50+,E037_govresp:share_8to10,34.24,pct valid,wvs_online_Spain_1990
+1990,ES,50+,E037_govresp:mean_1to10,5.75,scale 1-10,wvs_online_Spain_1990
+1990,ES,50+,E037_govresp:n_total_sample_group,589.0,respondents,wvs_online_Spain_1990
+1990,ES,all,E039_competition:share_1to3,42.59,pct valid,wvs_online_Spain_1990
+1990,ES,all,E039_competition:share_8to10,16.15,pct valid,wvs_online_Spain_1990
+1990,ES,all,E039_competition:mean_1to10,4.47,scale 1-10,wvs_online_Spain_1990
+1990,ES,all,E039_competition:n_total_sample_group,1510.0,respondents,wvs_online_Spain_1990
+1990,ES,<30,E039_competition:share_1to3,39.94,pct valid,wvs_online_Spain_1990
+1990,ES,<30,E039_competition:share_8to10,21.81,pct valid,wvs_online_Spain_1990
+1990,ES,<30,E039_competition:mean_1to10,4.8,scale 1-10,wvs_online_Spain_1990
+1990,ES,<30,E039_competition:n_total_sample_group,391.0,respondents,wvs_online_Spain_1990
+1990,ES,30-49,E039_competition:share_1to3,42.78,pct valid,wvs_online_Spain_1990
+1990,ES,30-49,E039_competition:share_8to10,17.09,pct valid,wvs_online_Spain_1990
+1990,ES,30-49,E039_competition:mean_1to10,4.52,scale 1-10,wvs_online_Spain_1990
+1990,ES,30-49,E039_competition:n_total_sample_group,530.0,respondents,wvs_online_Spain_1990
+1990,ES,50+,E039_competition:share_1to3,44.13,pct valid,wvs_online_Spain_1990
+1990,ES,50+,E039_competition:share_8to10,11.15,pct valid,wvs_online_Spain_1990
+1990,ES,50+,E039_competition:mean_1to10,4.17,scale 1-10,wvs_online_Spain_1990
+1990,ES,50+,E039_competition:n_total_sample_group,589.0,respondents,wvs_online_Spain_1990
+1990,ES,all,E040_hardwork:share_1to3,28.51,pct valid,wvs_online_Spain_1990;wording_break_1990
+1990,ES,all,E040_hardwork:share_8to10,32.9,pct valid,wvs_online_Spain_1990;wording_break_1990
+1990,ES,all,E040_hardwork:mean_1to10,5.61,scale 1-10,wvs_online_Spain_1990;wording_break_1990
+1990,ES,all,E040_hardwork:n_total_sample_group,1510.0,respondents,wvs_online_Spain_1990;wording_break_1990
+1990,ES,<30,E040_hardwork:share_1to3,22.84,pct valid,wvs_online_Spain_1990;wording_break_1990
+1990,ES,<30,E040_hardwork:share_8to10,34.2,pct valid,wvs_online_Spain_1990;wording_break_1990
+1990,ES,<30,E040_hardwork:mean_1to10,5.92,scale 1-10,wvs_online_Spain_1990;wording_break_1990
+1990,ES,<30,E040_hardwork:n_total_sample_group,391.0,respondents,wvs_online_Spain_1990;wording_break_1990
+1990,ES,30-49,E040_hardwork:share_1to3,25.81,pct valid,wvs_online_Spain_1990;wording_break_1990
+1990,ES,30-49,E040_hardwork:share_8to10,36.83,pct valid,wvs_online_Spain_1990;wording_break_1990
+1990,ES,30-49,E040_hardwork:mean_1to10,5.87,scale 1-10,wvs_online_Spain_1990;wording_break_1990
+1990,ES,30-49,E040_hardwork:n_total_sample_group,530.0,respondents,wvs_online_Spain_1990;wording_break_1990
+1990,ES,50+,E040_hardwork:share_1to3,34.97,pct valid,wvs_online_Spain_1990;wording_break_1990
+1990,ES,50+,E040_hardwork:share_8to10,28.29,pct valid,wvs_online_Spain_1990;wording_break_1990
+1990,ES,50+,E040_hardwork:mean_1to10,5.14,scale 1-10,wvs_online_Spain_1990;wording_break_1990
+1990,ES,50+,E040_hardwork:n_total_sample_group,589.0,respondents,wvs_online_Spain_1990;wording_break_1990
+1981,NL,all,A170_lifesat:share_1to3,2.25,pct valid,wvs_online_Netherlands_EVS
+1981,NL,all,A170_lifesat:share_8to10,62.47,pct valid,wvs_online_Netherlands_EVS
+1981,NL,all,A170_lifesat:mean_1to10,7.7,scale 1-10,wvs_online_Netherlands_EVS
+1981,NL,all,A170_lifesat:n_total_sample_group,1221.0,respondents,wvs_online_Netherlands_EVS
+1981,NL,<30,A170_lifesat:share_1to3,2.13,pct valid,wvs_online_Netherlands_EVS
+1981,NL,<30,A170_lifesat:share_8to10,61.5,pct valid,wvs_online_Netherlands_EVS
+1981,NL,<30,A170_lifesat:mean_1to10,7.64,scale 1-10,wvs_online_Netherlands_EVS
+1981,NL,<30,A170_lifesat:n_total_sample_group,321.0,respondents,wvs_online_Netherlands_EVS
+1981,NL,30-49,A170_lifesat:share_1to3,2.06,pct valid,wvs_online_Netherlands_EVS
+1981,NL,30-49,A170_lifesat:share_8to10,62.38,pct valid,wvs_online_Netherlands_EVS
+1981,NL,30-49,A170_lifesat:mean_1to10,7.66,scale 1-10,wvs_online_Netherlands_EVS
+1981,NL,30-49,A170_lifesat:n_total_sample_group,461.0,respondents,wvs_online_Netherlands_EVS
+1981,NL,50+,A170_lifesat:share_1to3,2.65,pct valid,wvs_online_Netherlands_EVS
+1981,NL,50+,A170_lifesat:share_8to10,63.2,pct valid,wvs_online_Netherlands_EVS
+1981,NL,50+,A170_lifesat:mean_1to10,7.78,scale 1-10,wvs_online_Netherlands_EVS
+1981,NL,50+,A170_lifesat:n_total_sample_group,424.0,respondents,wvs_online_Netherlands_EVS
+1981,NL,Missing Unknown,A170_lifesat:share_1to3,0.0,pct valid,wvs_online_Netherlands_EVS
+1981,NL,Missing Unknown,A170_lifesat:share_8to10,63.57,pct valid,wvs_online_Netherlands_EVS
+1981,NL,Missing Unknown,A170_lifesat:mean_1to10,8.05,scale 1-10,wvs_online_Netherlands_EVS
+1981,NL,Missing Unknown,A170_lifesat:n_total_sample_group,14.0,respondents,wvs_online_Netherlands_EVS
+1981,NL,all,A173_freedom:share_1to3,16.08,pct valid,wvs_online_Netherlands_EVS
+1981,NL,all,A173_freedom:share_8to10,23.81,pct valid,wvs_online_Netherlands_EVS
+1981,NL,all,A173_freedom:mean_1to10,5.86,scale 1-10,wvs_online_Netherlands_EVS
+1981,NL,all,A173_freedom:n_total_sample_group,1221.0,respondents,wvs_online_Netherlands_EVS
+1981,NL,<30,A173_freedom:share_1to3,10.79,pct valid,wvs_online_Netherlands_EVS
+1981,NL,<30,A173_freedom:share_8to10,31.11,pct valid,wvs_online_Netherlands_EVS
+1981,NL,<30,A173_freedom:mean_1to10,6.32,scale 1-10,wvs_online_Netherlands_EVS
+1981,NL,<30,A173_freedom:n_total_sample_group,321.0,respondents,wvs_online_Netherlands_EVS
+1981,NL,30-49,A173_freedom:share_1to3,14.48,pct valid,wvs_online_Netherlands_EVS
+1981,NL,30-49,A173_freedom:share_8to10,22.71,pct valid,wvs_online_Netherlands_EVS
+1981,NL,30-49,A173_freedom:mean_1to10,5.9,scale 1-10,wvs_online_Netherlands_EVS
+1981,NL,30-49,A173_freedom:n_total_sample_group,461.0,respondents,wvs_online_Netherlands_EVS
+1981,NL,50+,A173_freedom:share_1to3,22.46,pct valid,wvs_online_Netherlands_EVS
+1981,NL,50+,A173_freedom:share_8to10,19.79,pct valid,wvs_online_Netherlands_EVS
+1981,NL,50+,A173_freedom:mean_1to10,5.47,scale 1-10,wvs_online_Netherlands_EVS
+1981,NL,50+,A173_freedom:n_total_sample_group,424.0,respondents,wvs_online_Netherlands_EVS
+1981,NL,Missing Unknown,A173_freedom:share_1to3,4.99,pct valid,wvs_online_Netherlands_EVS
+1981,NL,Missing Unknown,A173_freedom:share_8to10,9.99,pct valid,wvs_online_Netherlands_EVS
+1981,NL,Missing Unknown,A173_freedom:mean_1to10,5.68,scale 1-10,wvs_online_Netherlands_EVS
+1981,NL,Missing Unknown,A173_freedom:n_total_sample_group,14.0,respondents,wvs_online_Netherlands_EVS
+1981,ES,all,A170_lifesat:share_1to3,7.19,pct valid,wvs_online_Spain_EVS
+1981,ES,all,A170_lifesat:share_8to10,34.37,pct valid,wvs_online_Spain_EVS
+1981,ES,all,A170_lifesat:mean_1to10,6.6,scale 1-10,wvs_online_Spain_EVS
+1981,ES,all,A170_lifesat:n_total_sample_group,2303.0,respondents,wvs_online_Spain_EVS
+1981,ES,<30,A170_lifesat:share_1to3,8.21,pct valid,wvs_online_Spain_EVS
+1981,ES,<30,A170_lifesat:share_8to10,32.13,pct valid,wvs_online_Spain_EVS
+1981,ES,<30,A170_lifesat:mean_1to10,6.48,scale 1-10,wvs_online_Spain_EVS
+1981,ES,<30,A170_lifesat:n_total_sample_group,606.0,respondents,wvs_online_Spain_EVS
+1981,ES,30-49,A170_lifesat:share_1to3,5.49,pct valid,wvs_online_Spain_EVS
+1981,ES,30-49,A170_lifesat:share_8to10,38.26,pct valid,wvs_online_Spain_EVS
+1981,ES,30-49,A170_lifesat:mean_1to10,6.85,scale 1-10,wvs_online_Spain_EVS
+1981,ES,30-49,A170_lifesat:n_total_sample_group,831.0,respondents,wvs_online_Spain_EVS
+1981,ES,50+,A170_lifesat:share_1to3,8.2,pct valid,wvs_online_Spain_EVS
+1981,ES,50+,A170_lifesat:share_8to10,32.2,pct valid,wvs_online_Spain_EVS
+1981,ES,50+,A170_lifesat:mean_1to10,6.45,scale 1-10,wvs_online_Spain_EVS
+1981,ES,50+,A170_lifesat:n_total_sample_group,866.0,respondents,wvs_online_Spain_EVS
+1981,ES,all,A173_freedom:share_1to3,8.94,pct valid,wvs_online_Spain_EVS
+1981,ES,all,A173_freedom:share_8to10,35.54,pct valid,wvs_online_Spain_EVS
+1981,ES,all,A173_freedom:mean_1to10,6.52,scale 1-10,wvs_online_Spain_EVS
+1981,ES,all,A173_freedom:n_total_sample_group,2303.0,respondents,wvs_online_Spain_EVS
+1981,ES,<30,A173_freedom:share_1to3,11.16,pct valid,wvs_online_Spain_EVS
+1981,ES,<30,A173_freedom:share_8to10,32.95,pct valid,wvs_online_Spain_EVS
+1981,ES,<30,A173_freedom:mean_1to10,6.34,scale 1-10,wvs_online_Spain_EVS
+1981,ES,<30,A173_freedom:n_total_sample_group,606.0,respondents,wvs_online_Spain_EVS
+1981,ES,30-49,A173_freedom:share_1to3,6.93,pct valid,wvs_online_Spain_EVS
+1981,ES,30-49,A173_freedom:share_8to10,37.38,pct valid,wvs_online_Spain_EVS
+1981,ES,30-49,A173_freedom:mean_1to10,6.65,scale 1-10,wvs_online_Spain_EVS
+1981,ES,30-49,A173_freedom:n_total_sample_group,831.0,respondents,wvs_online_Spain_EVS
+1981,ES,50+,A173_freedom:share_1to3,9.07,pct valid,wvs_online_Spain_EVS
+1981,ES,50+,A173_freedom:share_8to10,36.05,pct valid,wvs_online_Spain_EVS
+1981,ES,50+,A173_freedom:mean_1to10,6.52,scale 1-10,wvs_online_Spain_EVS
+1981,ES,50+,A173_freedom:n_total_sample_group,866.0,respondents,wvs_online_Spain_EVS
+2022,NL,all,A170_lifesat:share_1to3,53.37,pct valid,wvs_online_Netherlands_2022
+2022,NL,all,A170_lifesat:share_8to10,2.6,pct valid,wvs_online_Netherlands_2022
+2022,NL,all,A170_lifesat:mean_1to10,7.36,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,all,A170_lifesat:n_total_sample_group,2145.0,respondents,wvs_online_Netherlands_2022
+2022,NL,<30,A170_lifesat:share_1to3,39.89,pct valid,wvs_online_Netherlands_2022
+2022,NL,<30,A170_lifesat:share_8to10,1.08,pct valid,wvs_online_Netherlands_2022
+2022,NL,<30,A170_lifesat:mean_1to10,7.12,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,<30,A170_lifesat:n_total_sample_group,191.0,respondents,wvs_online_Netherlands_2022
+2022,NL,30-49,A170_lifesat:share_1to3,50.22,pct valid,wvs_online_Netherlands_2022
+2022,NL,30-49,A170_lifesat:share_8to10,2.8,pct valid,wvs_online_Netherlands_2022
+2022,NL,30-49,A170_lifesat:mean_1to10,7.28,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,30-49,A170_lifesat:n_total_sample_group,670.0,respondents,wvs_online_Netherlands_2022
+2022,NL,50+,A170_lifesat:share_1to3,56.88,pct valid,wvs_online_Netherlands_2022
+2022,NL,50+,A170_lifesat:share_8to10,2.55,pct valid,wvs_online_Netherlands_2022
+2022,NL,50+,A170_lifesat:mean_1to10,7.43,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,50+,A170_lifesat:n_total_sample_group,1284.0,respondents,wvs_online_Netherlands_2022
+2022,NL,all,A173_freedom:share_1to3,42.92,pct valid,wvs_online_Netherlands_2022
+2022,NL,all,A173_freedom:share_8to10,3.65,pct valid,wvs_online_Netherlands_2022
+2022,NL,all,A173_freedom:mean_1to10,7.06,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,all,A173_freedom:n_total_sample_group,2145.0,respondents,wvs_online_Netherlands_2022
+2022,NL,<30,A173_freedom:share_1to3,43.26,pct valid,wvs_online_Netherlands_2022
+2022,NL,<30,A173_freedom:share_8to10,2.83,pct valid,wvs_online_Netherlands_2022
+2022,NL,<30,A173_freedom:mean_1to10,7.12,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,<30,A173_freedom:n_total_sample_group,191.0,respondents,wvs_online_Netherlands_2022
+2022,NL,30-49,A173_freedom:share_1to3,43.38,pct valid,wvs_online_Netherlands_2022
+2022,NL,30-49,A173_freedom:share_8to10,3.56,pct valid,wvs_online_Netherlands_2022
+2022,NL,30-49,A173_freedom:mean_1to10,7.05,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,30-49,A173_freedom:n_total_sample_group,670.0,respondents,wvs_online_Netherlands_2022
+2022,NL,50+,A173_freedom:share_1to3,42.69,pct valid,wvs_online_Netherlands_2022
+2022,NL,50+,A173_freedom:share_8to10,3.89,pct valid,wvs_online_Netherlands_2022
+2022,NL,50+,A173_freedom:mean_1to10,7.05,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,50+,A173_freedom:n_total_sample_group,1284.0,respondents,wvs_online_Netherlands_2022
+2022,NL,all,E036_ownership:share_1to3,14.36,pct valid,wvs_online_Netherlands_2022
+2022,NL,all,E036_ownership:share_8to10,11.31,pct valid,wvs_online_Netherlands_2022
+2022,NL,all,E036_ownership:mean_1to10,5.35,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,all,E036_ownership:n_total_sample_group,2145.0,respondents,wvs_online_Netherlands_2022
+2022,NL,<30,E036_ownership:share_1to3,13.9,pct valid,wvs_online_Netherlands_2022
+2022,NL,<30,E036_ownership:share_8to10,5.9,pct valid,wvs_online_Netherlands_2022
+2022,NL,<30,E036_ownership:mean_1to10,5.12,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,<30,E036_ownership:n_total_sample_group,191.0,respondents,wvs_online_Netherlands_2022
+2022,NL,30-49,E036_ownership:share_1to3,15.98,pct valid,wvs_online_Netherlands_2022
+2022,NL,30-49,E036_ownership:share_8to10,11.58,pct valid,wvs_online_Netherlands_2022
+2022,NL,30-49,E036_ownership:mean_1to10,5.27,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,30-49,E036_ownership:n_total_sample_group,670.0,respondents,wvs_online_Netherlands_2022
+2022,NL,50+,E036_ownership:share_1to3,13.6,pct valid,wvs_online_Netherlands_2022
+2022,NL,50+,E036_ownership:share_8to10,11.76,pct valid,wvs_online_Netherlands_2022
+2022,NL,50+,E036_ownership:mean_1to10,5.41,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,50+,E036_ownership:n_total_sample_group,1284.0,respondents,wvs_online_Netherlands_2022
+2022,NL,all,E037_govresp:share_1to3,26.66,pct valid,wvs_online_Netherlands_2022
+2022,NL,all,E037_govresp:share_8to10,12.08,pct valid,wvs_online_Netherlands_2022
+2022,NL,all,E037_govresp:mean_1to10,4.96,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,all,E037_govresp:n_total_sample_group,2145.0,respondents,wvs_online_Netherlands_2022
+2022,NL,<30,E037_govresp:share_1to3,31.01,pct valid,wvs_online_Netherlands_2022
+2022,NL,<30,E037_govresp:share_8to10,11.03,pct valid,wvs_online_Netherlands_2022
+2022,NL,<30,E037_govresp:mean_1to10,4.69,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,<30,E037_govresp:n_total_sample_group,191.0,respondents,wvs_online_Netherlands_2022
+2022,NL,30-49,E037_govresp:share_1to3,24.77,pct valid,wvs_online_Netherlands_2022
+2022,NL,30-49,E037_govresp:share_8to10,10.81,pct valid,wvs_online_Netherlands_2022
+2022,NL,30-49,E037_govresp:mean_1to10,4.93,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,30-49,E037_govresp:n_total_sample_group,670.0,respondents,wvs_online_Netherlands_2022
+2022,NL,50+,E037_govresp:share_1to3,26.96,pct valid,wvs_online_Netherlands_2022
+2022,NL,50+,E037_govresp:share_8to10,12.95,pct valid,wvs_online_Netherlands_2022
+2022,NL,50+,E037_govresp:mean_1to10,5.02,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,50+,E037_govresp:n_total_sample_group,1284.0,respondents,wvs_online_Netherlands_2022
+2022,NL,all,E039_competition:share_1to3,24.61,pct valid,wvs_online_Netherlands_2022
+2022,NL,all,E039_competition:share_8to10,6.82,pct valid,wvs_online_Netherlands_2022
+2022,NL,all,E039_competition:mean_1to10,4.68,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,all,E039_competition:n_total_sample_group,2145.0,respondents,wvs_online_Netherlands_2022
+2022,NL,<30,E039_competition:share_1to3,27.96,pct valid,wvs_online_Netherlands_2022
+2022,NL,<30,E039_competition:share_8to10,4.38,pct valid,wvs_online_Netherlands_2022
+2022,NL,<30,E039_competition:mean_1to10,4.46,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,<30,E039_competition:n_total_sample_group,191.0,respondents,wvs_online_Netherlands_2022
+2022,NL,30-49,E039_competition:share_1to3,24.51,pct valid,wvs_online_Netherlands_2022
+2022,NL,30-49,E039_competition:share_8to10,6.41,pct valid,wvs_online_Netherlands_2022
+2022,NL,30-49,E039_competition:mean_1to10,4.65,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,30-49,E039_competition:n_total_sample_group,670.0,respondents,wvs_online_Netherlands_2022
+2022,NL,50+,E039_competition:share_1to3,24.18,pct valid,wvs_online_Netherlands_2022
+2022,NL,50+,E039_competition:share_8to10,7.33,pct valid,wvs_online_Netherlands_2022
+2022,NL,50+,E039_competition:mean_1to10,4.73,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,50+,E039_competition:n_total_sample_group,1284.0,respondents,wvs_online_Netherlands_2022
+2022,NL,all,E040_hardwork:share_1to3,29.73,pct valid,wvs_online_Netherlands_2022
+2022,NL,all,E040_hardwork:share_8to10,11.15,pct valid,wvs_online_Netherlands_2022
+2022,NL,all,E040_hardwork:mean_1to10,4.85,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,all,E040_hardwork:n_total_sample_group,2145.0,respondents,wvs_online_Netherlands_2022
+2022,NL,<30,E040_hardwork:share_1to3,36.69,pct valid,wvs_online_Netherlands_2022
+2022,NL,<30,E040_hardwork:share_8to10,11.02,pct valid,wvs_online_Netherlands_2022
+2022,NL,<30,E040_hardwork:mean_1to10,4.52,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,<30,E040_hardwork:n_total_sample_group,191.0,respondents,wvs_online_Netherlands_2022
+2022,NL,30-49,E040_hardwork:share_1to3,32.54,pct valid,wvs_online_Netherlands_2022
+2022,NL,30-49,E040_hardwork:share_8to10,10.28,pct valid,wvs_online_Netherlands_2022
+2022,NL,30-49,E040_hardwork:mean_1to10,4.67,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,30-49,E040_hardwork:n_total_sample_group,670.0,respondents,wvs_online_Netherlands_2022
+2022,NL,50+,E040_hardwork:share_1to3,27.37,pct valid,wvs_online_Netherlands_2022
+2022,NL,50+,E040_hardwork:share_8to10,11.61,pct valid,wvs_online_Netherlands_2022
+2022,NL,50+,E040_hardwork:mean_1to10,4.98,scale 1-10,wvs_online_Netherlands_2022
+2022,NL,50+,E040_hardwork:n_total_sample_group,1284.0,respondents,wvs_online_Netherlands_2022
+2017,NL,all,A170_lifesat:share_1to3,68.1,pct valid,wvs_online_Netherlands_EVS
+2017,NL,all,A170_lifesat:share_8to10,2.01,pct valid,wvs_online_Netherlands_EVS
+2017,NL,all,A170_lifesat:mean_1to10,7.84,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,all,A170_lifesat:n_total_sample_group,2409.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,<30,A170_lifesat:share_1to3,67.64,pct valid,wvs_online_Netherlands_EVS
+2017,NL,<30,A170_lifesat:share_8to10,0.8,pct valid,wvs_online_Netherlands_EVS
+2017,NL,<30,A170_lifesat:mean_1to10,7.93,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,<30,A170_lifesat:n_total_sample_group,419.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,30-49,A170_lifesat:share_1to3,63.83,pct valid,wvs_online_Netherlands_EVS
+2017,NL,30-49,A170_lifesat:share_8to10,1.9,pct valid,wvs_online_Netherlands_EVS
+2017,NL,30-49,A170_lifesat:mean_1to10,7.67,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,30-49,A170_lifesat:n_total_sample_group,792.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,50+,A170_lifesat:share_1to3,70.98,pct valid,wvs_online_Netherlands_EVS
+2017,NL,50+,A170_lifesat:share_8to10,2.61,pct valid,wvs_online_Netherlands_EVS
+2017,NL,50+,A170_lifesat:mean_1to10,7.91,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,50+,A170_lifesat:n_total_sample_group,1198.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,all,A173_freedom:share_1to3,44.93,pct valid,wvs_online_Netherlands_EVS
+2017,NL,all,A173_freedom:share_8to10,5.58,pct valid,wvs_online_Netherlands_EVS
+2017,NL,all,A173_freedom:mean_1to10,6.99,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,all,A173_freedom:n_total_sample_group,2409.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,<30,A173_freedom:share_1to3,51.31,pct valid,wvs_online_Netherlands_EVS
+2017,NL,<30,A173_freedom:share_8to10,4.44,pct valid,wvs_online_Netherlands_EVS
+2017,NL,<30,A173_freedom:mean_1to10,7.32,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,<30,A173_freedom:n_total_sample_group,419.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,30-49,A173_freedom:share_1to3,43.48,pct valid,wvs_online_Netherlands_EVS
+2017,NL,30-49,A173_freedom:share_8to10,4.99,pct valid,wvs_online_Netherlands_EVS
+2017,NL,30-49,A173_freedom:mean_1to10,6.9,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,30-49,A173_freedom:n_total_sample_group,792.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,50+,A173_freedom:share_1to3,43.83,pct valid,wvs_online_Netherlands_EVS
+2017,NL,50+,A173_freedom:share_8to10,6.38,pct valid,wvs_online_Netherlands_EVS
+2017,NL,50+,A173_freedom:mean_1to10,6.93,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,50+,A173_freedom:n_total_sample_group,1198.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,all,E036_ownership:share_1to3,18.05,pct valid,wvs_online_Netherlands_EVS
+2017,NL,all,E036_ownership:share_8to10,13.1,pct valid,wvs_online_Netherlands_EVS
+2017,NL,all,E036_ownership:mean_1to10,5.38,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,all,E036_ownership:n_total_sample_group,2409.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,<30,E036_ownership:share_1to3,19.75,pct valid,wvs_online_Netherlands_EVS
+2017,NL,<30,E036_ownership:share_8to10,9.57,pct valid,wvs_online_Netherlands_EVS
+2017,NL,<30,E036_ownership:mean_1to10,5.13,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,<30,E036_ownership:n_total_sample_group,419.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,30-49,E036_ownership:share_1to3,15.95,pct valid,wvs_online_Netherlands_EVS
+2017,NL,30-49,E036_ownership:share_8to10,10.83,pct valid,wvs_online_Netherlands_EVS
+2017,NL,30-49,E036_ownership:mean_1to10,5.35,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,30-49,E036_ownership:n_total_sample_group,792.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,50+,E036_ownership:share_1to3,18.73,pct valid,wvs_online_Netherlands_EVS
+2017,NL,50+,E036_ownership:share_8to10,15.5,pct valid,wvs_online_Netherlands_EVS
+2017,NL,50+,E036_ownership:mean_1to10,5.48,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,50+,E036_ownership:n_total_sample_group,1198.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,all,E037_govresp:share_1to3,16.19,pct valid,wvs_online_Netherlands_EVS
+2017,NL,all,E037_govresp:share_8to10,29.18,pct valid,wvs_online_Netherlands_EVS
+2017,NL,all,E037_govresp:mean_1to10,5.94,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,all,E037_govresp:n_total_sample_group,2409.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,<30,E037_govresp:share_1to3,12.63,pct valid,wvs_online_Netherlands_EVS
+2017,NL,<30,E037_govresp:share_8to10,27.74,pct valid,wvs_online_Netherlands_EVS
+2017,NL,<30,E037_govresp:mean_1to10,6.03,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,<30,E037_govresp:n_total_sample_group,419.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,30-49,E037_govresp:share_1to3,14.43,pct valid,wvs_online_Netherlands_EVS
+2017,NL,30-49,E037_govresp:share_8to10,29.6,pct valid,wvs_online_Netherlands_EVS
+2017,NL,30-49,E037_govresp:mean_1to10,5.99,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,30-49,E037_govresp:n_total_sample_group,792.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,50+,E037_govresp:share_1to3,18.61,pct valid,wvs_online_Netherlands_EVS
+2017,NL,50+,E037_govresp:share_8to10,29.35,pct valid,wvs_online_Netherlands_EVS
+2017,NL,50+,E037_govresp:mean_1to10,5.88,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,50+,E037_govresp:n_total_sample_group,1198.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,all,E039_competition:share_1to3,23.79,pct valid,wvs_online_Netherlands_EVS
+2017,NL,all,E039_competition:share_8to10,9.25,pct valid,wvs_online_Netherlands_EVS
+2017,NL,all,E039_competition:mean_1to10,4.94,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,all,E039_competition:n_total_sample_group,2409.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,<30,E039_competition:share_1to3,28.97,pct valid,wvs_online_Netherlands_EVS
+2017,NL,<30,E039_competition:share_8to10,6.23,pct valid,wvs_online_Netherlands_EVS
+2017,NL,<30,E039_competition:mean_1to10,4.69,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,<30,E039_competition:n_total_sample_group,419.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,30-49,E039_competition:share_1to3,20.54,pct valid,wvs_online_Netherlands_EVS
+2017,NL,30-49,E039_competition:share_8to10,9.99,pct valid,wvs_online_Netherlands_EVS
+2017,NL,30-49,E039_competition:mean_1to10,5.06,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,30-49,E039_competition:n_total_sample_group,792.0,respondents,wvs_online_Netherlands_EVS
+2017,NL,50+,E039_competition:share_1to3,24.18,pct valid,wvs_online_Netherlands_EVS
+2017,NL,50+,E039_competition:share_8to10,9.61,pct valid,wvs_online_Netherlands_EVS
+2017,NL,50+,E039_competition:mean_1to10,4.94,scale 1-10,wvs_online_Netherlands_EVS
+2017,NL,50+,E039_competition:n_total_sample_group,1198.0,respondents,wvs_online_Netherlands_EVS
+2017,ES,all,A170_lifesat:share_1to3,53.79,pct valid,wvs_online_Spain_EVS
+2017,ES,all,A170_lifesat:share_8to10,2.1,pct valid,wvs_online_Spain_EVS
+2017,ES,all,A170_lifesat:mean_1to10,7.49,scale 1-10,wvs_online_Spain_EVS
+2017,ES,all,A170_lifesat:n_total_sample_group,1210.0,respondents,wvs_online_Spain_EVS
+2017,ES,<30,A170_lifesat:share_1to3,60.9,pct valid,wvs_online_Spain_EVS
+2017,ES,<30,A170_lifesat:share_8to10,1.0,pct valid,wvs_online_Spain_EVS
+2017,ES,<30,A170_lifesat:mean_1to10,7.76,scale 1-10,wvs_online_Spain_EVS
+2017,ES,<30,A170_lifesat:n_total_sample_group,198.0,respondents,wvs_online_Spain_EVS
+2017,ES,30-49,A170_lifesat:share_1to3,57.74,pct valid,wvs_online_Spain_EVS
+2017,ES,30-49,A170_lifesat:share_8to10,0.7,pct valid,wvs_online_Spain_EVS
+2017,ES,30-49,A170_lifesat:mean_1to10,7.67,scale 1-10,wvs_online_Spain_EVS
+2017,ES,30-49,A170_lifesat:n_total_sample_group,468.0,respondents,wvs_online_Spain_EVS
+2017,ES,50+,A170_lifesat:share_1to3,47.95,pct valid,wvs_online_Spain_EVS
+2017,ES,50+,A170_lifesat:share_8to10,3.7,pct valid,wvs_online_Spain_EVS
+2017,ES,50+,A170_lifesat:mean_1to10,7.24,scale 1-10,wvs_online_Spain_EVS
+2017,ES,50+,A170_lifesat:n_total_sample_group,544.0,respondents,wvs_online_Spain_EVS
+2017,ES,all,A173_freedom:share_1to3,50.71,pct valid,wvs_online_Spain_EVS
+2017,ES,all,A173_freedom:share_8to10,2.63,pct valid,wvs_online_Spain_EVS
+2017,ES,all,A173_freedom:mean_1to10,7.41,scale 1-10,wvs_online_Spain_EVS
+2017,ES,all,A173_freedom:n_total_sample_group,1210.0,respondents,wvs_online_Spain_EVS
+2017,ES,<30,A173_freedom:share_1to3,61.07,pct valid,wvs_online_Spain_EVS
+2017,ES,<30,A173_freedom:share_8to10,1.71,pct valid,wvs_online_Spain_EVS
+2017,ES,<30,A173_freedom:mean_1to10,7.83,scale 1-10,wvs_online_Spain_EVS
+2017,ES,<30,A173_freedom:n_total_sample_group,198.0,respondents,wvs_online_Spain_EVS
+2017,ES,30-49,A173_freedom:share_1to3,48.65,pct valid,wvs_online_Spain_EVS
+2017,ES,30-49,A173_freedom:share_8to10,2.81,pct valid,wvs_online_Spain_EVS
+2017,ES,30-49,A173_freedom:mean_1to10,7.33,scale 1-10,wvs_online_Spain_EVS
+2017,ES,30-49,A173_freedom:n_total_sample_group,468.0,respondents,wvs_online_Spain_EVS
+2017,ES,50+,A173_freedom:share_1to3,48.68,pct valid,wvs_online_Spain_EVS
+2017,ES,50+,A173_freedom:share_8to10,2.85,pct valid,wvs_online_Spain_EVS
+2017,ES,50+,A173_freedom:mean_1to10,7.32,scale 1-10,wvs_online_Spain_EVS
+2017,ES,50+,A173_freedom:n_total_sample_group,544.0,respondents,wvs_online_Spain_EVS
+2017,ES,all,E036_ownership:share_1to3,18.63,pct valid,wvs_online_Spain_EVS
+2017,ES,all,E036_ownership:share_8to10,35.95,pct valid,wvs_online_Spain_EVS
+2017,ES,all,E036_ownership:mean_1to10,6.13,scale 1-10,wvs_online_Spain_EVS
+2017,ES,all,E036_ownership:n_total_sample_group,1210.0,respondents,wvs_online_Spain_EVS
+2017,ES,<30,E036_ownership:share_1to3,17.47,pct valid,wvs_online_Spain_EVS
+2017,ES,<30,E036_ownership:share_8to10,38.23,pct valid,wvs_online_Spain_EVS
+2017,ES,<30,E036_ownership:mean_1to10,6.26,scale 1-10,wvs_online_Spain_EVS
+2017,ES,<30,E036_ownership:n_total_sample_group,198.0,respondents,wvs_online_Spain_EVS
+2017,ES,30-49,E036_ownership:share_1to3,15.79,pct valid,wvs_online_Spain_EVS
+2017,ES,30-49,E036_ownership:share_8to10,34.43,pct valid,wvs_online_Spain_EVS
+2017,ES,30-49,E036_ownership:mean_1to10,6.13,scale 1-10,wvs_online_Spain_EVS
+2017,ES,30-49,E036_ownership:n_total_sample_group,468.0,respondents,wvs_online_Spain_EVS
+2017,ES,50+,E036_ownership:share_1to3,21.55,pct valid,wvs_online_Spain_EVS
+2017,ES,50+,E036_ownership:share_8to10,36.54,pct valid,wvs_online_Spain_EVS
+2017,ES,50+,E036_ownership:mean_1to10,6.08,scale 1-10,wvs_online_Spain_EVS
+2017,ES,50+,E036_ownership:n_total_sample_group,544.0,respondents,wvs_online_Spain_EVS
+2017,ES,all,E037_govresp:share_1to3,36.9,pct valid,wvs_online_Spain_EVS
+2017,ES,all,E037_govresp:share_8to10,20.25,pct valid,wvs_online_Spain_EVS
+2017,ES,all,E037_govresp:mean_1to10,4.87,scale 1-10,wvs_online_Spain_EVS
+2017,ES,all,E037_govresp:n_total_sample_group,1210.0,respondents,wvs_online_Spain_EVS
+2017,ES,<30,E037_govresp:share_1to3,42.17,pct valid,wvs_online_Spain_EVS
+2017,ES,<30,E037_govresp:share_8to10,17.33,pct valid,wvs_online_Spain_EVS
+2017,ES,<30,E037_govresp:mean_1to10,4.69,scale 1-10,wvs_online_Spain_EVS
+2017,ES,<30,E037_govresp:n_total_sample_group,198.0,respondents,wvs_online_Spain_EVS
+2017,ES,30-49,E037_govresp:share_1to3,34.66,pct valid,wvs_online_Spain_EVS
+2017,ES,30-49,E037_govresp:share_8to10,18.86,pct valid,wvs_online_Spain_EVS
+2017,ES,30-49,E037_govresp:mean_1to10,4.87,scale 1-10,wvs_online_Spain_EVS
+2017,ES,30-49,E037_govresp:n_total_sample_group,468.0,respondents,wvs_online_Spain_EVS
+2017,ES,50+,E037_govresp:share_1to3,36.8,pct valid,wvs_online_Spain_EVS
+2017,ES,50+,E037_govresp:share_8to10,22.68,pct valid,wvs_online_Spain_EVS
+2017,ES,50+,E037_govresp:mean_1to10,4.94,scale 1-10,wvs_online_Spain_EVS
+2017,ES,50+,E037_govresp:n_total_sample_group,544.0,respondents,wvs_online_Spain_EVS
+2017,ES,all,E039_competition:share_1to3,44.58,pct valid,wvs_online_Spain_EVS
+2017,ES,all,E039_competition:share_8to10,13.91,pct valid,wvs_online_Spain_EVS
+2017,ES,all,E039_competition:mean_1to10,4.29,scale 1-10,wvs_online_Spain_EVS
+2017,ES,all,E039_competition:n_total_sample_group,1210.0,respondents,wvs_online_Spain_EVS
+2017,ES,<30,E039_competition:share_1to3,39.18,pct valid,wvs_online_Spain_EVS
+2017,ES,<30,E039_competition:share_8to10,14.74,pct valid,wvs_online_Spain_EVS
+2017,ES,<30,E039_competition:mean_1to10,4.45,scale 1-10,wvs_online_Spain_EVS
+2017,ES,<30,E039_competition:n_total_sample_group,198.0,respondents,wvs_online_Spain_EVS
+2017,ES,30-49,E039_competition:share_1to3,46.22,pct valid,wvs_online_Spain_EVS
+2017,ES,30-49,E039_competition:share_8to10,10.57,pct valid,wvs_online_Spain_EVS
+2017,ES,30-49,E039_competition:mean_1to10,4.06,scale 1-10,wvs_online_Spain_EVS
+2017,ES,30-49,E039_competition:n_total_sample_group,468.0,respondents,wvs_online_Spain_EVS
+2017,ES,50+,E039_competition:share_1to3,44.99,pct valid,wvs_online_Spain_EVS
+2017,ES,50+,E039_competition:share_8to10,16.82,pct valid,wvs_online_Spain_EVS
+2017,ES,50+,E039_competition:mean_1to10,4.43,scale 1-10,wvs_online_Spain_EVS
+2017,ES,50+,E039_competition:n_total_sample_group,544.0,respondents,wvs_online_Spain_EVS

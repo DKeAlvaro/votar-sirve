@@ -1,0 +1,157 @@
+date,geo,group,variable,value,unit,source_id
+2004-12,ES,,sisle_surgical_patients_waiting,421716,persons,sanidad_sisle_listasEspera04
+2004-12,ES,,sisle_surgical_mean_wait_days,74,days,sanidad_sisle_listasEspera04
+2005-12,ES,,sisle_surgical_patients_waiting,385050,persons,sanidad_sisle_listasEspera05
+2005-12,ES,,sisle_surgical_mean_wait_days,83,days,sanidad_sisle_listasEspera05
+2006-12,ES,,sisle_surgical_patients_waiting,362762,persons,sanidad_sisle_listasDiciembre06CI
+2006-12,ES,,sisle_surgical_mean_wait_days,70,days,sanidad_sisle_listasDiciembre06CI
+2006-12,ES,,sisle_consult_patients_per_1000,35.412,"per 1,000 inhabitants",sanidad_sisle_listasDiciembre06CI
+2006-12,ES,,sisle_consult_mean_wait_days,54,days,sanidad_sisle_listasDiciembre06CI
+2007-06,ES,,sisle_surgical_patients_waiting,364901,persons,sanidad_sisle_listaPublicacion07CI
+2007-06,ES,,sisle_surgical_mean_wait_days,70,days,sanidad_sisle_listaPublicacion07CI
+2007-06,ES,,sisle_consult_patients_per_1000,37.668,"per 1,000 inhabitants",sanidad_sisle_listaPublicacion07CI
+2007-06,ES,,sisle_consult_mean_wait_days,53,days,sanidad_sisle_listaPublicacion07CI
+2007-12,ES,,sisle_surgical_patients_waiting,376242,persons,sanidad_sisle_listaDiciembre08CI
+2007-12,ES,,sisle_surgical_mean_wait_days,74,days,sanidad_sisle_listaDiciembre08CI
+2007-12,ES,,sisle_consult_patients_per_1000,39.344,"per 1,000 inhabitants",sanidad_sisle_listaDiciembre08CI
+2008-06,ES,,sisle_surgical_patients_waiting,372572,persons,sanidad_sisle_listaJunio08CI
+2008-06,ES,,sisle_surgical_mean_wait_days,68,days,sanidad_sisle_listaJunio08CI
+2008-06,ES,,sisle_consult_patients_per_1000,37.057,"per 1,000 inhabitants",sanidad_sisle_listaJunio08CI
+2008-06,ES,,sisle_consult_mean_wait_days,60,days,sanidad_sisle_listaJunio08CI
+2008-12,ES,,sisle_surgical_patients_waiting,364397,persons,sanidad_sisle_listaDiciembre08CI2
+2008-12,ES,,sisle_surgical_mean_wait_days,71,days,sanidad_sisle_listaDiciembre08CI2
+2008-12,ES,,sisle_consult_patients_per_1000,37.485,"per 1,000 inhabitants",sanidad_sisle_listaDiciembre08CI2
+2008-12,ES,,sisle_consult_mean_wait_days,68,days,sanidad_sisle_listaDiciembre08CI2
+2009-06,ES,,sisle_surgical_patients_waiting,374194,persons,sanidad_sisle_ListaEsperaJunio09CI
+2009-06,ES,,sisle_surgical_mean_wait_days,63,days,sanidad_sisle_ListaEsperaJunio09CI
+2009-06,ES,,sisle_consult_patients_per_1000,39.114,"per 1,000 inhabitants",sanidad_sisle_ListaEsperaJunio09CI
+2009-12,ES,,sisle_surgical_patients_waiting,372468,persons,sanidad_sisle_ListaEsperaDic09_CISNS
+2009-12,ES,,sisle_surgical_mean_wait_days,67,days,sanidad_sisle_ListaEsperaDic09_CISNS
+2009-12,ES,,sisle_consult_patients_per_1000,40.236,"per 1,000 inhabitants",sanidad_sisle_ListaEsperaDic09_CISNS
+2009-12,ES,,sisle_consult_mean_wait_days,67,days,sanidad_sisle_ListaEsperaDic09_CISNS
+2010-06,ES,,sisle_surgical_patients_waiting,381753,persons,sanidad_sisle_ListaEsperaJunio10_CISNS
+2010-06,ES,,sisle_surgical_mean_wait_days,61,days,sanidad_sisle_ListaEsperaJunio10_CISNS
+2010-06,ES,,sisle_consult_patients_per_1000,39.84,"per 1,000 inhabitants",sanidad_sisle_ListaEsperaJunio10_CISNS
+2010-12,ES,,sisle_surgical_patients_waiting,392072,persons,sanidad_sisle_ListaEsperaDic10_CISNS
+2010-12,ES,,sisle_surgical_mean_wait_days,65,days,sanidad_sisle_ListaEsperaDic10_CISNS
+2010-12,ES,,sisle_consult_patients_per_1000,33.001,"per 1,000 inhabitants",sanidad_sisle_ListaEsperaDic10_CISNS
+2010-12,ES,,sisle_consult_mean_wait_days,63,days,sanidad_sisle_ListaEsperaDic10_CISNS
+2011-06,ES,,sisle_surgical_patients_waiting,417407,persons,sanidad_sisle_ListaEsperaJun11_CISNS
+2011-06,ES,,sisle_surgical_mean_wait_days,64,days,sanidad_sisle_ListaEsperaJun11_CISNS
+2011-06,ES,,sisle_consult_patients_per_1000,40.36,"per 1,000 inhabitants",sanidad_sisle_ListaEsperaJun11_CISNS
+2011-06,ES,,sisle_consult_mean_wait_days,67,days,sanidad_sisle_ListaEsperaJun11_CISNS
+2011-12,ES,,sisle_surgical_patients_waiting,459885,persons,sanidad_sisle_ListaEsperaDic11_CISNS
+2011-12,ES,,sisle_surgical_mean_wait_days,73,days,sanidad_sisle_ListaEsperaDic11_CISNS
+2011-12,ES,,sisle_consult_patients_per_1000,36.105,"per 1,000 inhabitants",sanidad_sisle_ListaEsperaDic11_CISNS
+2012-06,ES,,sisle_surgical_patients_waiting,536911,persons,sanidad_sisle_LISTAS_PUBLICACION_CI_JUN12_18122012
+2012-06,ES,,sisle_surgical_mean_wait_days,76,days,sanidad_sisle_LISTAS_PUBLICACION_CI_JUN12_18122012
+2012-06,ES,,sisle_consult_patients_per_1000,35.942,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_CI_JUN12_18122012
+2012-06,ES,,sisle_consult_mean_wait_days,53,days,sanidad_sisle_LISTAS_PUBLICACION_CI_JUN12_18122012
+2012-12,ES,,sisle_surgical_patients_waiting,571395,persons,sanidad_sisle_LISTAS_DE_ESPERA_Diciembre_2012
+2012-12,ES,,sisle_surgical_mean_wait_days,100,days,sanidad_sisle_LISTAS_DE_ESPERA_Diciembre_2012
+2012-12,ES,,sisle_consult_patients_per_1000,42.167,"per 1,000 inhabitants",sanidad_sisle_LISTAS_DE_ESPERA_Diciembre_2012
+2012-12,ES,,sisle_consult_mean_wait_days,59,days,sanidad_sisle_LISTAS_DE_ESPERA_Diciembre_2012
+2013-06,ES,,sisle_surgical_patients_waiting,583612,persons,sanidad_sisle_LISTAS_PUBLICACION_JUN13
+2013-06,ES,,sisle_surgical_mean_wait_days,101,days,sanidad_sisle_LISTAS_PUBLICACION_JUN13
+2013-06,ES,,sisle_consult_patients_per_1000,39.94,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_JUN13
+2013-06,ES,,sisle_consult_mean_wait_days,54,days,sanidad_sisle_LISTAS_PUBLICACION_JUN13
+2013-12,ES,,sisle_surgical_patients_waiting,559335,persons,sanidad_sisle_LISTAS_PUBLICACION_DIC13
+2013-12,ES,,sisle_surgical_mean_wait_days,98,days,sanidad_sisle_LISTAS_PUBLICACION_DIC13
+2013-12,ES,,sisle_consult_patients_per_1000,39.0,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_DIC13
+2013-12,ES,,sisle_consult_mean_wait_days,67,days,sanidad_sisle_LISTAS_PUBLICACION_DIC13
+2014-06,ES,,sisle_surgical_patients_waiting,552016,persons,sanidad_sisle_LISTAS_PUBLICACION_JUN14_CISNS
+2014-06,ES,,sisle_surgical_mean_wait_days,90,days,sanidad_sisle_LISTAS_PUBLICACION_JUN14_CISNS
+2014-06,ES,,sisle_consult_patients_per_1000,38.55,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_JUN14_CISNS
+2014-06,ES,,sisle_consult_mean_wait_days,53,days,sanidad_sisle_LISTAS_PUBLICACION_JUN14_CISNS
+2014-12,ES,,sisle_surgical_patients_waiting,511923,persons,sanidad_sisle_LISTAS_PUBLICACION_DIC14
+2014-12,ES,,sisle_surgical_mean_wait_days,87,days,sanidad_sisle_LISTAS_PUBLICACION_DIC14
+2014-12,ES,,sisle_consult_patients_per_1000,39.43,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_DIC14
+2014-12,ES,,sisle_consult_mean_wait_days,82,days,sanidad_sisle_LISTAS_PUBLICACION_DIC14
+2015-06,ES,,sisle_surgical_patients_waiting,522180,persons,sanidad_sisle_LISTAS_PUBLICACION_JUN15
+2015-06,ES,,sisle_surgical_mean_wait_days,81,days,sanidad_sisle_LISTAS_PUBLICACION_JUN15
+2015-06,ES,,sisle_consult_patients_per_1000,38.96,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_JUN15
+2015-06,ES,,sisle_consult_mean_wait_days,62,days,sanidad_sisle_LISTAS_PUBLICACION_JUN15
+2015-12,ES,,sisle_surgical_patients_waiting,549424,persons,sanidad_sisle_LISTAS_PUBLICACION_DIC15
+2015-12,ES,,sisle_surgical_mean_wait_days,89,days,sanidad_sisle_LISTAS_PUBLICACION_DIC15
+2015-12,ES,,sisle_consult_patients_per_1000,43.35,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_DIC15
+2015-12,ES,,sisle_consult_mean_wait_days,58,days,sanidad_sisle_LISTAS_PUBLICACION_DIC15
+2016-06,ES,,sisle_surgical_patients_waiting,569097,persons,sanidad_sisle_LISTAS_PUBLICACION_JUN2016.1
+2016-06,ES,,sisle_surgical_mean_wait_days,83,days,sanidad_sisle_LISTAS_PUBLICACION_JUN2016.1
+2016-06,ES,,sisle_consult_patients_per_1000,40.91,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_JUN2016.1
+2016-06,ES,,sisle_consult_mean_wait_days,52,days,sanidad_sisle_LISTAS_PUBLICACION_JUN2016.1
+2016-12,ES,,sisle_surgical_patients_waiting,614101,persons,sanidad_sisle_LISTAS_PUBLICACION_DIC16
+2016-12,ES,,sisle_surgical_mean_wait_days,115,days,sanidad_sisle_LISTAS_PUBLICACION_DIC16
+2016-12,ES,,sisle_consult_patients_per_1000,45.66,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_DIC16
+2016-12,ES,,sisle_consult_mean_wait_days,72,days,sanidad_sisle_LISTAS_PUBLICACION_DIC16
+2017-06,ES,,sisle_surgical_patients_waiting,604103,persons,sanidad_sisle_Indicadores_Resumen_Junio_2017
+2017-06,ES,,sisle_surgical_mean_wait_days,104,days,sanidad_sisle_Indicadores_Resumen_Junio_2017
+2017-06,ES,,sisle_consult_patients_per_1000,43.86,"per 1,000 inhabitants",sanidad_sisle_Indicadores_Resumen_Junio_2017
+2017-06,ES,,sisle_consult_mean_wait_days,58,days,sanidad_sisle_Indicadores_Resumen_Junio_2017
+2017-12,ES,,sisle_surgical_patients_waiting,592175,persons,sanidad_sisle_Indicadores_Resumen_Diciembre_2017
+2017-12,ES,,sisle_surgical_mean_wait_days,106,days,sanidad_sisle_Indicadores_Resumen_Diciembre_2017
+2017-12,ES,,sisle_consult_patients_per_1000,45.87,"per 1,000 inhabitants",sanidad_sisle_Indicadores_Resumen_Diciembre_2017
+2017-12,ES,,sisle_consult_mean_wait_days,66,days,sanidad_sisle_Indicadores_Resumen_Diciembre_2017
+2018-06,ES,,sisle_surgical_patients_waiting,584018,persons,sanidad_sisle_LLEE_SNS_IndicadoresResumen_Junio2018
+2018-06,ES,,sisle_surgical_mean_wait_days,93,days,sanidad_sisle_LLEE_SNS_IndicadoresResumen_Junio2018
+2018-06,ES,,sisle_consult_patients_per_1000,43.06,"per 1,000 inhabitants",sanidad_sisle_LLEE_SNS_IndicadoresResumen_Junio2018
+2018-06,ES,,sisle_consult_mean_wait_days,57,days,sanidad_sisle_LLEE_SNS_IndicadoresResumen_Junio2018
+2018-12,ES,,sisle_surgical_patients_waiting,668288,persons,sanidad_sisle_LLEE_SNS_IndicadoresResumen_Diciembre2018
+2018-12,ES,,sisle_surgical_mean_wait_days,129,days,sanidad_sisle_LLEE_SNS_IndicadoresResumen_Diciembre2018
+2018-12,ES,,sisle_consult_patients_per_1000,62.48,"per 1,000 inhabitants",sanidad_sisle_LLEE_SNS_IndicadoresResumen_Diciembre2018
+2018-12,ES,,sisle_consult_mean_wait_days,96,days,sanidad_sisle_LLEE_SNS_IndicadoresResumen_Diciembre2018
+2019-06,ES,,sisle_surgical_patients_waiting,671494,persons,sanidad_sisle_LLEE_SNS_IndicadoresResumen_Junio2019
+2019-06,ES,,sisle_surgical_mean_wait_days,115,days,sanidad_sisle_LLEE_SNS_IndicadoresResumen_Junio2019
+2019-06,ES,,sisle_consult_patients_per_1000,61.84,"per 1,000 inhabitants",sanidad_sisle_LLEE_SNS_IndicadoresResumen_Junio2019
+2019-06,ES,,sisle_consult_mean_wait_days,81,days,sanidad_sisle_LLEE_SNS_IndicadoresResumen_Junio2019
+2019-12,ES,,sisle_surgical_patients_waiting,704997,persons,sanidad_sisle_LISTAS_PUBLICACION_dic19
+2019-12,ES,,sisle_surgical_mean_wait_days,121,days,sanidad_sisle_LISTAS_PUBLICACION_dic19
+2019-12,ES,,sisle_consult_patients_per_1000,63.72,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_dic19
+2019-12,ES,,sisle_consult_mean_wait_days,88,days,sanidad_sisle_LISTAS_PUBLICACION_dic19
+2020-06,ES,,sisle_surgical_patients_waiting,691508,persons,sanidad_sisle_LISTAS_PUBLICACION_jun2020
+2020-06,ES,,sisle_surgical_mean_wait_days,170,days,sanidad_sisle_LISTAS_PUBLICACION_jun2020
+2020-06,ES,,sisle_consult_patients_per_1000,46.45,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_jun2020
+2020-06,ES,,sisle_consult_mean_wait_days,115,days,sanidad_sisle_LISTAS_PUBLICACION_jun2020
+2020-12,ES,,sisle_surgical_patients_waiting,649879,persons,sanidad_sisle_LISTAS_PUBLICACION_dic_2020
+2020-12,ES,,sisle_surgical_mean_wait_days,155,days,sanidad_sisle_LISTAS_PUBLICACION_dic_2020
+2020-12,ES,,sisle_consult_patients_per_1000,53.6,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_dic_2020
+2020-12,ES,,sisle_consult_mean_wait_days,99,days,sanidad_sisle_LISTAS_PUBLICACION_dic_2020
+2021-06,ES,,sisle_surgical_patients_waiting,661162,persons,sanidad_sisle_LISTAS_PUBLICACION_JUN21
+2021-06,ES,,sisle_surgical_mean_wait_days,121,days,sanidad_sisle_LISTAS_PUBLICACION_JUN21
+2021-06,ES,,sisle_consult_patients_per_1000,62.0,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_JUN21
+2021-06,ES,,sisle_consult_mean_wait_days,75,days,sanidad_sisle_LISTAS_PUBLICACION_JUN21
+2021-12,ES,,sisle_surgical_patients_waiting,706740,persons,sanidad_sisle_LISTAS_PUBLICACION_dic21
+2021-12,ES,,sisle_surgical_mean_wait_days,123,days,sanidad_sisle_LISTAS_PUBLICACION_dic21
+2021-12,ES,,sisle_consult_patients_per_1000,77.23,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_dic21
+2021-12,ES,,sisle_consult_mean_wait_days,89,days,sanidad_sisle_LISTAS_PUBLICACION_dic21
+2022-06,ES,,sisle_surgical_patients_waiting,742518,persons,sanidad_sisle_LISTAS_PUBLICACION_jun2022
+2022-06,ES,,sisle_surgical_mean_wait_days,113,days,sanidad_sisle_LISTAS_PUBLICACION_jun2022
+2022-06,ES,,sisle_consult_patients_per_1000,79.3,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_jun2022
+2022-06,ES,,sisle_consult_mean_wait_days,79,days,sanidad_sisle_LISTAS_PUBLICACION_jun2022
+2022-12,ES,,sisle_surgical_patients_waiting,793521,persons,sanidad_sisle_LISTAS_PUBLICACION_dic_2022
+2022-12,ES,,sisle_surgical_mean_wait_days,120,days,sanidad_sisle_LISTAS_PUBLICACION_dic_2022
+2022-12,ES,,sisle_consult_patients_per_1000,85.43,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_dic_2022
+2022-12,ES,,sisle_consult_mean_wait_days,95,days,sanidad_sisle_LISTAS_PUBLICACION_dic_2022
+2023-06,ES,,sisle_surgical_patients_waiting,819964,persons,sanidad_sisle_LISTAS_PUBLICACION_jun2023
+2023-06,ES,,sisle_surgical_mean_wait_days,112,days,sanidad_sisle_LISTAS_PUBLICACION_jun2023
+2023-06,ES,,sisle_consult_patients_per_1000,78.47,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_jun2023
+2023-06,ES,,sisle_consult_mean_wait_days,87,days,sanidad_sisle_LISTAS_PUBLICACION_jun2023
+2023-12,ES,,sisle_surgical_patients_waiting,849535,persons,sanidad_sisle_LISTAS_PUBLICACION_dic2023
+2023-12,ES,,sisle_surgical_mean_wait_days,128,days,sanidad_sisle_LISTAS_PUBLICACION_dic2023
+2023-12,ES,,sisle_consult_patients_per_1000,81.47,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_dic2023
+2023-12,ES,,sisle_consult_mean_wait_days,101,days,sanidad_sisle_LISTAS_PUBLICACION_dic2023
+2024-06,ES,,sisle_surgical_patients_waiting,848340,persons,sanidad_sisle_LISTAS_PUBLICACION_jun2024
+2024-06,ES,,sisle_surgical_mean_wait_days,121,days,sanidad_sisle_LISTAS_PUBLICACION_jun2024
+2024-06,ES,,sisle_consult_patients_per_1000,83.79,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_jun2024
+2024-06,ES,,sisle_consult_mean_wait_days,94,days,sanidad_sisle_LISTAS_PUBLICACION_jun2024
+2024-12,ES,,sisle_surgical_patients_waiting,846583,persons,sanidad_sisle_LISTAS_PUBLICACION_dic2024
+2024-12,ES,,sisle_surgical_mean_wait_days,126,days,sanidad_sisle_LISTAS_PUBLICACION_dic2024
+2024-12,ES,,sisle_consult_patients_per_1000,83.21,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_dic2024
+2024-12,ES,,sisle_consult_mean_wait_days,105,days,sanidad_sisle_LISTAS_PUBLICACION_dic2024
+2025-06,ES,,sisle_surgical_patients_waiting,832728,persons,sanidad_sisle_LISTAS_PUBLICACION_jun25
+2025-06,ES,,sisle_surgical_mean_wait_days,119,days,sanidad_sisle_LISTAS_PUBLICACION_jun25
+2025-06,ES,,sisle_consult_patients_per_1000,81.37,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_jun25
+2025-06,ES,,sisle_consult_mean_wait_days,96,days,sanidad_sisle_LISTAS_PUBLICACION_jun25
+2025-12,ES,,sisle_surgical_patients_waiting,853740,persons,sanidad_sisle_LISTAS_PUBLICACION_Dic_2025_rectificado
+2025-12,ES,,sisle_surgical_mean_wait_days,122,days,sanidad_sisle_LISTAS_PUBLICACION_Dic_2025_rectificado
+2025-12,ES,,sisle_consult_patients_per_1000,84.42,"per 1,000 inhabitants",sanidad_sisle_LISTAS_PUBLICACION_Dic_2025_rectificado
+2025-12,ES,,sisle_consult_mean_wait_days,102,days,sanidad_sisle_LISTAS_PUBLICACION_Dic_2025_rectificado

@@ -1,0 +1,1849 @@
+date,geo,group,variable,value,unit,source_id
+1976,ES,,cpi_rent_annual_avg,9.1112,index_2025=100,INE_CPI_rent_chain
+1977,ES,,cpi_rent_annual_avg,10.2995,index_2025=100,INE_CPI_rent_chain
+1978,ES,,cpi_rent_annual_avg,11.5998,index_2025=100,INE_CPI_rent_chain
+1979,ES,,cpi_rent_annual_avg,13.1678,index_2025=100,INE_CPI_rent_chain
+1980,ES,,cpi_rent_annual_avg,14.7567,index_2025=100,INE_CPI_rent_chain
+1981,ES,,cpi_rent_annual_avg,16.7171,index_2025=100,INE_CPI_rent_chain
+1982,ES,,cpi_rent_annual_avg,18.7424,index_2025=100,INE_CPI_rent_chain
+1983,ES,,cpi_rent_annual_avg,20.3494,index_2025=100,INE_CPI_rent_chain
+1984,ES,,cpi_rent_annual_avg,21.4963,index_2025=100,INE_CPI_rent_chain
+1985,ES,,cpi_rent_annual_avg,22.9251,index_2025=100,INE_CPI_rent_chain
+1986,ES,,cpi_rent_annual_avg,24.6476,index_2025=100,INE_CPI_rent_chain
+1987,ES,,cpi_rent_annual_avg,25.943,index_2025=100,INE_CPI_rent_chain
+1988,ES,,cpi_rent_annual_avg,27.6377,index_2025=100,INE_CPI_rent_chain
+1989,ES,,cpi_rent_annual_avg,30.1563,index_2025=100,INE_CPI_rent_chain
+1990,ES,,cpi_rent_annual_avg,32.7073,index_2025=100,INE_CPI_rent_chain
+1991,ES,,cpi_rent_annual_avg,35.6248,index_2025=100,INE_CPI_rent_chain
+1992,ES,,cpi_rent_annual_avg,38.604,index_2025=100,INE_CPI_rent_chain
+1993,ES,,cpi_rent_annual_avg,42.1375,index_2025=100,INE_CPI_rent_chain
+1994,ES,,cpi_rent_annual_avg,44.4981,index_2025=100,INE_CPI_rent_chain
+1995,ES,,cpi_rent_annual_avg,46.9517,index_2025=100,INE_CPI_rent_chain
+1996,ES,,cpi_rent_annual_avg,50.458,index_2025=100,INE_CPI_rent_chain
+1997,ES,,cpi_rent_annual_avg,53.5584,index_2025=100,INE_CPI_rent_chain
+1998,ES,,cpi_rent_annual_avg,56.17,index_2025=100,INE_CPI_rent_chain
+1999,ES,,cpi_rent_annual_avg,58.1539,index_2025=100,INE_CPI_rent_chain
+2000,ES,,cpi_rent_annual_avg,60.3352,index_2025=100,INE_CPI_rent_chain
+2001,ES,,cpi_rent_annual_avg,62.9001,index_2025=100,INE_CPI_rent_chain
+2002,ES,,cpi_rent_annual_avg,65.5789,index_2025=100,INE_CPI_rent_chain
+2003,ES,,cpi_rent_annual_avg,68.3756,index_2025=100,INE_CPI_rent_chain
+2004,ES,,cpi_rent_annual_avg,71.1794,index_2025=100,INE_CPI_rent_chain
+2005,ES,,cpi_rent_annual_avg,74.2213,index_2025=100,INE_CPI_rent_chain
+2006,ES,,cpi_rent_annual_avg,77.4569,index_2025=100,INE_CPI_rent_chain
+2007,ES,,cpi_rent_annual_avg,80.8407,index_2025=100,INE_CPI_rent_chain
+2008,ES,,cpi_rent_annual_avg,84.2721,index_2025=100,INE_CPI_rent_chain
+2009,ES,,cpi_rent_annual_avg,86.8623,index_2025=100,INE_CPI_rent_chain
+2010,ES,,cpi_rent_annual_avg,87.8273,index_2025=100,INE_CPI_rent_chain
+2011,ES,,cpi_rent_annual_avg,88.7386,index_2025=100,INE_CPI_rent_chain
+2012,ES,,cpi_rent_annual_avg,89.2266,index_2025=100,INE_CPI_rent_chain
+2013,ES,,cpi_rent_annual_avg,89.0605,index_2025=100,INE_CPI_rent_chain
+2014,ES,,cpi_rent_annual_avg,88.4482,index_2025=100,INE_CPI_rent_chain
+2015,ES,,cpi_rent_annual_avg,88.022,index_2025=100,INE_CPI_rent_chain
+2016,ES,,cpi_rent_annual_avg,87.9448,index_2025=100,INE_CPI_rent_chain
+2017,ES,,cpi_rent_annual_avg,88.3057,index_2025=100,INE_CPI_rent_chain
+2018,ES,,cpi_rent_annual_avg,89.4218,index_2025=100,INE_CPI_rent_chain
+2019,ES,,cpi_rent_annual_avg,90.7996,index_2025=100,INE_CPI_rent_chain
+2020,ES,,cpi_rent_annual_avg,91.8355,index_2025=100,INE_CPI_rent_chain
+2021,ES,,cpi_rent_annual_avg,92.3835,index_2025=100,INE_CPI_rent_chain
+2022,ES,,cpi_rent_annual_avg,93.6242,index_2025=100,INE_CPI_rent_chain
+2023,ES,,cpi_rent_annual_avg,95.5481,index_2025=100,INE_CPI_rent_chain
+2024,ES,,cpi_rent_annual_avg,97.6432,index_2025=100,INE_CPI_rent_chain
+2025,ES,,cpi_rent_annual_avg,100.0,index_2025=100,INE_CPI_rent_chain
+2002-01,ES,,cpi_rent_monthly,64.268,index_2025=100,INE_CPI_rent_chain
+2002-02,ES,,cpi_rent_monthly,64.531,index_2025=100,INE_CPI_rent_chain
+2002-03,ES,,cpi_rent_monthly,64.857,index_2025=100,INE_CPI_rent_chain
+2002-04,ES,,cpi_rent_monthly,65.107,index_2025=100,INE_CPI_rent_chain
+2002-05,ES,,cpi_rent_monthly,65.336,index_2025=100,INE_CPI_rent_chain
+2002-06,ES,,cpi_rent_monthly,65.601,index_2025=100,INE_CPI_rent_chain
+2002-07,ES,,cpi_rent_monthly,65.712,index_2025=100,INE_CPI_rent_chain
+2002-08,ES,,cpi_rent_monthly,65.895,index_2025=100,INE_CPI_rent_chain
+2002-09,ES,,cpi_rent_monthly,66.086,index_2025=100,INE_CPI_rent_chain
+2002-10,ES,,cpi_rent_monthly,66.283,index_2025=100,INE_CPI_rent_chain
+2002-11,ES,,cpi_rent_monthly,66.548,index_2025=100,INE_CPI_rent_chain
+2002-12,ES,,cpi_rent_monthly,66.723,index_2025=100,INE_CPI_rent_chain
+2003-01,ES,,cpi_rent_monthly,67.018,index_2025=100,INE_CPI_rent_chain
+2003-02,ES,,cpi_rent_monthly,67.34,index_2025=100,INE_CPI_rent_chain
+2003-03,ES,,cpi_rent_monthly,67.662,index_2025=100,INE_CPI_rent_chain
+2003-04,ES,,cpi_rent_monthly,67.928,index_2025=100,INE_CPI_rent_chain
+2003-05,ES,,cpi_rent_monthly,68.159,index_2025=100,INE_CPI_rent_chain
+2003-06,ES,,cpi_rent_monthly,68.364,index_2025=100,INE_CPI_rent_chain
+2003-07,ES,,cpi_rent_monthly,68.521,index_2025=100,INE_CPI_rent_chain
+2003-08,ES,,cpi_rent_monthly,68.624,index_2025=100,INE_CPI_rent_chain
+2003-09,ES,,cpi_rent_monthly,68.804,index_2025=100,INE_CPI_rent_chain
+2003-10,ES,,cpi_rent_monthly,69.089,index_2025=100,INE_CPI_rent_chain
+2003-11,ES,,cpi_rent_monthly,69.412,index_2025=100,INE_CPI_rent_chain
+2003-12,ES,,cpi_rent_monthly,69.586,index_2025=100,INE_CPI_rent_chain
+2004-01,ES,,cpi_rent_monthly,69.825,index_2025=100,INE_CPI_rent_chain
+2004-02,ES,,cpi_rent_monthly,70.12,index_2025=100,INE_CPI_rent_chain
+2004-03,ES,,cpi_rent_monthly,70.455,index_2025=100,INE_CPI_rent_chain
+2004-04,ES,,cpi_rent_monthly,70.748,index_2025=100,INE_CPI_rent_chain
+2004-05,ES,,cpi_rent_monthly,70.95,index_2025=100,INE_CPI_rent_chain
+2004-06,ES,,cpi_rent_monthly,71.147,index_2025=100,INE_CPI_rent_chain
+2004-07,ES,,cpi_rent_monthly,71.345,index_2025=100,INE_CPI_rent_chain
+2004-08,ES,,cpi_rent_monthly,71.475,index_2025=100,INE_CPI_rent_chain
+2004-09,ES,,cpi_rent_monthly,71.649,index_2025=100,INE_CPI_rent_chain
+2004-10,ES,,cpi_rent_monthly,71.88,index_2025=100,INE_CPI_rent_chain
+2004-11,ES,,cpi_rent_monthly,72.142,index_2025=100,INE_CPI_rent_chain
+2004-12,ES,,cpi_rent_monthly,72.417,index_2025=100,INE_CPI_rent_chain
+2005-01,ES,,cpi_rent_monthly,72.706,index_2025=100,INE_CPI_rent_chain
+2005-02,ES,,cpi_rent_monthly,73.047,index_2025=100,INE_CPI_rent_chain
+2005-03,ES,,cpi_rent_monthly,73.428,index_2025=100,INE_CPI_rent_chain
+2005-04,ES,,cpi_rent_monthly,73.77,index_2025=100,INE_CPI_rent_chain
+2005-05,ES,,cpi_rent_monthly,74.049,index_2025=100,INE_CPI_rent_chain
+2005-06,ES,,cpi_rent_monthly,74.265,index_2025=100,INE_CPI_rent_chain
+2005-07,ES,,cpi_rent_monthly,74.411,index_2025=100,INE_CPI_rent_chain
+2005-08,ES,,cpi_rent_monthly,74.569,index_2025=100,INE_CPI_rent_chain
+2005-09,ES,,cpi_rent_monthly,74.778,index_2025=100,INE_CPI_rent_chain
+2005-10,ES,,cpi_rent_monthly,74.99,index_2025=100,INE_CPI_rent_chain
+2005-11,ES,,cpi_rent_monthly,75.231,index_2025=100,INE_CPI_rent_chain
+2005-12,ES,,cpi_rent_monthly,75.412,index_2025=100,INE_CPI_rent_chain
+2006-01,ES,,cpi_rent_monthly,75.776,index_2025=100,INE_CPI_rent_chain
+2006-02,ES,,cpi_rent_monthly,76.144,index_2025=100,INE_CPI_rent_chain
+2006-03,ES,,cpi_rent_monthly,76.597,index_2025=100,INE_CPI_rent_chain
+2006-04,ES,,cpi_rent_monthly,76.959,index_2025=100,INE_CPI_rent_chain
+2006-05,ES,,cpi_rent_monthly,77.239,index_2025=100,INE_CPI_rent_chain
+2006-06,ES,,cpi_rent_monthly,77.517,index_2025=100,INE_CPI_rent_chain
+2006-07,ES,,cpi_rent_monthly,77.76,index_2025=100,INE_CPI_rent_chain
+2006-08,ES,,cpi_rent_monthly,77.876,index_2025=100,INE_CPI_rent_chain
+2006-09,ES,,cpi_rent_monthly,77.999,index_2025=100,INE_CPI_rent_chain
+2006-10,ES,,cpi_rent_monthly,78.242,index_2025=100,INE_CPI_rent_chain
+2006-11,ES,,cpi_rent_monthly,78.565,index_2025=100,INE_CPI_rent_chain
+2006-12,ES,,cpi_rent_monthly,78.809,index_2025=100,INE_CPI_rent_chain
+2007-01,ES,,cpi_rent_monthly,79.193,index_2025=100,INE_CPI_rent_chain
+2007-02,ES,,cpi_rent_monthly,79.563,index_2025=100,INE_CPI_rent_chain
+2007-03,ES,,cpi_rent_monthly,79.947,index_2025=100,INE_CPI_rent_chain
+2007-04,ES,,cpi_rent_monthly,80.296,index_2025=100,INE_CPI_rent_chain
+2007-05,ES,,cpi_rent_monthly,80.566,index_2025=100,INE_CPI_rent_chain
+2007-06,ES,,cpi_rent_monthly,80.853,index_2025=100,INE_CPI_rent_chain
+2007-07,ES,,cpi_rent_monthly,81.114,index_2025=100,INE_CPI_rent_chain
+2007-08,ES,,cpi_rent_monthly,81.29,index_2025=100,INE_CPI_rent_chain
+2007-09,ES,,cpi_rent_monthly,81.422,index_2025=100,INE_CPI_rent_chain
+2007-10,ES,,cpi_rent_monthly,81.733,index_2025=100,INE_CPI_rent_chain
+2007-11,ES,,cpi_rent_monthly,81.973,index_2025=100,INE_CPI_rent_chain
+2007-12,ES,,cpi_rent_monthly,82.139,index_2025=100,INE_CPI_rent_chain
+2008-01,ES,,cpi_rent_monthly,82.472,index_2025=100,INE_CPI_rent_chain
+2008-02,ES,,cpi_rent_monthly,82.851,index_2025=100,INE_CPI_rent_chain
+2008-03,ES,,cpi_rent_monthly,83.318,index_2025=100,INE_CPI_rent_chain
+2008-04,ES,,cpi_rent_monthly,83.71,index_2025=100,INE_CPI_rent_chain
+2008-05,ES,,cpi_rent_monthly,83.992,index_2025=100,INE_CPI_rent_chain
+2008-06,ES,,cpi_rent_monthly,84.296,index_2025=100,INE_CPI_rent_chain
+2008-07,ES,,cpi_rent_monthly,84.51,index_2025=100,INE_CPI_rent_chain
+2008-08,ES,,cpi_rent_monthly,84.72,index_2025=100,INE_CPI_rent_chain
+2008-09,ES,,cpi_rent_monthly,84.925,index_2025=100,INE_CPI_rent_chain
+2008-10,ES,,cpi_rent_monthly,85.202,index_2025=100,INE_CPI_rent_chain
+2008-11,ES,,cpi_rent_monthly,85.522,index_2025=100,INE_CPI_rent_chain
+2008-12,ES,,cpi_rent_monthly,85.747,index_2025=100,INE_CPI_rent_chain
+2009-01,ES,,cpi_rent_monthly,85.992,index_2025=100,INE_CPI_rent_chain
+2009-02,ES,,cpi_rent_monthly,86.285,index_2025=100,INE_CPI_rent_chain
+2009-03,ES,,cpi_rent_monthly,86.522,index_2025=100,INE_CPI_rent_chain
+2009-04,ES,,cpi_rent_monthly,86.753,index_2025=100,INE_CPI_rent_chain
+2009-05,ES,,cpi_rent_monthly,86.846,index_2025=100,INE_CPI_rent_chain
+2009-06,ES,,cpi_rent_monthly,86.969,index_2025=100,INE_CPI_rent_chain
+2009-07,ES,,cpi_rent_monthly,87.029,index_2025=100,INE_CPI_rent_chain
+2009-08,ES,,cpi_rent_monthly,87.095,index_2025=100,INE_CPI_rent_chain
+2009-09,ES,,cpi_rent_monthly,87.144,index_2025=100,INE_CPI_rent_chain
+2009-10,ES,,cpi_rent_monthly,87.19,index_2025=100,INE_CPI_rent_chain
+2009-11,ES,,cpi_rent_monthly,87.242,index_2025=100,INE_CPI_rent_chain
+2009-12,ES,,cpi_rent_monthly,87.281,index_2025=100,INE_CPI_rent_chain
+2010-01,ES,,cpi_rent_monthly,87.318,index_2025=100,INE_CPI_rent_chain
+2010-02,ES,,cpi_rent_monthly,87.388,index_2025=100,INE_CPI_rent_chain
+2010-03,ES,,cpi_rent_monthly,87.526,index_2025=100,INE_CPI_rent_chain
+2010-04,ES,,cpi_rent_monthly,87.646,index_2025=100,INE_CPI_rent_chain
+2010-05,ES,,cpi_rent_monthly,87.707,index_2025=100,INE_CPI_rent_chain
+2010-06,ES,,cpi_rent_monthly,87.792,index_2025=100,INE_CPI_rent_chain
+2010-07,ES,,cpi_rent_monthly,87.917,index_2025=100,INE_CPI_rent_chain
+2010-08,ES,,cpi_rent_monthly,87.981,index_2025=100,INE_CPI_rent_chain
+2010-09,ES,,cpi_rent_monthly,88.033,index_2025=100,INE_CPI_rent_chain
+2010-10,ES,,cpi_rent_monthly,88.143,index_2025=100,INE_CPI_rent_chain
+2010-11,ES,,cpi_rent_monthly,88.216,index_2025=100,INE_CPI_rent_chain
+2010-12,ES,,cpi_rent_monthly,88.261,index_2025=100,INE_CPI_rent_chain
+2011-01,ES,,cpi_rent_monthly,88.344,index_2025=100,INE_CPI_rent_chain
+2011-02,ES,,cpi_rent_monthly,88.461,index_2025=100,INE_CPI_rent_chain
+2011-03,ES,,cpi_rent_monthly,88.547,index_2025=100,INE_CPI_rent_chain
+2011-04,ES,,cpi_rent_monthly,88.621,index_2025=100,INE_CPI_rent_chain
+2011-05,ES,,cpi_rent_monthly,88.701,index_2025=100,INE_CPI_rent_chain
+2011-06,ES,,cpi_rent_monthly,88.749,index_2025=100,INE_CPI_rent_chain
+2011-07,ES,,cpi_rent_monthly,88.808,index_2025=100,INE_CPI_rent_chain
+2011-08,ES,,cpi_rent_monthly,88.855,index_2025=100,INE_CPI_rent_chain
+2011-09,ES,,cpi_rent_monthly,88.879,index_2025=100,INE_CPI_rent_chain
+2011-10,ES,,cpi_rent_monthly,88.925,index_2025=100,INE_CPI_rent_chain
+2011-11,ES,,cpi_rent_monthly,88.972,index_2025=100,INE_CPI_rent_chain
+2011-12,ES,,cpi_rent_monthly,89.001,index_2025=100,INE_CPI_rent_chain
+2012-01,ES,,cpi_rent_monthly,89.065,index_2025=100,INE_CPI_rent_chain
+2012-02,ES,,cpi_rent_monthly,89.12,index_2025=100,INE_CPI_rent_chain
+2012-03,ES,,cpi_rent_monthly,89.218,index_2025=100,INE_CPI_rent_chain
+2012-04,ES,,cpi_rent_monthly,89.251,index_2025=100,INE_CPI_rent_chain
+2012-05,ES,,cpi_rent_monthly,89.209,index_2025=100,INE_CPI_rent_chain
+2012-06,ES,,cpi_rent_monthly,89.222,index_2025=100,INE_CPI_rent_chain
+2012-07,ES,,cpi_rent_monthly,89.253,index_2025=100,INE_CPI_rent_chain
+2012-08,ES,,cpi_rent_monthly,89.222,index_2025=100,INE_CPI_rent_chain
+2012-09,ES,,cpi_rent_monthly,89.222,index_2025=100,INE_CPI_rent_chain
+2012-10,ES,,cpi_rent_monthly,89.305,index_2025=100,INE_CPI_rent_chain
+2012-11,ES,,cpi_rent_monthly,89.311,index_2025=100,INE_CPI_rent_chain
+2012-12,ES,,cpi_rent_monthly,89.321,index_2025=100,INE_CPI_rent_chain
+2013-01,ES,,cpi_rent_monthly,89.223,index_2025=100,INE_CPI_rent_chain
+2013-02,ES,,cpi_rent_monthly,89.205,index_2025=100,INE_CPI_rent_chain
+2013-03,ES,,cpi_rent_monthly,89.231,index_2025=100,INE_CPI_rent_chain
+2013-04,ES,,cpi_rent_monthly,89.173,index_2025=100,INE_CPI_rent_chain
+2013-05,ES,,cpi_rent_monthly,89.152,index_2025=100,INE_CPI_rent_chain
+2013-06,ES,,cpi_rent_monthly,89.112,index_2025=100,INE_CPI_rent_chain
+2013-07,ES,,cpi_rent_monthly,89.084,index_2025=100,INE_CPI_rent_chain
+2013-08,ES,,cpi_rent_monthly,89.02,index_2025=100,INE_CPI_rent_chain
+2013-09,ES,,cpi_rent_monthly,88.946,index_2025=100,INE_CPI_rent_chain
+2013-10,ES,,cpi_rent_monthly,88.881,index_2025=100,INE_CPI_rent_chain
+2013-11,ES,,cpi_rent_monthly,88.865,index_2025=100,INE_CPI_rent_chain
+2013-12,ES,,cpi_rent_monthly,88.834,index_2025=100,INE_CPI_rent_chain
+2014-01,ES,,cpi_rent_monthly,88.765,index_2025=100,INE_CPI_rent_chain
+2014-02,ES,,cpi_rent_monthly,88.691,index_2025=100,INE_CPI_rent_chain
+2014-03,ES,,cpi_rent_monthly,88.62,index_2025=100,INE_CPI_rent_chain
+2014-04,ES,,cpi_rent_monthly,88.59,index_2025=100,INE_CPI_rent_chain
+2014-05,ES,,cpi_rent_monthly,88.516,index_2025=100,INE_CPI_rent_chain
+2014-06,ES,,cpi_rent_monthly,88.431,index_2025=100,INE_CPI_rent_chain
+2014-07,ES,,cpi_rent_monthly,88.37,index_2025=100,INE_CPI_rent_chain
+2014-08,ES,,cpi_rent_monthly,88.359,index_2025=100,INE_CPI_rent_chain
+2014-09,ES,,cpi_rent_monthly,88.338,index_2025=100,INE_CPI_rent_chain
+2014-10,ES,,cpi_rent_monthly,88.265,index_2025=100,INE_CPI_rent_chain
+2014-11,ES,,cpi_rent_monthly,88.234,index_2025=100,INE_CPI_rent_chain
+2014-12,ES,,cpi_rent_monthly,88.2,index_2025=100,INE_CPI_rent_chain
+2015-01,ES,,cpi_rent_monthly,88.194,index_2025=100,INE_CPI_rent_chain
+2015-02,ES,,cpi_rent_monthly,88.193,index_2025=100,INE_CPI_rent_chain
+2015-03,ES,,cpi_rent_monthly,88.135,index_2025=100,INE_CPI_rent_chain
+2015-04,ES,,cpi_rent_monthly,88.052,index_2025=100,INE_CPI_rent_chain
+2015-05,ES,,cpi_rent_monthly,88.043,index_2025=100,INE_CPI_rent_chain
+2015-06,ES,,cpi_rent_monthly,88.018,index_2025=100,INE_CPI_rent_chain
+2015-07,ES,,cpi_rent_monthly,87.99,index_2025=100,INE_CPI_rent_chain
+2015-08,ES,,cpi_rent_monthly,87.973,index_2025=100,INE_CPI_rent_chain
+2015-09,ES,,cpi_rent_monthly,87.969,index_2025=100,INE_CPI_rent_chain
+2015-10,ES,,cpi_rent_monthly,87.917,index_2025=100,INE_CPI_rent_chain
+2015-11,ES,,cpi_rent_monthly,87.897,index_2025=100,INE_CPI_rent_chain
+2015-12,ES,,cpi_rent_monthly,87.883,index_2025=100,INE_CPI_rent_chain
+2016-01,ES,,cpi_rent_monthly,87.885,index_2025=100,INE_CPI_rent_chain
+2016-02,ES,,cpi_rent_monthly,87.92,index_2025=100,INE_CPI_rent_chain
+2016-03,ES,,cpi_rent_monthly,87.922,index_2025=100,INE_CPI_rent_chain
+2016-04,ES,,cpi_rent_monthly,87.95,index_2025=100,INE_CPI_rent_chain
+2016-05,ES,,cpi_rent_monthly,87.968,index_2025=100,INE_CPI_rent_chain
+2016-06,ES,,cpi_rent_monthly,87.983,index_2025=100,INE_CPI_rent_chain
+2016-07,ES,,cpi_rent_monthly,87.934,index_2025=100,INE_CPI_rent_chain
+2016-08,ES,,cpi_rent_monthly,87.943,index_2025=100,INE_CPI_rent_chain
+2016-09,ES,,cpi_rent_monthly,87.969,index_2025=100,INE_CPI_rent_chain
+2016-10,ES,,cpi_rent_monthly,87.942,index_2025=100,INE_CPI_rent_chain
+2016-11,ES,,cpi_rent_monthly,87.96,index_2025=100,INE_CPI_rent_chain
+2016-12,ES,,cpi_rent_monthly,87.961,index_2025=100,INE_CPI_rent_chain
+2017-01,ES,,cpi_rent_monthly,87.986,index_2025=100,INE_CPI_rent_chain
+2017-02,ES,,cpi_rent_monthly,88.018,index_2025=100,INE_CPI_rent_chain
+2017-03,ES,,cpi_rent_monthly,88.072,index_2025=100,INE_CPI_rent_chain
+2017-04,ES,,cpi_rent_monthly,88.122,index_2025=100,INE_CPI_rent_chain
+2017-05,ES,,cpi_rent_monthly,88.175,index_2025=100,INE_CPI_rent_chain
+2017-06,ES,,cpi_rent_monthly,88.251,index_2025=100,INE_CPI_rent_chain
+2017-07,ES,,cpi_rent_monthly,88.306,index_2025=100,INE_CPI_rent_chain
+2017-08,ES,,cpi_rent_monthly,88.374,index_2025=100,INE_CPI_rent_chain
+2017-09,ES,,cpi_rent_monthly,88.447,index_2025=100,INE_CPI_rent_chain
+2017-10,ES,,cpi_rent_monthly,88.546,index_2025=100,INE_CPI_rent_chain
+2017-11,ES,,cpi_rent_monthly,88.646,index_2025=100,INE_CPI_rent_chain
+2017-12,ES,,cpi_rent_monthly,88.726,index_2025=100,INE_CPI_rent_chain
+2018-01,ES,,cpi_rent_monthly,88.83,index_2025=100,INE_CPI_rent_chain
+2018-02,ES,,cpi_rent_monthly,88.914,index_2025=100,INE_CPI_rent_chain
+2018-03,ES,,cpi_rent_monthly,89.034,index_2025=100,INE_CPI_rent_chain
+2018-04,ES,,cpi_rent_monthly,89.144,index_2025=100,INE_CPI_rent_chain
+2018-05,ES,,cpi_rent_monthly,89.262,index_2025=100,INE_CPI_rent_chain
+2018-06,ES,,cpi_rent_monthly,89.348,index_2025=100,INE_CPI_rent_chain
+2018-07,ES,,cpi_rent_monthly,89.461,index_2025=100,INE_CPI_rent_chain
+2018-08,ES,,cpi_rent_monthly,89.558,index_2025=100,INE_CPI_rent_chain
+2018-09,ES,,cpi_rent_monthly,89.666,index_2025=100,INE_CPI_rent_chain
+2018-10,ES,,cpi_rent_monthly,89.816,index_2025=100,INE_CPI_rent_chain
+2018-11,ES,,cpi_rent_monthly,89.967,index_2025=100,INE_CPI_rent_chain
+2018-12,ES,,cpi_rent_monthly,90.061,index_2025=100,INE_CPI_rent_chain
+2019-01,ES,,cpi_rent_monthly,90.204,index_2025=100,INE_CPI_rent_chain
+2019-02,ES,,cpi_rent_monthly,90.341,index_2025=100,INE_CPI_rent_chain
+2019-03,ES,,cpi_rent_monthly,90.44,index_2025=100,INE_CPI_rent_chain
+2019-04,ES,,cpi_rent_monthly,90.552,index_2025=100,INE_CPI_rent_chain
+2019-05,ES,,cpi_rent_monthly,90.649,index_2025=100,INE_CPI_rent_chain
+2019-06,ES,,cpi_rent_monthly,90.764,index_2025=100,INE_CPI_rent_chain
+2019-07,ES,,cpi_rent_monthly,90.88,index_2025=100,INE_CPI_rent_chain
+2019-08,ES,,cpi_rent_monthly,90.963,index_2025=100,INE_CPI_rent_chain
+2019-09,ES,,cpi_rent_monthly,91.047,index_2025=100,INE_CPI_rent_chain
+2019-10,ES,,cpi_rent_monthly,91.151,index_2025=100,INE_CPI_rent_chain
+2019-11,ES,,cpi_rent_monthly,91.248,index_2025=100,INE_CPI_rent_chain
+2019-12,ES,,cpi_rent_monthly,91.356,index_2025=100,INE_CPI_rent_chain
+2020-01,ES,,cpi_rent_monthly,91.467,index_2025=100,INE_CPI_rent_chain
+2020-02,ES,,cpi_rent_monthly,91.58,index_2025=100,INE_CPI_rent_chain
+2020-03,ES,,cpi_rent_monthly,91.647,index_2025=100,INE_CPI_rent_chain
+2020-04,ES,,cpi_rent_monthly,91.67,index_2025=100,INE_CPI_rent_chain
+2020-05,ES,,cpi_rent_monthly,91.703,index_2025=100,INE_CPI_rent_chain
+2020-06,ES,,cpi_rent_monthly,91.79,index_2025=100,INE_CPI_rent_chain
+2020-07,ES,,cpi_rent_monthly,91.909,index_2025=100,INE_CPI_rent_chain
+2020-08,ES,,cpi_rent_monthly,91.964,index_2025=100,INE_CPI_rent_chain
+2020-09,ES,,cpi_rent_monthly,92.027,index_2025=100,INE_CPI_rent_chain
+2020-10,ES,,cpi_rent_monthly,92.042,index_2025=100,INE_CPI_rent_chain
+2020-11,ES,,cpi_rent_monthly,92.099,index_2025=100,INE_CPI_rent_chain
+2020-12,ES,,cpi_rent_monthly,92.128,index_2025=100,INE_CPI_rent_chain
+2021-01,ES,,cpi_rent_monthly,92.182,index_2025=100,INE_CPI_rent_chain
+2021-02,ES,,cpi_rent_monthly,92.233,index_2025=100,INE_CPI_rent_chain
+2021-03,ES,,cpi_rent_monthly,92.261,index_2025=100,INE_CPI_rent_chain
+2021-04,ES,,cpi_rent_monthly,92.285,index_2025=100,INE_CPI_rent_chain
+2021-05,ES,,cpi_rent_monthly,92.303,index_2025=100,INE_CPI_rent_chain
+2021-06,ES,,cpi_rent_monthly,92.356,index_2025=100,INE_CPI_rent_chain
+2021-07,ES,,cpi_rent_monthly,92.4,index_2025=100,INE_CPI_rent_chain
+2021-08,ES,,cpi_rent_monthly,92.424,index_2025=100,INE_CPI_rent_chain
+2021-09,ES,,cpi_rent_monthly,92.468,index_2025=100,INE_CPI_rent_chain
+2021-10,ES,,cpi_rent_monthly,92.503,index_2025=100,INE_CPI_rent_chain
+2021-11,ES,,cpi_rent_monthly,92.563,index_2025=100,INE_CPI_rent_chain
+2021-12,ES,,cpi_rent_monthly,92.624,index_2025=100,INE_CPI_rent_chain
+2022-01,ES,,cpi_rent_monthly,92.769,index_2025=100,INE_CPI_rent_chain
+2022-02,ES,,cpi_rent_monthly,92.93,index_2025=100,INE_CPI_rent_chain
+2022-03,ES,,cpi_rent_monthly,93.132,index_2025=100,INE_CPI_rent_chain
+2022-04,ES,,cpi_rent_monthly,93.315,index_2025=100,INE_CPI_rent_chain
+2022-05,ES,,cpi_rent_monthly,93.46,index_2025=100,INE_CPI_rent_chain
+2022-06,ES,,cpi_rent_monthly,93.604,index_2025=100,INE_CPI_rent_chain
+2022-07,ES,,cpi_rent_monthly,93.744,index_2025=100,INE_CPI_rent_chain
+2022-08,ES,,cpi_rent_monthly,93.84,index_2025=100,INE_CPI_rent_chain
+2022-09,ES,,cpi_rent_monthly,93.948,index_2025=100,INE_CPI_rent_chain
+2022-10,ES,,cpi_rent_monthly,94.101,index_2025=100,INE_CPI_rent_chain
+2022-11,ES,,cpi_rent_monthly,94.238,index_2025=100,INE_CPI_rent_chain
+2022-12,ES,,cpi_rent_monthly,94.41,index_2025=100,INE_CPI_rent_chain
+2023-01,ES,,cpi_rent_monthly,94.636,index_2025=100,INE_CPI_rent_chain
+2023-02,ES,,cpi_rent_monthly,94.808,index_2025=100,INE_CPI_rent_chain
+2023-03,ES,,cpi_rent_monthly,95.049,index_2025=100,INE_CPI_rent_chain
+2023-04,ES,,cpi_rent_monthly,95.222,index_2025=100,INE_CPI_rent_chain
+2023-05,ES,,cpi_rent_monthly,95.411,index_2025=100,INE_CPI_rent_chain
+2023-06,ES,,cpi_rent_monthly,95.545,index_2025=100,INE_CPI_rent_chain
+2023-07,ES,,cpi_rent_monthly,95.704,index_2025=100,INE_CPI_rent_chain
+2023-08,ES,,cpi_rent_monthly,95.758,index_2025=100,INE_CPI_rent_chain
+2023-09,ES,,cpi_rent_monthly,95.884,index_2025=100,INE_CPI_rent_chain
+2023-10,ES,,cpi_rent_monthly,96.031,index_2025=100,INE_CPI_rent_chain
+2023-11,ES,,cpi_rent_monthly,96.204,index_2025=100,INE_CPI_rent_chain
+2023-12,ES,,cpi_rent_monthly,96.325,index_2025=100,INE_CPI_rent_chain
+2024-01,ES,,cpi_rent_monthly,96.505,index_2025=100,INE_CPI_rent_chain
+2024-02,ES,,cpi_rent_monthly,96.74,index_2025=100,INE_CPI_rent_chain
+2024-03,ES,,cpi_rent_monthly,96.987,index_2025=100,INE_CPI_rent_chain
+2024-04,ES,,cpi_rent_monthly,97.245,index_2025=100,INE_CPI_rent_chain
+2024-05,ES,,cpi_rent_monthly,97.481,index_2025=100,INE_CPI_rent_chain
+2024-06,ES,,cpi_rent_monthly,97.637,index_2025=100,INE_CPI_rent_chain
+2024-07,ES,,cpi_rent_monthly,97.769,index_2025=100,INE_CPI_rent_chain
+2024-08,ES,,cpi_rent_monthly,97.909,index_2025=100,INE_CPI_rent_chain
+2024-09,ES,,cpi_rent_monthly,98.062,index_2025=100,INE_CPI_rent_chain
+2024-10,ES,,cpi_rent_monthly,98.279,index_2025=100,INE_CPI_rent_chain
+2024-11,ES,,cpi_rent_monthly,98.489,index_2025=100,INE_CPI_rent_chain
+2024-12,ES,,cpi_rent_monthly,98.616,index_2025=100,INE_CPI_rent_chain
+2025-01,ES,,cpi_rent_monthly,98.808,index_2025=100,INE_CPI_rent_chain
+2025-02,ES,,cpi_rent_monthly,99.049,index_2025=100,INE_CPI_rent_chain
+2025-03,ES,,cpi_rent_monthly,99.306,index_2025=100,INE_CPI_rent_chain
+2025-04,ES,,cpi_rent_monthly,99.59,index_2025=100,INE_CPI_rent_chain
+2025-05,ES,,cpi_rent_monthly,99.783,index_2025=100,INE_CPI_rent_chain
+2025-06,ES,,cpi_rent_monthly,100.013,index_2025=100,INE_CPI_rent_chain
+2025-07,ES,,cpi_rent_monthly,100.141,index_2025=100,INE_CPI_rent_chain
+2025-08,ES,,cpi_rent_monthly,100.277,index_2025=100,INE_CPI_rent_chain
+2025-09,ES,,cpi_rent_monthly,100.475,index_2025=100,INE_CPI_rent_chain
+2025-10,ES,,cpi_rent_monthly,100.667,index_2025=100,INE_CPI_rent_chain
+2025-11,ES,,cpi_rent_monthly,100.857,index_2025=100,INE_CPI_rent_chain
+2025-12,ES,,cpi_rent_monthly,101.034,index_2025=100,INE_CPI_rent_chain
+2026-01,ES,,cpi_rent_monthly,101.257,index_2025=100,INE_CPI_rent_chain
+2026-02,ES,,cpi_rent_monthly,101.522,index_2025=100,INE_CPI_rent_chain
+2026-03,ES,,cpi_rent_monthly,101.793,index_2025=100,INE_CPI_rent_chain
+2026-04,ES,,cpi_rent_monthly,102.022,index_2025=100,INE_CPI_rent_chain
+2026-05,ES,,cpi_rent_monthly,102.264,index_2025=100,INE_CPI_rent_chain
+2026-06,ES,,cpi_rent_monthly,102.483,index_2025=100,INE_CPI_rent_chain
+2026-07,ES,,cpi_rent_monthly,102.647,index_2025=100,INE_CPI_rent_chain
+2026-08,ES,,cpi_rent_monthly,102.828,index_2025=100,INE_CPI_rent_chain
+2026-09,ES,,cpi_rent_monthly,103.031,index_2025=100,INE_CPI_rent_chain
+2026-10,ES,,cpi_rent_monthly,103.274,index_2025=100,INE_CPI_rent_chain
+2024,ES,all,ipva_index,122.92,index_2015=100,INE_IPVA_59056
+2023,ES,all,ipva_index,118.727,index_2015=100,INE_IPVA_59056
+2022,ES,all,ipva_index,115.684,index_2015=100,INE_IPVA_59056
+2021,ES,all,ipva_index,112.694,index_2015=100,INE_IPVA_59056
+2020,ES,all,ipva_index,110.942,index_2015=100,INE_IPVA_59056
+2019,ES,all,ipva_index,109.999,index_2015=100,INE_IPVA_59056
+2018,ES,all,ipva_index,106.247,index_2015=100,INE_IPVA_59056
+2017,ES,all,ipva_index,103.528,index_2015=100,INE_IPVA_59056
+2016,ES,all,ipva_index,101.681,index_2015=100,INE_IPVA_59056
+2015,ES,all,ipva_index,100.0,index_2015=100,INE_IPVA_59056
+2014,ES,all,ipva_index,99.741,index_2015=100,INE_IPVA_59056
+2013,ES,all,ipva_index,100.493,index_2015=100,INE_IPVA_59056
+2012,ES,all,ipva_index,103.193,index_2015=100,INE_IPVA_59056
+2011,ES,all,ipva_index,104.761,index_2015=100,INE_IPVA_59056
+2024,ES,all,ipva_yoy_pct,3.5,pct,INE_IPVA_59056
+2023,ES,all,ipva_yoy_pct,2.6,pct,INE_IPVA_59056
+2022,ES,all,ipva_yoy_pct,2.7,pct,INE_IPVA_59056
+2021,ES,all,ipva_yoy_pct,1.6,pct,INE_IPVA_59056
+2020,ES,all,ipva_yoy_pct,0.9,pct,INE_IPVA_59056
+2019,ES,all,ipva_yoy_pct,3.5,pct,INE_IPVA_59056
+2018,ES,all,ipva_yoy_pct,2.6,pct,INE_IPVA_59056
+2017,ES,all,ipva_yoy_pct,1.8,pct,INE_IPVA_59056
+2016,ES,all,ipva_yoy_pct,1.7,pct,INE_IPVA_59056
+2015,ES,all,ipva_yoy_pct,0.3,pct,INE_IPVA_59056
+2014,ES,all,ipva_yoy_pct,-0.7,pct,INE_IPVA_59056
+2013,ES,all,ipva_yoy_pct,-2.6,pct,INE_IPVA_59056
+2012,ES,all,ipva_yoy_pct,-1.5,pct,INE_IPVA_59056
+2011,ES,all,ipva_yoy_pct,,pct,INE_IPVA_59056
+2024,ES,new_contract,ipva_index,137.041,index_2015=100,INE_IPVA_59004
+2023,ES,new_contract,ipva_index,125.959,index_2015=100,INE_IPVA_59004
+2022,ES,new_contract,ipva_index,120.958,index_2015=100,INE_IPVA_59004
+2021,ES,new_contract,ipva_index,114.871,index_2015=100,INE_IPVA_59004
+2024,ES,existing_contract,ipva_index,120.637,index_2015=100,INE_IPVA_59004
+2023,ES,existing_contract,ipva_index,117.361,index_2015=100,INE_IPVA_59004
+2022,ES,existing_contract,ipva_index,114.639,index_2015=100,INE_IPVA_59004
+2021,ES,existing_contract,ipva_index,112.229,index_2015=100,INE_IPVA_59004
+2024,ES,new_contract,ipva_yoy_pct,8.8,pct,INE_IPVA_59004
+2023,ES,new_contract,ipva_yoy_pct,4.1,pct,INE_IPVA_59004
+2022,ES,new_contract,ipva_yoy_pct,5.3,pct,INE_IPVA_59004
+2021,ES,new_contract,ipva_yoy_pct,3.5,pct,INE_IPVA_59004
+2024,ES,existing_contract,ipva_yoy_pct,2.8,pct,INE_IPVA_59004
+2023,ES,existing_contract,ipva_yoy_pct,2.4,pct,INE_IPVA_59004
+2022,ES,existing_contract,ipva_yoy_pct,2.1,pct,INE_IPVA_59004
+2021,ES,existing_contract,ipva_yoy_pct,1.2,pct,INE_IPVA_59004
+2011,Andalucía,,serpavi_rent_m2_median_apartment,5.467,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Andalucía,,serpavi_rent_m2_p25_apartment,3.876,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Andalucía,,serpavi_rent_m2_p75_apartment,7.243,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Andalucía,,serpavi_rent_month_median_apartment,425.583,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Andalucía,,serpavi_n_rented_apartments,95680.0,count,MIVAU_SERPAVI_2011_2024
+2011,Aragón,,serpavi_rent_m2_median_apartment,5.836,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Aragón,,serpavi_rent_m2_p25_apartment,4.121,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Aragón,,serpavi_rent_m2_p75_apartment,7.407,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Aragón,,serpavi_rent_month_median_apartment,422.083,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Aragón,,serpavi_n_rented_apartments,43300.0,count,MIVAU_SERPAVI_2011_2024
+2011,Principado de Asturias,,serpavi_rent_m2_median_apartment,5.422,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Principado de Asturias,,serpavi_rent_m2_p25_apartment,3.873,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Principado de Asturias,,serpavi_rent_m2_p75_apartment,7.083,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Principado de Asturias,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Principado de Asturias,,serpavi_n_rented_apartments,32643.0,count,MIVAU_SERPAVI_2011_2024
+2011,Illes Balears,,serpavi_rent_m2_median_apartment,6.064,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Illes Balears,,serpavi_rent_m2_p25_apartment,4.205,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Illes Balears,,serpavi_rent_m2_p75_apartment,8.115,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Illes Balears,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Illes Balears,,serpavi_n_rented_apartments,32654.0,count,MIVAU_SERPAVI_2011_2024
+2011,Canarias,,serpavi_rent_m2_median_apartment,5.556,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Canarias,,serpavi_rent_m2_p25_apartment,4.214,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Canarias,,serpavi_rent_m2_p75_apartment,7.167,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Canarias,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Canarias,,serpavi_n_rented_apartments,46130.0,count,MIVAU_SERPAVI_2011_2024
+2011,Cantabria,,serpavi_rent_m2_median_apartment,5.903,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Cantabria,,serpavi_rent_m2_p25_apartment,4.406,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Cantabria,,serpavi_rent_m2_p75_apartment,7.35,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Cantabria,,serpavi_rent_month_median_apartment,442.378,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Cantabria,,serpavi_n_rented_apartments,12210.0,count,MIVAU_SERPAVI_2011_2024
+2011,Castilla y León,,serpavi_rent_m2_median_apartment,4.688,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Castilla y León,,serpavi_rent_m2_p25_apartment,3.333,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Castilla y León,,serpavi_rent_m2_p75_apartment,6.102,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Castilla y León,,serpavi_rent_month_median_apartment,390.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Castilla y León,,serpavi_n_rented_apartments,58324.0,count,MIVAU_SERPAVI_2011_2024
+2011,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,4.862,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,3.431,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,6.329,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Castilla-La Mancha,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Castilla-La Mancha,,serpavi_n_rented_apartments,27405.0,count,MIVAU_SERPAVI_2011_2024
+2011,Cataluña,,serpavi_rent_m2_median_apartment,7.508,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Cataluña,,serpavi_rent_m2_p25_apartment,5.038,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Cataluña,,serpavi_rent_m2_p75_apartment,10.377,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Cataluña,,serpavi_rent_month_median_apartment,547.953,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Cataluña,,serpavi_n_rented_apartments,242866.0,count,MIVAU_SERPAVI_2011_2024
+2011,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,4.444,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,3.146,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,5.932,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Comunitat Valenciana,,serpavi_rent_month_median_apartment,390.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Comunitat Valenciana,,serpavi_n_rented_apartments,87850.0,count,MIVAU_SERPAVI_2011_2024
+2011,Extremadura,,serpavi_rent_m2_median_apartment,3.962,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Extremadura,,serpavi_rent_m2_p25_apartment,2.889,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Extremadura,,serpavi_rent_m2_p75_apartment,5.165,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Extremadura,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Extremadura,,serpavi_n_rented_apartments,11759.0,count,MIVAU_SERPAVI_2011_2024
+2011,Galicia,,serpavi_rent_m2_median_apartment,4.464,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Galicia,,serpavi_rent_m2_p25_apartment,3.101,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Galicia,,serpavi_rent_m2_p75_apartment,6.061,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Galicia,,serpavi_rent_month_median_apartment,354.861,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Galicia,,serpavi_n_rented_apartments,73377.0,count,MIVAU_SERPAVI_2011_2024
+2011,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,9.552,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,7.207,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,12.5,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Comunidad de Madrid,,serpavi_rent_month_median_apartment,650.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Comunidad de Madrid,,serpavi_n_rented_apartments,213713.0,count,MIVAU_SERPAVI_2011_2024
+2011,Región de Murcia,,serpavi_rent_m2_median_apartment,4.194,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Región de Murcia,,serpavi_rent_m2_p25_apartment,2.914,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Región de Murcia,,serpavi_rent_m2_p75_apartment,5.639,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Región de Murcia,,serpavi_rent_month_median_apartment,366.667,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Región de Murcia,,serpavi_n_rented_apartments,17363.0,count,MIVAU_SERPAVI_2011_2024
+2011,La Rioja,,serpavi_rent_m2_median_apartment,4.902,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,La Rioja,,serpavi_rent_m2_p25_apartment,3.719,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,La Rioja,,serpavi_rent_m2_p75_apartment,6.081,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,La Rioja,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,La Rioja,,serpavi_n_rented_apartments,7749.0,count,MIVAU_SERPAVI_2011_2024
+2011,Ceuta,,serpavi_rent_m2_median_apartment,7.692,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Ceuta,,serpavi_rent_m2_p25_apartment,5.678,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Ceuta,,serpavi_rent_m2_p75_apartment,10.007,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Ceuta,,serpavi_rent_month_median_apartment,566.184,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Ceuta,,serpavi_n_rented_apartments,978.0,count,MIVAU_SERPAVI_2011_2024
+2011,Melilla,,serpavi_rent_m2_median_apartment,6.837,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Melilla,,serpavi_rent_m2_p25_apartment,4.928,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Melilla,,serpavi_rent_m2_p75_apartment,8.556,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,Melilla,,serpavi_rent_month_median_apartment,490.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2011,Melilla,,serpavi_n_rented_apartments,1002.0,count,MIVAU_SERPAVI_2011_2024
+2011,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,6.607,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2011,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,490.408,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Andalucía,,serpavi_rent_m2_median_apartment,5.346,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Andalucía,,serpavi_rent_m2_p25_apartment,3.802,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Andalucía,,serpavi_rent_m2_p75_apartment,7.065,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Andalucía,,serpavi_rent_month_median_apartment,416.667,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Andalucía,,serpavi_n_rented_apartments,100490.0,count,MIVAU_SERPAVI_2011_2024
+2012,Aragón,,serpavi_rent_m2_median_apartment,5.634,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Aragón,,serpavi_rent_m2_p25_apartment,4.006,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Aragón,,serpavi_rent_m2_p75_apartment,7.143,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Aragón,,serpavi_rent_month_median_apartment,402.933,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Aragón,,serpavi_n_rented_apartments,44473.0,count,MIVAU_SERPAVI_2011_2024
+2012,Principado de Asturias,,serpavi_rent_m2_median_apartment,5.422,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Principado de Asturias,,serpavi_rent_m2_p25_apartment,3.922,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Principado de Asturias,,serpavi_rent_m2_p75_apartment,7.028,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Principado de Asturias,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Principado de Asturias,,serpavi_n_rented_apartments,33068.0,count,MIVAU_SERPAVI_2011_2024
+2012,Illes Balears,,serpavi_rent_m2_median_apartment,6.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Illes Balears,,serpavi_rent_m2_p25_apartment,4.237,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Illes Balears,,serpavi_rent_m2_p75_apartment,8.012,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Illes Balears,,serpavi_rent_month_median_apartment,491.666,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Illes Balears,,serpavi_n_rented_apartments,34890.0,count,MIVAU_SERPAVI_2011_2024
+2012,Canarias,,serpavi_rent_m2_median_apartment,5.455,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Canarias,,serpavi_rent_m2_p25_apartment,4.144,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Canarias,,serpavi_rent_m2_p75_apartment,7.023,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Canarias,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Canarias,,serpavi_n_rented_apartments,48400.0,count,MIVAU_SERPAVI_2011_2024
+2012,Cantabria,,serpavi_rent_m2_median_apartment,5.797,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Cantabria,,serpavi_rent_m2_p25_apartment,4.369,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Cantabria,,serpavi_rent_m2_p75_apartment,7.216,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Cantabria,,serpavi_rent_month_median_apartment,430.015,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Cantabria,,serpavi_n_rented_apartments,12836.0,count,MIVAU_SERPAVI_2011_2024
+2012,Castilla y León,,serpavi_rent_m2_median_apartment,4.661,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Castilla y León,,serpavi_rent_m2_p25_apartment,3.333,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Castilla y León,,serpavi_rent_m2_p75_apartment,6.023,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Castilla y León,,serpavi_rent_month_median_apartment,381.25,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Castilla y León,,serpavi_n_rented_apartments,59822.0,count,MIVAU_SERPAVI_2011_2024
+2012,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,4.651,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,3.297,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,6.002,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Castilla-La Mancha,,serpavi_rent_month_median_apartment,393.013,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Castilla-La Mancha,,serpavi_n_rented_apartments,27992.0,count,MIVAU_SERPAVI_2011_2024
+2012,Cataluña,,serpavi_rent_m2_median_apartment,7.273,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Cataluña,,serpavi_rent_m2_p25_apartment,4.915,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Cataluña,,serpavi_rent_m2_p75_apartment,10.022,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Cataluña,,serpavi_rent_month_median_apartment,525.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Cataluña,,serpavi_n_rented_apartments,258205.0,count,MIVAU_SERPAVI_2011_2024
+2012,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,4.297,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,3.083,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,5.714,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Comunitat Valenciana,,serpavi_rent_month_median_apartment,372.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Comunitat Valenciana,,serpavi_n_rented_apartments,92854.0,count,MIVAU_SERPAVI_2011_2024
+2012,Extremadura,,serpavi_rent_m2_median_apartment,3.939,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Extremadura,,serpavi_rent_m2_p25_apartment,2.89,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Extremadura,,serpavi_rent_m2_p75_apartment,5.064,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Extremadura,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Extremadura,,serpavi_n_rented_apartments,12027.0,count,MIVAU_SERPAVI_2011_2024
+2012,Galicia,,serpavi_rent_m2_median_apartment,4.474,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Galicia,,serpavi_rent_m2_p25_apartment,3.125,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Galicia,,serpavi_rent_m2_p75_apartment,6.048,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Galicia,,serpavi_rent_month_median_apartment,352.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Galicia,,serpavi_n_rented_apartments,75372.0,count,MIVAU_SERPAVI_2011_2024
+2012,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,9.258,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,6.977,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,12.188,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Comunidad de Madrid,,serpavi_rent_month_median_apartment,622.958,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Comunidad de Madrid,,serpavi_n_rented_apartments,231479.0,count,MIVAU_SERPAVI_2011_2024
+2012,Región de Murcia,,serpavi_rent_m2_median_apartment,4.076,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Región de Murcia,,serpavi_rent_m2_p25_apartment,2.869,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Región de Murcia,,serpavi_rent_m2_p75_apartment,5.417,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Región de Murcia,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Región de Murcia,,serpavi_n_rented_apartments,18149.0,count,MIVAU_SERPAVI_2011_2024
+2012,La Rioja,,serpavi_rent_m2_median_apartment,4.724,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,La Rioja,,serpavi_rent_m2_p25_apartment,3.548,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,La Rioja,,serpavi_rent_m2_p75_apartment,5.851,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,La Rioja,,serpavi_rent_month_median_apartment,391.667,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,La Rioja,,serpavi_n_rented_apartments,7957.0,count,MIVAU_SERPAVI_2011_2024
+2012,Ceuta,,serpavi_rent_m2_median_apartment,7.751,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Ceuta,,serpavi_rent_m2_p25_apartment,5.791,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Ceuta,,serpavi_rent_m2_p75_apartment,9.922,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Ceuta,,serpavi_rent_month_median_apartment,583.333,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Ceuta,,serpavi_n_rented_apartments,1122.0,count,MIVAU_SERPAVI_2011_2024
+2012,Melilla,,serpavi_rent_m2_median_apartment,6.923,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Melilla,,serpavi_rent_m2_p25_apartment,5.263,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Melilla,,serpavi_rent_m2_p75_apartment,9.027,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,Melilla,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2012,Melilla,,serpavi_n_rented_apartments,1128.0,count,MIVAU_SERPAVI_2011_2024
+2012,,,serpavi_n_rented_apartments,1060264.0,count,MIVAU_SERPAVI_2011_2024
+2012,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,6.467,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2012,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,475.908,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Andalucía,,serpavi_rent_m2_median_apartment,5.114,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Andalucía,,serpavi_rent_m2_p25_apartment,3.65,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Andalucía,,serpavi_rent_m2_p75_apartment,6.757,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Andalucía,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Andalucía,,serpavi_n_rented_apartments,107033.0,count,MIVAU_SERPAVI_2011_2024
+2013,Aragón,,serpavi_rent_m2_median_apartment,5.353,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Aragón,,serpavi_rent_m2_p25_apartment,3.846,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Aragón,,serpavi_rent_m2_p75_apartment,6.747,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Aragón,,serpavi_rent_month_median_apartment,395.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Aragón,,serpavi_n_rented_apartments,45626.0,count,MIVAU_SERPAVI_2011_2024
+2013,Principado de Asturias,,serpavi_rent_m2_median_apartment,5.254,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Principado de Asturias,,serpavi_rent_m2_p25_apartment,3.846,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Principado de Asturias,,serpavi_rent_m2_p75_apartment,6.757,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Principado de Asturias,,serpavi_rent_month_median_apartment,383.137,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Principado de Asturias,,serpavi_n_rented_apartments,33916.0,count,MIVAU_SERPAVI_2011_2024
+2013,Illes Balears,,serpavi_rent_m2_median_apartment,5.904,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Illes Balears,,serpavi_rent_m2_p25_apartment,4.202,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Illes Balears,,serpavi_rent_m2_p75_apartment,7.9,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Illes Balears,,serpavi_rent_month_median_apartment,476.667,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Illes Balears,,serpavi_n_rented_apartments,37732.0,count,MIVAU_SERPAVI_2011_2024
+2013,Canarias,,serpavi_rent_m2_median_apartment,5.319,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Canarias,,serpavi_rent_m2_p25_apartment,4.056,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Canarias,,serpavi_rent_m2_p75_apartment,6.824,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Canarias,,serpavi_rent_month_median_apartment,390.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Canarias,,serpavi_n_rented_apartments,51093.0,count,MIVAU_SERPAVI_2011_2024
+2013,Cantabria,,serpavi_rent_m2_median_apartment,5.556,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Cantabria,,serpavi_rent_m2_p25_apartment,4.167,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Cantabria,,serpavi_rent_m2_p75_apartment,6.923,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Cantabria,,serpavi_rent_month_median_apartment,405.556,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Cantabria,,serpavi_n_rented_apartments,13250.0,count,MIVAU_SERPAVI_2011_2024
+2013,Castilla y León,,serpavi_rent_m2_median_apartment,4.502,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Castilla y León,,serpavi_rent_m2_p25_apartment,3.261,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Castilla y León,,serpavi_rent_m2_p75_apartment,5.803,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Castilla y León,,serpavi_rent_month_median_apartment,369.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Castilla y León,,serpavi_n_rented_apartments,61915.0,count,MIVAU_SERPAVI_2011_2024
+2013,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,4.361,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,3.106,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,5.603,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Castilla-La Mancha,,serpavi_rent_month_median_apartment,360.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Castilla-La Mancha,,serpavi_n_rented_apartments,29092.0,count,MIVAU_SERPAVI_2011_2024
+2013,Cataluña,,serpavi_rent_m2_median_apartment,6.944,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Cataluña,,serpavi_rent_m2_p25_apartment,4.729,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Cataluña,,serpavi_rent_m2_p75_apartment,9.532,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Cataluña,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Cataluña,,serpavi_n_rented_apartments,276465.0,count,MIVAU_SERPAVI_2011_2024
+2013,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,4.098,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,2.97,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,5.44,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Comunitat Valenciana,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Comunitat Valenciana,,serpavi_n_rented_apartments,100550.0,count,MIVAU_SERPAVI_2011_2024
+2013,Extremadura,,serpavi_rent_m2_median_apartment,3.842,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Extremadura,,serpavi_rent_m2_p25_apartment,2.796,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Extremadura,,serpavi_rent_m2_p75_apartment,4.917,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Extremadura,,serpavi_rent_month_median_apartment,337.5,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Extremadura,,serpavi_n_rented_apartments,12327.0,count,MIVAU_SERPAVI_2011_2024
+2013,Galicia,,serpavi_rent_m2_median_apartment,4.365,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Galicia,,serpavi_rent_m2_p25_apartment,3.081,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Galicia,,serpavi_rent_m2_p75_apartment,5.854,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Galicia,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Galicia,,serpavi_n_rented_apartments,78379.0,count,MIVAU_SERPAVI_2011_2024
+2013,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,8.724,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,6.522,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,11.574,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Comunidad de Madrid,,serpavi_rent_month_median_apartment,600.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Comunidad de Madrid,,serpavi_n_rented_apartments,250335.0,count,MIVAU_SERPAVI_2011_2024
+2013,Región de Murcia,,serpavi_rent_m2_median_apartment,3.896,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Región de Murcia,,serpavi_rent_m2_p25_apartment,2.788,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Región de Murcia,,serpavi_rent_m2_p75_apartment,5.145,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Región de Murcia,,serpavi_rent_month_median_apartment,345.833,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Región de Murcia,,serpavi_n_rented_apartments,19852.0,count,MIVAU_SERPAVI_2011_2024
+2013,La Rioja,,serpavi_rent_m2_median_apartment,4.433,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,La Rioja,,serpavi_rent_m2_p25_apartment,3.361,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,La Rioja,,serpavi_rent_m2_p75_apartment,5.524,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,La Rioja,,serpavi_rent_month_median_apartment,366.667,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,La Rioja,,serpavi_n_rented_apartments,8092.0,count,MIVAU_SERPAVI_2011_2024
+2013,Ceuta,,serpavi_rent_m2_median_apartment,7.59,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Ceuta,,serpavi_rent_m2_p25_apartment,5.696,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Ceuta,,serpavi_rent_m2_p75_apartment,9.736,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Ceuta,,serpavi_rent_month_median_apartment,561.87,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Ceuta,,serpavi_n_rented_apartments,1260.0,count,MIVAU_SERPAVI_2011_2024
+2013,Melilla,,serpavi_rent_m2_median_apartment,6.964,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Melilla,,serpavi_rent_m2_p25_apartment,5.207,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Melilla,,serpavi_rent_m2_p75_apartment,8.889,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,Melilla,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2013,Melilla,,serpavi_n_rented_apartments,1339.0,count,MIVAU_SERPAVI_2011_2024
+2013,,,serpavi_n_rented_apartments,1128256.0,count,MIVAU_SERPAVI_2011_2024
+2013,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,6.188,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2013,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,458.109,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Andalucía,,serpavi_rent_m2_median_apartment,5.056,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Andalucía,,serpavi_rent_m2_p25_apartment,3.658,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Andalucía,,serpavi_rent_m2_p75_apartment,6.645,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Andalucía,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Andalucía,,serpavi_n_rented_apartments,118373.0,count,MIVAU_SERPAVI_2011_2024
+2014,Aragón,,serpavi_rent_m2_median_apartment,5.224,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Aragón,,serpavi_rent_m2_p25_apartment,3.809,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Aragón,,serpavi_rent_m2_p75_apartment,6.519,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Aragón,,serpavi_rent_month_median_apartment,377.667,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Aragón,,serpavi_n_rented_apartments,48022.0,count,MIVAU_SERPAVI_2011_2024
+2014,Principado de Asturias,,serpavi_rent_m2_median_apartment,5.213,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Principado de Asturias,,serpavi_rent_m2_p25_apartment,3.896,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Principado de Asturias,,serpavi_rent_m2_p75_apartment,6.667,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Principado de Asturias,,serpavi_rent_month_median_apartment,380.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Principado de Asturias,,serpavi_n_rented_apartments,35889.0,count,MIVAU_SERPAVI_2011_2024
+2014,Illes Balears,,serpavi_rent_m2_median_apartment,5.936,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Illes Balears,,serpavi_rent_m2_p25_apartment,4.303,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Illes Balears,,serpavi_rent_m2_p75_apartment,7.971,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Illes Balears,,serpavi_rent_month_median_apartment,480.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Illes Balears,,serpavi_n_rented_apartments,41681.0,count,MIVAU_SERPAVI_2011_2024
+2014,Canarias,,serpavi_rent_m2_median_apartment,5.303,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Canarias,,serpavi_rent_m2_p25_apartment,4.07,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Canarias,,serpavi_rent_m2_p75_apartment,6.818,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Canarias,,serpavi_rent_month_median_apartment,385.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Canarias,,serpavi_n_rented_apartments,55672.0,count,MIVAU_SERPAVI_2011_2024
+2014,Cantabria,,serpavi_rent_m2_median_apartment,5.456,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Cantabria,,serpavi_rent_m2_p25_apartment,4.184,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Cantabria,,serpavi_rent_m2_p75_apartment,6.707,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Cantabria,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Cantabria,,serpavi_n_rented_apartments,14121.0,count,MIVAU_SERPAVI_2011_2024
+2014,Castilla y León,,serpavi_rent_m2_median_apartment,4.476,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Castilla y León,,serpavi_rent_m2_p25_apartment,3.28,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Castilla y León,,serpavi_rent_m2_p75_apartment,5.714,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Castilla y León,,serpavi_rent_month_median_apartment,360.629,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Castilla y León,,serpavi_n_rented_apartments,65826.0,count,MIVAU_SERPAVI_2011_2024
+2014,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,4.225,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,3.079,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,5.381,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Castilla-La Mancha,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Castilla-La Mancha,,serpavi_n_rented_apartments,31276.0,count,MIVAU_SERPAVI_2011_2024
+2014,Cataluña,,serpavi_rent_m2_median_apartment,6.847,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Cataluña,,serpavi_rent_m2_p25_apartment,4.73,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Cataluña,,serpavi_rent_m2_p75_apartment,9.302,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Cataluña,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Cataluña,,serpavi_n_rented_apartments,299129.0,count,MIVAU_SERPAVI_2011_2024
+2014,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,4.023,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,2.941,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,5.333,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Comunitat Valenciana,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Comunitat Valenciana,,serpavi_n_rented_apartments,112256.0,count,MIVAU_SERPAVI_2011_2024
+2014,Extremadura,,serpavi_rent_m2_median_apartment,3.766,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Extremadura,,serpavi_rent_m2_p25_apartment,2.778,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Extremadura,,serpavi_rent_m2_p75_apartment,4.813,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Extremadura,,serpavi_rent_month_median_apartment,330.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Extremadura,,serpavi_n_rented_apartments,13363.0,count,MIVAU_SERPAVI_2011_2024
+2014,Galicia,,serpavi_rent_m2_median_apartment,4.34,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Galicia,,serpavi_rent_m2_p25_apartment,3.103,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Galicia,,serpavi_rent_m2_p75_apartment,5.796,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Galicia,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Galicia,,serpavi_n_rented_apartments,82292.0,count,MIVAU_SERPAVI_2011_2024
+2014,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,8.493,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,6.41,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,11.31,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Comunidad de Madrid,,serpavi_rent_month_median_apartment,575.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Comunidad de Madrid,,serpavi_n_rented_apartments,274768.0,count,MIVAU_SERPAVI_2011_2024
+2014,Región de Murcia,,serpavi_rent_m2_median_apartment,3.81,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Región de Murcia,,serpavi_rent_m2_p25_apartment,2.778,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Región de Murcia,,serpavi_rent_m2_p75_apartment,5.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Región de Murcia,,serpavi_rent_month_median_apartment,330.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Región de Murcia,,serpavi_n_rented_apartments,22298.0,count,MIVAU_SERPAVI_2011_2024
+2014,La Rioja,,serpavi_rent_m2_median_apartment,4.315,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,La Rioja,,serpavi_rent_m2_p25_apartment,3.333,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,La Rioja,,serpavi_rent_m2_p75_apartment,5.333,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,La Rioja,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,La Rioja,,serpavi_n_rented_apartments,8752.0,count,MIVAU_SERPAVI_2011_2024
+2014,Ceuta,,serpavi_rent_m2_median_apartment,7.628,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Ceuta,,serpavi_rent_m2_p25_apartment,5.577,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Ceuta,,serpavi_rent_m2_p75_apartment,9.872,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Ceuta,,serpavi_rent_month_median_apartment,558.09,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Ceuta,,serpavi_n_rented_apartments,1405.0,count,MIVAU_SERPAVI_2011_2024
+2014,Melilla,,serpavi_rent_m2_median_apartment,6.95,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Melilla,,serpavi_rent_m2_p25_apartment,5.332,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Melilla,,serpavi_rent_m2_p75_apartment,8.886,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,Melilla,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2014,Melilla,,serpavi_n_rented_apartments,1464.0,count,MIVAU_SERPAVI_2011_2024
+2014,,,serpavi_n_rented_apartments,1226587.0,count,MIVAU_SERPAVI_2011_2024
+2014,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,6.088,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2014,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,450.757,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Andalucía,,serpavi_rent_m2_median_apartment,5.031,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Andalucía,,serpavi_rent_m2_p25_apartment,3.666,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Andalucía,,serpavi_rent_m2_p75_apartment,6.604,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Andalucía,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Andalucía,,serpavi_n_rented_apartments,132491.0,count,MIVAU_SERPAVI_2011_2024
+2015,Aragón,,serpavi_rent_m2_median_apartment,5.195,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Aragón,,serpavi_rent_m2_p25_apartment,3.846,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Aragón,,serpavi_rent_m2_p75_apartment,6.429,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Aragón,,serpavi_rent_month_median_apartment,375.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Aragón,,serpavi_n_rented_apartments,50969.0,count,MIVAU_SERPAVI_2011_2024
+2015,Principado de Asturias,,serpavi_rent_m2_median_apartment,5.161,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Principado de Asturias,,serpavi_rent_m2_p25_apartment,3.883,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Principado de Asturias,,serpavi_rent_m2_p75_apartment,6.586,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Principado de Asturias,,serpavi_rent_month_median_apartment,375.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Principado de Asturias,,serpavi_n_rented_apartments,39291.0,count,MIVAU_SERPAVI_2011_2024
+2015,Illes Balears,,serpavi_rent_m2_median_apartment,6.055,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Illes Balears,,serpavi_rent_m2_p25_apartment,4.425,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Illes Balears,,serpavi_rent_m2_p75_apartment,8.145,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Illes Balears,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Illes Balears,,serpavi_n_rented_apartments,46251.0,count,MIVAU_SERPAVI_2011_2024
+2015,Canarias,,serpavi_rent_m2_median_apartment,5.319,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Canarias,,serpavi_rent_m2_p25_apartment,4.111,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Canarias,,serpavi_rent_m2_p75_apartment,6.839,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Canarias,,serpavi_rent_month_median_apartment,390.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Canarias,,serpavi_n_rented_apartments,61149.0,count,MIVAU_SERPAVI_2011_2024
+2015,Cantabria,,serpavi_rent_m2_median_apartment,5.379,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Cantabria,,serpavi_rent_m2_p25_apartment,4.167,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Cantabria,,serpavi_rent_m2_p75_apartment,6.667,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Cantabria,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Cantabria,,serpavi_n_rented_apartments,15739.0,count,MIVAU_SERPAVI_2011_2024
+2015,Castilla y León,,serpavi_rent_m2_median_apartment,4.457,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Castilla y León,,serpavi_rent_m2_p25_apartment,3.322,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Castilla y León,,serpavi_rent_m2_p75_apartment,5.66,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Castilla y León,,serpavi_rent_month_median_apartment,360.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Castilla y León,,serpavi_n_rented_apartments,70790.0,count,MIVAU_SERPAVI_2011_2024
+2015,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,4.128,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,3.066,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,5.24,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Castilla-La Mancha,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Castilla-La Mancha,,serpavi_n_rented_apartments,34131.0,count,MIVAU_SERPAVI_2011_2024
+2015,Cataluña,,serpavi_rent_m2_median_apartment,6.881,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Cataluña,,serpavi_rent_m2_p25_apartment,4.8,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Cataluña,,serpavi_rent_m2_p75_apartment,9.302,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Cataluña,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Cataluña,,serpavi_n_rented_apartments,326505.0,count,MIVAU_SERPAVI_2011_2024
+2015,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,4.022,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,2.961,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,5.333,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Comunitat Valenciana,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Comunitat Valenciana,,serpavi_n_rented_apartments,126561.0,count,MIVAU_SERPAVI_2011_2024
+2015,Extremadura,,serpavi_rent_m2_median_apartment,3.719,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Extremadura,,serpavi_rent_m2_p25_apartment,2.734,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Extremadura,,serpavi_rent_m2_p75_apartment,4.737,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Extremadura,,serpavi_rent_month_median_apartment,325.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Extremadura,,serpavi_n_rented_apartments,15106.0,count,MIVAU_SERPAVI_2011_2024
+2015,Galicia,,serpavi_rent_m2_median_apartment,4.321,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Galicia,,serpavi_rent_m2_p25_apartment,3.098,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Galicia,,serpavi_rent_m2_p75_apartment,5.753,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Galicia,,serpavi_rent_month_median_apartment,349.565,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Galicia,,serpavi_n_rented_apartments,87719.0,count,MIVAU_SERPAVI_2011_2024
+2015,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,8.511,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,6.452,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,11.31,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Comunidad de Madrid,,serpavi_rent_month_median_apartment,570.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Comunidad de Madrid,,serpavi_n_rented_apartments,301845.0,count,MIVAU_SERPAVI_2011_2024
+2015,Región de Murcia,,serpavi_rent_m2_median_apartment,3.797,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Región de Murcia,,serpavi_rent_m2_p25_apartment,2.83,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Región de Murcia,,serpavi_rent_m2_p75_apartment,4.96,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Región de Murcia,,serpavi_rent_month_median_apartment,330.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Región de Murcia,,serpavi_n_rented_apartments,25333.0,count,MIVAU_SERPAVI_2011_2024
+2015,La Rioja,,serpavi_rent_m2_median_apartment,4.314,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,La Rioja,,serpavi_rent_m2_p25_apartment,3.319,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,La Rioja,,serpavi_rent_m2_p75_apartment,5.319,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,La Rioja,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,La Rioja,,serpavi_n_rented_apartments,9421.0,count,MIVAU_SERPAVI_2011_2024
+2015,Ceuta,,serpavi_rent_m2_median_apartment,7.595,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Ceuta,,serpavi_rent_m2_p25_apartment,5.852,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Ceuta,,serpavi_rent_m2_p75_apartment,9.649,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Ceuta,,serpavi_rent_month_median_apartment,566.964,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Ceuta,,serpavi_n_rented_apartments,1594.0,count,MIVAU_SERPAVI_2011_2024
+2015,Melilla,,serpavi_rent_m2_median_apartment,7.042,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Melilla,,serpavi_rent_m2_p25_apartment,5.435,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Melilla,,serpavi_rent_m2_p75_apartment,8.974,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,Melilla,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2015,Melilla,,serpavi_n_rented_apartments,1624.0,count,MIVAU_SERPAVI_2011_2024
+2015,,,serpavi_n_rented_apartments,1346519.0,count,MIVAU_SERPAVI_2011_2024
+2015,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,6.09,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2015,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,450.116,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Andalucía,,serpavi_rent_m2_median_apartment,5.164,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Andalucía,,serpavi_rent_m2_p25_apartment,3.831,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Andalucía,,serpavi_rent_m2_p75_apartment,6.731,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Andalucía,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Andalucía,,serpavi_n_rented_apartments,145358.0,count,MIVAU_SERPAVI_2011_2024
+2016,Aragón,,serpavi_rent_m2_median_apartment,5.25,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Aragón,,serpavi_rent_m2_p25_apartment,3.952,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Aragón,,serpavi_rent_m2_p75_apartment,6.471,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Aragón,,serpavi_rent_month_median_apartment,375.56,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Aragón,,serpavi_n_rented_apartments,54445.0,count,MIVAU_SERPAVI_2011_2024
+2016,Principado de Asturias,,serpavi_rent_m2_median_apartment,5.263,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Principado de Asturias,,serpavi_rent_m2_p25_apartment,4.054,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Principado de Asturias,,serpavi_rent_m2_p75_apartment,6.667,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Principado de Asturias,,serpavi_rent_month_median_apartment,380.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Principado de Asturias,,serpavi_n_rented_apartments,41896.0,count,MIVAU_SERPAVI_2011_2024
+2016,Illes Balears,,serpavi_rent_m2_median_apartment,6.25,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Illes Balears,,serpavi_rent_m2_p25_apartment,4.583,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Illes Balears,,serpavi_rent_m2_p75_apartment,8.419,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Illes Balears,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Illes Balears,,serpavi_n_rented_apartments,50453.0,count,MIVAU_SERPAVI_2011_2024
+2016,Canarias,,serpavi_rent_m2_median_apartment,5.425,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Canarias,,serpavi_rent_m2_p25_apartment,4.235,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Canarias,,serpavi_rent_m2_p75_apartment,6.996,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Canarias,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Canarias,,serpavi_n_rented_apartments,66039.0,count,MIVAU_SERPAVI_2011_2024
+2016,Cantabria,,serpavi_rent_m2_median_apartment,5.481,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Cantabria,,serpavi_rent_m2_p25_apartment,4.321,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Cantabria,,serpavi_rent_m2_p75_apartment,6.731,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Cantabria,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Cantabria,,serpavi_n_rented_apartments,17309.0,count,MIVAU_SERPAVI_2011_2024
+2016,Castilla y León,,serpavi_rent_m2_median_apartment,4.554,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Castilla y León,,serpavi_rent_m2_p25_apartment,3.465,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Castilla y León,,serpavi_rent_m2_p75_apartment,5.738,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Castilla y León,,serpavi_rent_month_median_apartment,370.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Castilla y León,,serpavi_n_rented_apartments,76090.0,count,MIVAU_SERPAVI_2011_2024
+2016,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,4.208,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,3.185,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,5.28,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Castilla-La Mancha,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Castilla-La Mancha,,serpavi_n_rented_apartments,37314.0,count,MIVAU_SERPAVI_2011_2024
+2016,Cataluña,,serpavi_rent_m2_median_apartment,7.037,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Cataluña,,serpavi_rent_m2_p25_apartment,4.93,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Cataluña,,serpavi_rent_m2_p75_apartment,9.483,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Cataluña,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Cataluña,,serpavi_n_rented_apartments,352255.0,count,MIVAU_SERPAVI_2011_2024
+2016,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,4.118,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,3.063,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,5.429,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Comunitat Valenciana,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Comunitat Valenciana,,serpavi_n_rented_apartments,140007.0,count,MIVAU_SERPAVI_2011_2024
+2016,Extremadura,,serpavi_rent_m2_median_apartment,3.804,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Extremadura,,serpavi_rent_m2_p25_apartment,2.871,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Extremadura,,serpavi_rent_m2_p75_apartment,4.8,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Extremadura,,serpavi_rent_month_median_apartment,333.333,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Extremadura,,serpavi_n_rented_apartments,16419.0,count,MIVAU_SERPAVI_2011_2024
+2016,Galicia,,serpavi_rent_m2_median_apartment,4.379,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Galicia,,serpavi_rent_m2_p25_apartment,3.178,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Galicia,,serpavi_rent_m2_p75_apartment,5.814,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Galicia,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Galicia,,serpavi_n_rented_apartments,92785.0,count,MIVAU_SERPAVI_2011_2024
+2016,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,8.691,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,6.667,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,11.526,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Comunidad de Madrid,,serpavi_rent_month_median_apartment,587.495,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Comunidad de Madrid,,serpavi_n_rented_apartments,329025.0,count,MIVAU_SERPAVI_2011_2024
+2016,Región de Murcia,,serpavi_rent_m2_median_apartment,3.846,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Región de Murcia,,serpavi_rent_m2_p25_apartment,2.906,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Región de Murcia,,serpavi_rent_m2_p75_apartment,5.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Región de Murcia,,serpavi_rent_month_median_apartment,340.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Región de Murcia,,serpavi_n_rented_apartments,28253.0,count,MIVAU_SERPAVI_2011_2024
+2016,La Rioja,,serpavi_rent_m2_median_apartment,4.386,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,La Rioja,,serpavi_rent_m2_p25_apartment,3.44,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,La Rioja,,serpavi_rent_m2_p75_apartment,5.357,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,La Rioja,,serpavi_rent_month_median_apartment,358.824,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,La Rioja,,serpavi_n_rented_apartments,10209.0,count,MIVAU_SERPAVI_2011_2024
+2016,Ceuta,,serpavi_rent_m2_median_apartment,7.779,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Ceuta,,serpavi_rent_m2_p25_apartment,6.087,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Ceuta,,serpavi_rent_m2_p75_apartment,9.821,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Ceuta,,serpavi_rent_month_median_apartment,590.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Ceuta,,serpavi_n_rented_apartments,1679.0,count,MIVAU_SERPAVI_2011_2024
+2016,Melilla,,serpavi_rent_m2_median_apartment,7.034,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Melilla,,serpavi_rent_m2_p25_apartment,5.435,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Melilla,,serpavi_rent_m2_p75_apartment,8.975,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,Melilla,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2016,Melilla,,serpavi_n_rented_apartments,1801.0,count,MIVAU_SERPAVI_2011_2024
+2016,,,serpavi_n_rented_apartments,1461337.0,count,MIVAU_SERPAVI_2011_2024
+2016,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,6.222,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2016,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,455.63,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Andalucía,,serpavi_rent_m2_median_apartment,5.283,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Andalucía,,serpavi_rent_m2_p25_apartment,3.922,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Andalucía,,serpavi_rent_m2_p75_apartment,6.907,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Andalucía,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Andalucía,,serpavi_n_rented_apartments,159253.0,count,MIVAU_SERPAVI_2011_2024
+2017,Aragón,,serpavi_rent_m2_median_apartment,5.333,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Aragón,,serpavi_rent_m2_p25_apartment,4.032,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Aragón,,serpavi_rent_m2_p75_apartment,6.569,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Aragón,,serpavi_rent_month_median_apartment,381.022,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Aragón,,serpavi_n_rented_apartments,58313.0,count,MIVAU_SERPAVI_2011_2024
+2017,Principado de Asturias,,serpavi_rent_m2_median_apartment,5.333,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Principado de Asturias,,serpavi_rent_m2_p25_apartment,4.127,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Principado de Asturias,,serpavi_rent_m2_p75_apartment,6.757,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Principado de Asturias,,serpavi_rent_month_median_apartment,385.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Principado de Asturias,,serpavi_n_rented_apartments,44337.0,count,MIVAU_SERPAVI_2011_2024
+2017,Illes Balears,,serpavi_rent_m2_median_apartment,6.539,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Illes Balears,,serpavi_rent_m2_p25_apartment,4.781,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Illes Balears,,serpavi_rent_m2_p75_apartment,8.896,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Illes Balears,,serpavi_rent_month_median_apartment,506.944,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Illes Balears,,serpavi_n_rented_apartments,54000.0,count,MIVAU_SERPAVI_2011_2024
+2017,Canarias,,serpavi_rent_m2_median_apartment,5.569,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Canarias,,serpavi_rent_m2_p25_apartment,4.348,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Canarias,,serpavi_rent_m2_p75_apartment,7.222,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Canarias,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Canarias,,serpavi_n_rented_apartments,71612.0,count,MIVAU_SERPAVI_2011_2024
+2017,Cantabria,,serpavi_rent_m2_median_apartment,5.556,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Cantabria,,serpavi_rent_m2_p25_apartment,4.375,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Cantabria,,serpavi_rent_m2_p75_apartment,6.837,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Cantabria,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Cantabria,,serpavi_n_rented_apartments,18815.0,count,MIVAU_SERPAVI_2011_2024
+2017,Castilla y León,,serpavi_rent_m2_median_apartment,4.63,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Castilla y León,,serpavi_rent_m2_p25_apartment,3.528,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Castilla y León,,serpavi_rent_m2_p75_apartment,5.818,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Castilla y León,,serpavi_rent_month_median_apartment,375.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Castilla y León,,serpavi_n_rented_apartments,81124.0,count,MIVAU_SERPAVI_2011_2024
+2017,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,4.255,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,3.227,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,5.336,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Castilla-La Mancha,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Castilla-La Mancha,,serpavi_n_rented_apartments,41220.0,count,MIVAU_SERPAVI_2011_2024
+2017,Cataluña,,serpavi_rent_m2_median_apartment,7.246,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Cataluña,,serpavi_rent_m2_p25_apartment,5.066,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Cataluña,,serpavi_rent_m2_p75_apartment,9.841,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Cataluña,,serpavi_rent_month_median_apartment,506.944,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Cataluña,,serpavi_n_rented_apartments,374945.0,count,MIVAU_SERPAVI_2011_2024
+2017,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,4.223,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,3.158,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,5.588,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Comunitat Valenciana,,serpavi_rent_month_median_apartment,356.25,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Comunitat Valenciana,,serpavi_n_rented_apartments,154142.0,count,MIVAU_SERPAVI_2011_2024
+2017,Extremadura,,serpavi_rent_m2_median_apartment,3.853,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Extremadura,,serpavi_rent_m2_p25_apartment,2.929,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Extremadura,,serpavi_rent_m2_p75_apartment,4.884,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Extremadura,,serpavi_rent_month_median_apartment,338.333,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Extremadura,,serpavi_n_rented_apartments,17803.0,count,MIVAU_SERPAVI_2011_2024
+2017,Galicia,,serpavi_rent_m2_median_apartment,4.444,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Galicia,,serpavi_rent_m2_p25_apartment,3.24,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Galicia,,serpavi_rent_m2_p75_apartment,5.913,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Galicia,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Galicia,,serpavi_n_rented_apartments,98769.0,count,MIVAU_SERPAVI_2011_2024
+2017,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,8.904,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,6.818,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,11.864,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Comunidad de Madrid,,serpavi_rent_month_median_apartment,600.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Comunidad de Madrid,,serpavi_n_rented_apartments,357236.0,count,MIVAU_SERPAVI_2011_2024
+2017,Región de Murcia,,serpavi_rent_m2_median_apartment,3.922,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Región de Murcia,,serpavi_rent_m2_p25_apartment,2.966,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Región de Murcia,,serpavi_rent_m2_p75_apartment,5.115,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Región de Murcia,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Región de Murcia,,serpavi_n_rented_apartments,31209.0,count,MIVAU_SERPAVI_2011_2024
+2017,La Rioja,,serpavi_rent_m2_median_apartment,4.455,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,La Rioja,,serpavi_rent_m2_p25_apartment,3.497,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,La Rioja,,serpavi_rent_m2_p75_apartment,5.486,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,La Rioja,,serpavi_rent_month_median_apartment,367.684,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,La Rioja,,serpavi_n_rented_apartments,10934.0,count,MIVAU_SERPAVI_2011_2024
+2017,Ceuta,,serpavi_rent_m2_median_apartment,7.692,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Ceuta,,serpavi_rent_m2_p25_apartment,6.038,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Ceuta,,serpavi_rent_m2_p75_apartment,9.821,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Ceuta,,serpavi_rent_month_median_apartment,587.5,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Ceuta,,serpavi_n_rented_apartments,1772.0,count,MIVAU_SERPAVI_2011_2024
+2017,Melilla,,serpavi_rent_m2_median_apartment,7.433,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Melilla,,serpavi_rent_m2_p25_apartment,5.846,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Melilla,,serpavi_rent_m2_p75_apartment,9.12,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,Melilla,,serpavi_rent_month_median_apartment,520.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2017,Melilla,,serpavi_n_rented_apartments,1924.0,count,MIVAU_SERPAVI_2011_2024
+2017,,,serpavi_n_rented_apartments,1577408.0,count,MIVAU_SERPAVI_2011_2024
+2017,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,6.372,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2017,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,461.702,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Andalucía,,serpavi_rent_m2_median_apartment,5.469,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Andalucía,,serpavi_rent_m2_p25_apartment,4.031,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Andalucía,,serpavi_rent_m2_p75_apartment,7.203,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Andalucía,,serpavi_rent_month_median_apartment,420.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Andalucía,,serpavi_n_rented_apartments,170068.0,count,MIVAU_SERPAVI_2011_2024
+2018,Aragón,,serpavi_rent_m2_median_apartment,5.488,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Aragón,,serpavi_rent_m2_p25_apartment,4.161,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Aragón,,serpavi_rent_m2_p75_apartment,6.78,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Aragón,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Aragón,,serpavi_n_rented_apartments,62504.0,count,MIVAU_SERPAVI_2011_2024
+2018,Principado de Asturias,,serpavi_rent_m2_median_apartment,5.435,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Principado de Asturias,,serpavi_rent_m2_p25_apartment,4.208,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Principado de Asturias,,serpavi_rent_m2_p75_apartment,6.912,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Principado de Asturias,,serpavi_rent_month_median_apartment,397.967,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Principado de Asturias,,serpavi_n_rented_apartments,46403.0,count,MIVAU_SERPAVI_2011_2024
+2018,Illes Balears,,serpavi_rent_m2_median_apartment,7.031,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Illes Balears,,serpavi_rent_m2_p25_apartment,5.066,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Illes Balears,,serpavi_rent_m2_p75_apartment,9.6,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Illes Balears,,serpavi_rent_month_median_apartment,550.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Illes Balears,,serpavi_n_rented_apartments,56554.0,count,MIVAU_SERPAVI_2011_2024
+2018,Canarias,,serpavi_rent_m2_median_apartment,5.797,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Canarias,,serpavi_rent_m2_p25_apartment,4.492,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Canarias,,serpavi_rent_m2_p75_apartment,7.601,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Canarias,,serpavi_rent_month_median_apartment,410.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Canarias,,serpavi_n_rented_apartments,75501.0,count,MIVAU_SERPAVI_2011_2024
+2018,Cantabria,,serpavi_rent_m2_median_apartment,5.67,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Cantabria,,serpavi_rent_m2_p25_apartment,4.478,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Cantabria,,serpavi_rent_m2_p75_apartment,7.031,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Cantabria,,serpavi_rent_month_median_apartment,410.167,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Cantabria,,serpavi_n_rented_apartments,20199.0,count,MIVAU_SERPAVI_2011_2024
+2018,Castilla y León,,serpavi_rent_m2_median_apartment,4.737,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Castilla y León,,serpavi_rent_m2_p25_apartment,3.6,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Castilla y León,,serpavi_rent_m2_p75_apartment,5.963,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Castilla y León,,serpavi_rent_month_median_apartment,381.667,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Castilla y León,,serpavi_n_rented_apartments,85798.0,count,MIVAU_SERPAVI_2011_2024
+2018,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,4.375,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,3.302,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,5.505,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Castilla-La Mancha,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Castilla-La Mancha,,serpavi_n_rented_apartments,45123.0,count,MIVAU_SERPAVI_2011_2024
+2018,Cataluña,,serpavi_rent_m2_median_apartment,7.576,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Cataluña,,serpavi_rent_m2_p25_apartment,5.247,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Cataluña,,serpavi_rent_m2_p75_apartment,10.417,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Cataluña,,serpavi_rent_month_median_apartment,543.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Cataluña,,serpavi_n_rented_apartments,395754.0,count,MIVAU_SERPAVI_2011_2024
+2018,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,4.386,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,3.254,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,5.841,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Comunitat Valenciana,,serpavi_rent_month_median_apartment,375.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Comunitat Valenciana,,serpavi_n_rented_apartments,166405.0,count,MIVAU_SERPAVI_2011_2024
+2018,Extremadura,,serpavi_rent_m2_median_apartment,3.912,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Extremadura,,serpavi_rent_m2_p25_apartment,2.973,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Extremadura,,serpavi_rent_m2_p75_apartment,5.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Extremadura,,serpavi_rent_month_median_apartment,349.044,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Extremadura,,serpavi_n_rented_apartments,18938.0,count,MIVAU_SERPAVI_2011_2024
+2018,Galicia,,serpavi_rent_m2_median_apartment,4.521,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Galicia,,serpavi_rent_m2_p25_apartment,3.293,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Galicia,,serpavi_rent_m2_p75_apartment,6.026,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Galicia,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Galicia,,serpavi_n_rented_apartments,104788.0,count,MIVAU_SERPAVI_2011_2024
+2018,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,9.286,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,7.059,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,12.476,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Comunidad de Madrid,,serpavi_rent_month_median_apartment,612.5,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Comunidad de Madrid,,serpavi_n_rented_apartments,381969.0,count,MIVAU_SERPAVI_2011_2024
+2018,Región de Murcia,,serpavi_rent_m2_median_apartment,4.047,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Región de Murcia,,serpavi_rent_m2_p25_apartment,3.03,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Región de Murcia,,serpavi_rent_m2_p75_apartment,5.283,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Región de Murcia,,serpavi_rent_month_median_apartment,350.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Región de Murcia,,serpavi_n_rented_apartments,33457.0,count,MIVAU_SERPAVI_2011_2024
+2018,La Rioja,,serpavi_rent_m2_median_apartment,4.545,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,La Rioja,,serpavi_rent_m2_p25_apartment,3.587,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,La Rioja,,serpavi_rent_m2_p75_apartment,5.645,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,La Rioja,,serpavi_rent_month_median_apartment,375.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,La Rioja,,serpavi_n_rented_apartments,11656.0,count,MIVAU_SERPAVI_2011_2024
+2018,Ceuta,,serpavi_rent_m2_median_apartment,7.955,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Ceuta,,serpavi_rent_m2_p25_apartment,6.25,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Ceuta,,serpavi_rent_m2_p75_apartment,10.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Ceuta,,serpavi_rent_month_median_apartment,600.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Ceuta,,serpavi_n_rented_apartments,1843.0,count,MIVAU_SERPAVI_2011_2024
+2018,Melilla,,serpavi_rent_m2_median_apartment,7.553,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Melilla,,serpavi_rent_m2_p25_apartment,5.851,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Melilla,,serpavi_rent_m2_p75_apartment,9.483,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,Melilla,,serpavi_rent_month_median_apartment,530.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2018,Melilla,,serpavi_n_rented_apartments,2052.0,count,MIVAU_SERPAVI_2011_2024
+2018,,,serpavi_n_rented_apartments,1679012.0,count,MIVAU_SERPAVI_2011_2024
+2018,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,6.623,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2018,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,480.398,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Andalucía,,serpavi_rent_m2_median_apartment,5.921,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Andalucía,,serpavi_rent_m2_p25_apartment,4.428,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Andalucía,,serpavi_rent_m2_p75_apartment,7.815,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Andalucía,,serpavi_rent_month_median_apartment,450.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Andalucía,,serpavi_n_rented_apartments,181802.0,count,MIVAU_SERPAVI_2011_2024
+2019,Aragón,,serpavi_rent_m2_median_apartment,5.869,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Aragón,,serpavi_rent_m2_p25_apartment,4.555,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Aragón,,serpavi_rent_m2_p75_apartment,7.253,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Aragón,,serpavi_rent_month_median_apartment,415.875,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Aragón,,serpavi_n_rented_apartments,66451.0,count,MIVAU_SERPAVI_2011_2024
+2019,Principado de Asturias,,serpavi_rent_m2_median_apartment,5.714,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Principado de Asturias,,serpavi_rent_m2_p25_apartment,4.487,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Principado de Asturias,,serpavi_rent_m2_p75_apartment,7.225,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Principado de Asturias,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Principado de Asturias,,serpavi_n_rented_apartments,48682.0,count,MIVAU_SERPAVI_2011_2024
+2019,Illes Balears,,serpavi_rent_m2_median_apartment,7.717,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Illes Balears,,serpavi_rent_m2_p25_apartment,5.607,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Illes Balears,,serpavi_rent_m2_p75_apartment,10.577,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Illes Balears,,serpavi_rent_month_median_apartment,600.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Illes Balears,,serpavi_n_rented_apartments,58645.0,count,MIVAU_SERPAVI_2011_2024
+2019,Canarias,,serpavi_rent_m2_median_apartment,6.299,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Canarias,,serpavi_rent_m2_p25_apartment,4.886,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Canarias,,serpavi_rent_m2_p75_apartment,8.295,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Canarias,,serpavi_rent_month_median_apartment,450.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Canarias,,serpavi_n_rented_apartments,79732.0,count,MIVAU_SERPAVI_2011_2024
+2019,Cantabria,,serpavi_rent_m2_median_apartment,6.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Cantabria,,serpavi_rent_m2_p25_apartment,4.806,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Cantabria,,serpavi_rent_m2_p75_apartment,7.414,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Cantabria,,serpavi_rent_month_median_apartment,447.722,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Cantabria,,serpavi_n_rented_apartments,21960.0,count,MIVAU_SERPAVI_2011_2024
+2019,Castilla y León,,serpavi_rent_m2_median_apartment,5.009,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Castilla y León,,serpavi_rent_m2_p25_apartment,3.878,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Castilla y León,,serpavi_rent_m2_p75_apartment,6.316,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Castilla y León,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Castilla y León,,serpavi_n_rented_apartments,91771.0,count,MIVAU_SERPAVI_2011_2024
+2019,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,4.706,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,3.6,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,5.938,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Castilla-La Mancha,,serpavi_rent_month_median_apartment,388.026,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Castilla-La Mancha,,serpavi_n_rented_apartments,50261.0,count,MIVAU_SERPAVI_2011_2024
+2019,Cataluña,,serpavi_rent_m2_median_apartment,8.219,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Cataluña,,serpavi_rent_m2_p25_apartment,5.756,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Cataluña,,serpavi_rent_m2_p75_apartment,11.311,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Cataluña,,serpavi_rent_month_median_apartment,587.5,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Cataluña,,serpavi_n_rented_apartments,410284.0,count,MIVAU_SERPAVI_2011_2024
+2019,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,4.787,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,3.571,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,6.41,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Comunitat Valenciana,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Comunitat Valenciana,,serpavi_n_rented_apartments,180493.0,count,MIVAU_SERPAVI_2011_2024
+2019,Extremadura,,serpavi_rent_m2_median_apartment,4.141,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Extremadura,,serpavi_rent_m2_p25_apartment,3.243,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Extremadura,,serpavi_rent_m2_p75_apartment,5.229,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Extremadura,,serpavi_rent_month_median_apartment,356.583,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Extremadura,,serpavi_n_rented_apartments,20723.0,count,MIVAU_SERPAVI_2011_2024
+2019,Galicia,,serpavi_rent_m2_median_apartment,4.785,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Galicia,,serpavi_rent_m2_p25_apartment,3.54,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Galicia,,serpavi_rent_m2_p75_apartment,6.383,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Galicia,,serpavi_rent_month_median_apartment,375.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Galicia,,serpavi_n_rented_apartments,112306.0,count,MIVAU_SERPAVI_2011_2024
+2019,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,10.159,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,7.791,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,13.575,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Comunidad de Madrid,,serpavi_rent_month_median_apartment,677.531,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Comunidad de Madrid,,serpavi_n_rented_apartments,398205.0,count,MIVAU_SERPAVI_2011_2024
+2019,Región de Murcia,,serpavi_rent_m2_median_apartment,4.338,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Región de Murcia,,serpavi_rent_m2_p25_apartment,3.278,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Región de Murcia,,serpavi_rent_m2_p75_apartment,5.662,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Región de Murcia,,serpavi_rent_month_median_apartment,375.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Región de Murcia,,serpavi_n_rented_apartments,36632.0,count,MIVAU_SERPAVI_2011_2024
+2019,La Rioja,,serpavi_rent_m2_median_apartment,4.861,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,La Rioja,,serpavi_rent_m2_p25_apartment,3.855,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,La Rioja,,serpavi_rent_m2_p75_apartment,6.071,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,La Rioja,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,La Rioja,,serpavi_n_rented_apartments,12675.0,count,MIVAU_SERPAVI_2011_2024
+2019,Ceuta,,serpavi_rent_m2_median_apartment,8.333,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Ceuta,,serpavi_rent_m2_p25_apartment,6.654,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Ceuta,,serpavi_rent_m2_p75_apartment,10.375,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Ceuta,,serpavi_rent_month_median_apartment,600.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Ceuta,,serpavi_n_rented_apartments,1924.0,count,MIVAU_SERPAVI_2011_2024
+2019,Melilla,,serpavi_rent_m2_median_apartment,7.895,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Melilla,,serpavi_rent_m2_p25_apartment,6.306,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Melilla,,serpavi_rent_m2_p75_apartment,9.804,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,Melilla,,serpavi_rent_month_median_apartment,550.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2019,Melilla,,serpavi_n_rented_apartments,2163.0,count,MIVAU_SERPAVI_2011_2024
+2019,,,serpavi_n_rented_apartments,1774709.0,count,MIVAU_SERPAVI_2011_2024
+2019,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,7.148,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2019,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,518.237,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Andalucía,,serpavi_rent_m2_median_apartment,6.061,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Andalucía,,serpavi_rent_m2_p25_apartment,4.505,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Andalucía,,serpavi_rent_m2_p75_apartment,8.017,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Andalucía,,serpavi_rent_month_median_apartment,458.408,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Andalucía,,serpavi_n_rented_apartments,190217.0,count,MIVAU_SERPAVI_2011_2024
+2020,Aragón,,serpavi_rent_m2_median_apartment,6.021,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Aragón,,serpavi_rent_m2_p25_apartment,4.673,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Aragón,,serpavi_rent_m2_p75_apartment,7.457,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Aragón,,serpavi_rent_month_median_apartment,430.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Aragón,,serpavi_n_rented_apartments,69624.0,count,MIVAU_SERPAVI_2011_2024
+2020,Principado de Asturias,,serpavi_rent_m2_median_apartment,5.814,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Principado de Asturias,,serpavi_rent_m2_p25_apartment,4.577,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Principado de Asturias,,serpavi_rent_m2_p75_apartment,7.378,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Principado de Asturias,,serpavi_rent_month_median_apartment,410.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Principado de Asturias,,serpavi_n_rented_apartments,49907.0,count,MIVAU_SERPAVI_2011_2024
+2020,Illes Balears,,serpavi_rent_m2_median_apartment,7.843,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Illes Balears,,serpavi_rent_m2_p25_apartment,5.682,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Illes Balears,,serpavi_rent_m2_p75_apartment,10.59,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Illes Balears,,serpavi_rent_month_median_apartment,605.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Illes Balears,,serpavi_n_rented_apartments,59515.0,count,MIVAU_SERPAVI_2011_2024
+2020,Canarias,,serpavi_rent_m2_median_apartment,6.452,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Canarias,,serpavi_rent_m2_p25_apartment,5.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Canarias,,serpavi_rent_m2_p75_apartment,8.437,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Canarias,,serpavi_rent_month_median_apartment,450.672,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Canarias,,serpavi_n_rented_apartments,83087.0,count,MIVAU_SERPAVI_2011_2024
+2020,Cantabria,,serpavi_rent_m2_median_apartment,6.132,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Cantabria,,serpavi_rent_m2_p25_apartment,4.916,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Cantabria,,serpavi_rent_m2_p75_apartment,7.589,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Cantabria,,serpavi_rent_month_median_apartment,450.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Cantabria,,serpavi_n_rented_apartments,23030.0,count,MIVAU_SERPAVI_2011_2024
+2020,Castilla y León,,serpavi_rent_m2_median_apartment,5.132,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Castilla y León,,serpavi_rent_m2_p25_apartment,3.956,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Castilla y León,,serpavi_rent_m2_p75_apartment,6.464,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Castilla y León,,serpavi_rent_month_median_apartment,401.096,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Castilla y León,,serpavi_n_rented_apartments,95379.0,count,MIVAU_SERPAVI_2011_2024
+2020,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,4.853,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,3.699,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,6.155,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Castilla-La Mancha,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Castilla-La Mancha,,serpavi_n_rented_apartments,53766.0,count,MIVAU_SERPAVI_2011_2024
+2020,Cataluña,,serpavi_rent_m2_median_apartment,8.451,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Cataluña,,serpavi_rent_m2_p25_apartment,5.928,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Cataluña,,serpavi_rent_m2_p75_apartment,11.585,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Cataluña,,serpavi_rent_month_median_apartment,600.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Cataluña,,serpavi_n_rented_apartments,421654.0,count,MIVAU_SERPAVI_2011_2024
+2020,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,4.959,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,3.689,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,6.656,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Comunitat Valenciana,,serpavi_rent_month_median_apartment,419.998,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Comunitat Valenciana,,serpavi_n_rented_apartments,191595.0,count,MIVAU_SERPAVI_2011_2024
+2020,Extremadura,,serpavi_rent_m2_median_apartment,4.237,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Extremadura,,serpavi_rent_m2_p25_apartment,3.293,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Extremadura,,serpavi_rent_m2_p75_apartment,5.366,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Extremadura,,serpavi_rent_month_median_apartment,364.332,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Extremadura,,serpavi_n_rented_apartments,21619.0,count,MIVAU_SERPAVI_2011_2024
+2020,Galicia,,serpavi_rent_m2_median_apartment,4.896,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Galicia,,serpavi_rent_m2_p25_apartment,3.615,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Galicia,,serpavi_rent_m2_p75_apartment,6.557,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Galicia,,serpavi_rent_month_median_apartment,380.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Galicia,,serpavi_n_rented_apartments,117005.0,count,MIVAU_SERPAVI_2011_2024
+2020,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,10.417,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,7.979,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,13.885,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Comunidad de Madrid,,serpavi_rent_month_median_apartment,700.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Comunidad de Madrid,,serpavi_n_rented_apartments,411059.0,count,MIVAU_SERPAVI_2011_2024
+2020,Región de Murcia,,serpavi_rent_m2_median_apartment,4.444,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Región de Murcia,,serpavi_rent_m2_p25_apartment,3.365,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Región de Murcia,,serpavi_rent_m2_p75_apartment,5.845,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Región de Murcia,,serpavi_rent_month_median_apartment,390.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Región de Murcia,,serpavi_n_rented_apartments,38722.0,count,MIVAU_SERPAVI_2011_2024
+2020,La Rioja,,serpavi_rent_m2_median_apartment,5.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,La Rioja,,serpavi_rent_m2_p25_apartment,3.947,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,La Rioja,,serpavi_rent_m2_p75_apartment,6.25,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,La Rioja,,serpavi_rent_month_median_apartment,403.306,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,La Rioja,,serpavi_n_rented_apartments,13633.0,count,MIVAU_SERPAVI_2011_2024
+2020,Ceuta,,serpavi_rent_m2_median_apartment,8.462,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Ceuta,,serpavi_rent_m2_p25_apartment,6.816,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Ceuta,,serpavi_rent_m2_p75_apartment,10.593,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Ceuta,,serpavi_rent_month_median_apartment,623.049,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Ceuta,,serpavi_n_rented_apartments,1978.0,count,MIVAU_SERPAVI_2011_2024
+2020,Melilla,,serpavi_rent_m2_median_apartment,8.108,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Melilla,,serpavi_rent_m2_p25_apartment,6.522,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Melilla,,serpavi_rent_m2_p75_apartment,10.055,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,Melilla,,serpavi_rent_month_median_apartment,553.593,EUR/month,MIVAU_SERPAVI_2011_2024
+2020,Melilla,,serpavi_n_rented_apartments,2298.0,count,MIVAU_SERPAVI_2011_2024
+2020,,,serpavi_n_rented_apartments,1844088.0,count,MIVAU_SERPAVI_2011_2024
+2020,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,7.316,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2020,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,530.246,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Andalucía,,serpavi_rent_m2_median_apartment,6.303,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Andalucía,,serpavi_rent_m2_p25_apartment,4.691,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Andalucía,,serpavi_rent_m2_p75_apartment,8.296,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Andalucía,,serpavi_rent_month_median_apartment,483.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Andalucía,,serpavi_n_rented_apartments,200767.0,count,MIVAU_SERPAVI_2011_2024
+2021,Aragón,,serpavi_rent_m2_median_apartment,6.221,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Aragón,,serpavi_rent_m2_p25_apartment,4.837,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Aragón,,serpavi_rent_m2_p75_apartment,7.692,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Aragón,,serpavi_rent_month_median_apartment,450.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Aragón,,serpavi_n_rented_apartments,72320.0,count,MIVAU_SERPAVI_2011_2024
+2021,Principado de Asturias,,serpavi_rent_m2_median_apartment,5.952,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Principado de Asturias,,serpavi_rent_m2_p25_apartment,4.691,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Principado de Asturias,,serpavi_rent_m2_p75_apartment,7.534,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Principado de Asturias,,serpavi_rent_month_median_apartment,425.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Principado de Asturias,,serpavi_n_rented_apartments,51542.0,count,MIVAU_SERPAVI_2011_2024
+2021,Illes Balears,,serpavi_rent_m2_median_apartment,8.125,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Illes Balears,,serpavi_rent_m2_p25_apartment,5.952,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Illes Balears,,serpavi_rent_m2_p75_apartment,10.877,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Illes Balears,,serpavi_rent_month_median_apartment,644.118,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Illes Balears,,serpavi_n_rented_apartments,61029.0,count,MIVAU_SERPAVI_2011_2024
+2021,Canarias,,serpavi_rent_m2_median_apartment,6.667,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Canarias,,serpavi_rent_m2_p25_apartment,5.159,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Canarias,,serpavi_rent_m2_p75_apartment,8.641,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Canarias,,serpavi_rent_month_median_apartment,475.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Canarias,,serpavi_n_rented_apartments,86017.0,count,MIVAU_SERPAVI_2011_2024
+2021,Cantabria,,serpavi_rent_m2_median_apartment,6.324,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Cantabria,,serpavi_rent_m2_p25_apartment,5.055,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Cantabria,,serpavi_rent_m2_p75_apartment,7.86,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Cantabria,,serpavi_rent_month_median_apartment,452.965,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Cantabria,,serpavi_n_rented_apartments,24076.0,count,MIVAU_SERPAVI_2011_2024
+2021,Castilla y León,,serpavi_rent_m2_median_apartment,5.271,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Castilla y León,,serpavi_rent_m2_p25_apartment,4.074,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Castilla y León,,serpavi_rent_m2_p75_apartment,6.627,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Castilla y León,,serpavi_rent_month_median_apartment,420.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Castilla y León,,serpavi_n_rented_apartments,98740.0,count,MIVAU_SERPAVI_2011_2024
+2021,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,5.008,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,3.846,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,6.397,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Castilla-La Mancha,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Castilla-La Mancha,,serpavi_n_rented_apartments,56540.0,count,MIVAU_SERPAVI_2011_2024
+2021,Cataluña,,serpavi_rent_m2_median_apartment,8.693,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Cataluña,,serpavi_rent_m2_p25_apartment,6.122,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Cataluña,,serpavi_rent_m2_p75_apartment,11.774,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Cataluña,,serpavi_rent_month_median_apartment,613.5,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Cataluña,,serpavi_n_rented_apartments,435130.0,count,MIVAU_SERPAVI_2011_2024
+2021,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,5.195,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,3.846,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,6.934,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Comunitat Valenciana,,serpavi_rent_month_median_apartment,447.083,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Comunitat Valenciana,,serpavi_n_rented_apartments,204158.0,count,MIVAU_SERPAVI_2011_2024
+2021,Extremadura,,serpavi_rent_m2_median_apartment,4.351,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Extremadura,,serpavi_rent_m2_p25_apartment,3.371,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Extremadura,,serpavi_rent_m2_p75_apartment,5.495,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Extremadura,,serpavi_rent_month_median_apartment,375.655,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Extremadura,,serpavi_n_rented_apartments,22721.0,count,MIVAU_SERPAVI_2011_2024
+2021,Galicia,,serpavi_rent_m2_median_apartment,5.056,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Galicia,,serpavi_rent_m2_p25_apartment,3.719,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Galicia,,serpavi_rent_m2_p75_apartment,6.768,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Galicia,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Galicia,,serpavi_n_rented_apartments,121109.0,count,MIVAU_SERPAVI_2011_2024
+2021,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,10.66,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,8.235,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,13.992,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Comunidad de Madrid,,serpavi_rent_month_median_apartment,700.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Comunidad de Madrid,,serpavi_n_rented_apartments,426542.0,count,MIVAU_SERPAVI_2011_2024
+2021,Región de Murcia,,serpavi_rent_m2_median_apartment,4.615,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Región de Murcia,,serpavi_rent_m2_p25_apartment,3.478,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Región de Murcia,,serpavi_rent_m2_p75_apartment,6.071,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Región de Murcia,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Región de Murcia,,serpavi_n_rented_apartments,40892.0,count,MIVAU_SERPAVI_2011_2024
+2021,Comunidad Foral de Navarra,,serpavi_rent_m2_median_apartment,5.85,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Comunidad Foral de Navarra,,serpavi_rent_m2_p25_apartment,4.28,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Comunidad Foral de Navarra,,serpavi_rent_m2_p75_apartment,7.41,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Comunidad Foral de Navarra,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Comunidad Foral de Navarra,,serpavi_n_rented_apartments,20367.0,count,MIVAU_SERPAVI_2011_2024
+2021,La Rioja,,serpavi_rent_m2_median_apartment,5.157,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,La Rioja,,serpavi_rent_m2_p25_apartment,4.042,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,La Rioja,,serpavi_rent_m2_p75_apartment,6.471,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,La Rioja,,serpavi_rent_month_median_apartment,422.971,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,La Rioja,,serpavi_n_rented_apartments,14173.0,count,MIVAU_SERPAVI_2011_2024
+2021,Ceuta,,serpavi_rent_m2_median_apartment,8.75,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Ceuta,,serpavi_rent_m2_p25_apartment,7.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Ceuta,,serpavi_rent_m2_p75_apartment,10.909,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Ceuta,,serpavi_rent_month_median_apartment,644.701,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Ceuta,,serpavi_n_rented_apartments,2087.0,count,MIVAU_SERPAVI_2011_2024
+2021,Melilla,,serpavi_rent_m2_median_apartment,8.342,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Melilla,,serpavi_rent_m2_p25_apartment,6.667,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Melilla,,serpavi_rent_m2_p75_apartment,10.162,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,Melilla,,serpavi_rent_month_median_apartment,564.621,EUR/month,MIVAU_SERPAVI_2011_2024
+2021,Melilla,,serpavi_n_rented_apartments,2353.0,count,MIVAU_SERPAVI_2011_2024
+2021,,,serpavi_n_rented_apartments,1940563.0,count,MIVAU_SERPAVI_2011_2024
+2021,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,7.507,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2021,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,543.953,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Andalucía,,serpavi_rent_m2_median_apartment,6.602,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Andalucía,,serpavi_rent_m2_p25_apartment,4.902,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Andalucía,,serpavi_rent_m2_p75_apartment,8.688,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Andalucía,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Andalucía,,serpavi_n_rented_apartments,210142.0,count,MIVAU_SERPAVI_2011_2024
+2022,Aragón,,serpavi_rent_m2_median_apartment,6.472,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Aragón,,serpavi_rent_m2_p25_apartment,5.049,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Aragón,,serpavi_rent_m2_p75_apartment,8.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Aragón,,serpavi_rent_month_median_apartment,456.415,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Aragón,,serpavi_n_rented_apartments,74133.0,count,MIVAU_SERPAVI_2011_2024
+2022,Principado de Asturias,,serpavi_rent_m2_median_apartment,6.134,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Principado de Asturias,,serpavi_rent_m2_p25_apartment,4.819,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Principado de Asturias,,serpavi_rent_m2_p75_apartment,7.767,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Principado de Asturias,,serpavi_rent_month_median_apartment,440.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Principado de Asturias,,serpavi_n_rented_apartments,52554.0,count,MIVAU_SERPAVI_2011_2024
+2022,Illes Balears,,serpavi_rent_m2_median_apartment,8.602,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Illes Balears,,serpavi_rent_m2_p25_apartment,6.309,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Illes Balears,,serpavi_rent_m2_p75_apartment,11.493,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Illes Balears,,serpavi_rent_month_median_apartment,670.833,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Illes Balears,,serpavi_n_rented_apartments,63177.0,count,MIVAU_SERPAVI_2011_2024
+2022,Canarias,,serpavi_rent_m2_median_apartment,6.966,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Canarias,,serpavi_rent_m2_p25_apartment,5.388,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Canarias,,serpavi_rent_m2_p75_apartment,9.044,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Canarias,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Canarias,,serpavi_n_rented_apartments,88043.0,count,MIVAU_SERPAVI_2011_2024
+2022,Cantabria,,serpavi_rent_m2_median_apartment,6.544,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Cantabria,,serpavi_rent_m2_p25_apartment,5.232,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Cantabria,,serpavi_rent_m2_p75_apartment,8.197,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Cantabria,,serpavi_rent_month_median_apartment,479.864,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Cantabria,,serpavi_n_rented_apartments,24869.0,count,MIVAU_SERPAVI_2011_2024
+2022,Castilla y León,,serpavi_rent_m2_median_apartment,5.467,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Castilla y León,,serpavi_rent_m2_p25_apartment,4.217,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Castilla y León,,serpavi_rent_m2_p75_apartment,6.863,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Castilla y León,,serpavi_rent_month_median_apartment,435.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Castilla y León,,serpavi_n_rented_apartments,101505.0,count,MIVAU_SERPAVI_2011_2024
+2022,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,5.251,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,4.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,6.716,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Castilla-La Mancha,,serpavi_rent_month_median_apartment,425.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Castilla-La Mancha,,serpavi_n_rented_apartments,59270.0,count,MIVAU_SERPAVI_2011_2024
+2022,Cataluña,,serpavi_rent_m2_median_apartment,9.043,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Cataluña,,serpavi_rent_m2_p25_apartment,6.402,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Cataluña,,serpavi_rent_m2_p75_apartment,12.188,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Cataluña,,serpavi_rent_month_median_apartment,647.949,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Cataluña,,serpavi_n_rented_apartments,442656.0,count,MIVAU_SERPAVI_2011_2024
+2022,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,5.499,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,4.051,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,7.373,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Comunitat Valenciana,,serpavi_rent_month_median_apartment,456.25,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Comunitat Valenciana,,serpavi_n_rented_apartments,215992.0,count,MIVAU_SERPAVI_2011_2024
+2022,Extremadura,,serpavi_rent_m2_median_apartment,4.517,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Extremadura,,serpavi_rent_m2_p25_apartment,3.49,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Extremadura,,serpavi_rent_m2_p75_apartment,5.733,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Extremadura,,serpavi_rent_month_median_apartment,395.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Extremadura,,serpavi_n_rented_apartments,23818.0,count,MIVAU_SERPAVI_2011_2024
+2022,Galicia,,serpavi_rent_m2_median_apartment,5.244,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Galicia,,serpavi_rent_m2_p25_apartment,3.841,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Galicia,,serpavi_rent_m2_p75_apartment,7.051,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Galicia,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Galicia,,serpavi_n_rented_apartments,124631.0,count,MIVAU_SERPAVI_2011_2024
+2022,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,11.089,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,8.594,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,14.475,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Comunidad de Madrid,,serpavi_rent_month_median_apartment,737.5,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Comunidad de Madrid,,serpavi_n_rented_apartments,440770.0,count,MIVAU_SERPAVI_2011_2024
+2022,Región de Murcia,,serpavi_rent_m2_median_apartment,4.839,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Región de Murcia,,serpavi_rent_m2_p25_apartment,3.614,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Región de Murcia,,serpavi_rent_m2_p75_apartment,6.379,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Región de Murcia,,serpavi_rent_month_median_apartment,404.083,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Región de Murcia,,serpavi_n_rented_apartments,42413.0,count,MIVAU_SERPAVI_2011_2024
+2022,Comunidad Foral de Navarra,,serpavi_rent_m2_median_apartment,6.18,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Comunidad Foral de Navarra,,serpavi_rent_m2_p25_apartment,4.6,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Comunidad Foral de Navarra,,serpavi_rent_m2_p75_apartment,7.83,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Comunidad Foral de Navarra,,serpavi_rent_month_median_apartment,545.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Comunidad Foral de Navarra,,serpavi_n_rented_apartments,22762.0,count,MIVAU_SERPAVI_2011_2024
+2022,La Rioja,,serpavi_rent_m2_median_apartment,5.385,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,La Rioja,,serpavi_rent_m2_p25_apartment,4.218,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,La Rioja,,serpavi_rent_m2_p75_apartment,6.761,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,La Rioja,,serpavi_rent_month_median_apartment,450.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,La Rioja,,serpavi_n_rented_apartments,14769.0,count,MIVAU_SERPAVI_2011_2024
+2022,Ceuta,,serpavi_rent_m2_median_apartment,8.788,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Ceuta,,serpavi_rent_m2_p25_apartment,7.137,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Ceuta,,serpavi_rent_m2_p75_apartment,11.066,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Ceuta,,serpavi_rent_month_median_apartment,650.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Ceuta,,serpavi_n_rented_apartments,2147.0,count,MIVAU_SERPAVI_2011_2024
+2022,Melilla,,serpavi_rent_m2_median_apartment,8.598,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Melilla,,serpavi_rent_m2_p25_apartment,6.904,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Melilla,,serpavi_rent_m2_p75_apartment,10.634,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,Melilla,,serpavi_rent_month_median_apartment,587.588,EUR/month,MIVAU_SERPAVI_2011_2024
+2022,Melilla,,serpavi_n_rented_apartments,2453.0,count,MIVAU_SERPAVI_2011_2024
+2022,,,serpavi_n_rented_apartments,2006104.0,count,MIVAU_SERPAVI_2011_2024
+2022,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,7.816,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2022,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,567.484,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Andalucía,,serpavi_rent_m2_median_apartment,6.951,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Andalucía,,serpavi_rent_m2_p25_apartment,5.141,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Andalucía,,serpavi_rent_m2_p75_apartment,9.182,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Andalucía,,serpavi_rent_month_median_apartment,525.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Andalucía,,serpavi_n_rented_apartments,223908.0,count,MIVAU_SERPAVI_2011_2024
+2023,Aragón,,serpavi_rent_m2_median_apartment,6.771,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Aragón,,serpavi_rent_m2_p25_apartment,5.259,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Aragón,,serpavi_rent_m2_p75_apartment,8.353,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Aragón,,serpavi_rent_month_median_apartment,483.928,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Aragón,,serpavi_n_rented_apartments,77608.0,count,MIVAU_SERPAVI_2011_2024
+2023,Principado de Asturias,,serpavi_rent_m2_median_apartment,6.364,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Principado de Asturias,,serpavi_rent_m2_p25_apartment,5.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Principado de Asturias,,serpavi_rent_m2_p75_apartment,8.088,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Principado de Asturias,,serpavi_rent_month_median_apartment,450.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Principado de Asturias,,serpavi_n_rented_apartments,54839.0,count,MIVAU_SERPAVI_2011_2024
+2023,Illes Balears,,serpavi_rent_m2_median_apartment,9.091,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Illes Balears,,serpavi_rent_m2_p25_apartment,6.667,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Illes Balears,,serpavi_rent_m2_p75_apartment,12.179,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Illes Balears,,serpavi_rent_month_median_apartment,700.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Illes Balears,,serpavi_n_rented_apartments,66013.0,count,MIVAU_SERPAVI_2011_2024
+2023,Canarias,,serpavi_rent_m2_median_apartment,7.341,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Canarias,,serpavi_rent_m2_p25_apartment,5.651,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Canarias,,serpavi_rent_m2_p75_apartment,9.545,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Canarias,,serpavi_rent_month_median_apartment,508.333,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Canarias,,serpavi_n_rented_apartments,92226.0,count,MIVAU_SERPAVI_2011_2024
+2023,Cantabria,,serpavi_rent_m2_median_apartment,6.855,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Cantabria,,serpavi_rent_m2_p25_apartment,5.455,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Cantabria,,serpavi_rent_m2_p75_apartment,8.631,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Cantabria,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Cantabria,,serpavi_n_rented_apartments,26170.0,count,MIVAU_SERPAVI_2011_2024
+2023,Castilla y León,,serpavi_rent_m2_median_apartment,5.69,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Castilla y León,,serpavi_rent_m2_p25_apartment,4.384,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Castilla y León,,serpavi_rent_m2_p75_apartment,7.159,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Castilla y León,,serpavi_rent_month_median_apartment,450.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Castilla y León,,serpavi_n_rented_apartments,107081.0,count,MIVAU_SERPAVI_2011_2024
+2023,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,5.556,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,4.194,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,7.086,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Castilla-La Mancha,,serpavi_rent_month_median_apartment,450.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Castilla-La Mancha,,serpavi_n_rented_apartments,63160.0,count,MIVAU_SERPAVI_2011_2024
+2023,Cataluña,,serpavi_rent_m2_median_apartment,9.44,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Cataluña,,serpavi_rent_m2_p25_apartment,6.699,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Cataluña,,serpavi_rent_m2_p75_apartment,12.708,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Cataluña,,serpavi_rent_month_median_apartment,666.923,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Cataluña,,serpavi_n_rented_apartments,461937.0,count,MIVAU_SERPAVI_2011_2024
+2023,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,5.87,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,4.297,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,7.937,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Comunitat Valenciana,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Comunitat Valenciana,,serpavi_n_rented_apartments,232360.0,count,MIVAU_SERPAVI_2011_2024
+2023,Extremadura,,serpavi_rent_m2_median_apartment,4.719,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Extremadura,,serpavi_rent_m2_p25_apartment,3.636,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Extremadura,,serpavi_rent_m2_p75_apartment,6.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Extremadura,,serpavi_rent_month_median_apartment,400.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Extremadura,,serpavi_n_rented_apartments,25466.0,count,MIVAU_SERPAVI_2011_2024
+2023,Galicia,,serpavi_rent_m2_median_apartment,5.474,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Galicia,,serpavi_rent_m2_p25_apartment,3.982,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Galicia,,serpavi_rent_m2_p75_apartment,7.391,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Galicia,,serpavi_rent_month_median_apartment,422.718,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Galicia,,serpavi_n_rented_apartments,130268.0,count,MIVAU_SERPAVI_2011_2024
+2023,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,11.544,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,8.955,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,15.116,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Comunidad de Madrid,,serpavi_rent_month_median_apartment,759.27,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Comunidad de Madrid,,serpavi_n_rented_apartments,460317.0,count,MIVAU_SERPAVI_2011_2024
+2023,Región de Murcia,,serpavi_rent_m2_median_apartment,5.085,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Región de Murcia,,serpavi_rent_m2_p25_apartment,3.788,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Región de Murcia,,serpavi_rent_m2_p75_apartment,6.757,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Región de Murcia,,serpavi_rent_month_median_apartment,439.352,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Región de Murcia,,serpavi_n_rented_apartments,45591.0,count,MIVAU_SERPAVI_2011_2024
+2023,Comunidad Foral de Navarra,,serpavi_rent_m2_median_apartment,6.59,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Comunidad Foral de Navarra,,serpavi_rent_m2_p25_apartment,4.87,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Comunidad Foral de Navarra,,serpavi_rent_m2_p75_apartment,8.35,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Comunidad Foral de Navarra,,serpavi_rent_month_median_apartment,573.46,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Comunidad Foral de Navarra,,serpavi_n_rented_apartments,23696.0,count,MIVAU_SERPAVI_2011_2024
+2023,La Rioja,,serpavi_rent_m2_median_apartment,5.634,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,La Rioja,,serpavi_rent_m2_p25_apartment,4.397,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,La Rioja,,serpavi_rent_m2_p75_apartment,7.075,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,La Rioja,,serpavi_rent_month_median_apartment,452.979,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,La Rioja,,serpavi_n_rented_apartments,15524.0,count,MIVAU_SERPAVI_2011_2024
+2023,Ceuta,,serpavi_rent_m2_median_apartment,9.196,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Ceuta,,serpavi_rent_m2_p25_apartment,7.423,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Ceuta,,serpavi_rent_m2_p75_apartment,11.409,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Ceuta,,serpavi_rent_month_median_apartment,650.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Ceuta,,serpavi_n_rented_apartments,2191.0,count,MIVAU_SERPAVI_2011_2024
+2023,Melilla,,serpavi_rent_m2_median_apartment,8.755,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Melilla,,serpavi_rent_m2_p25_apartment,7.025,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Melilla,,serpavi_rent_m2_p75_apartment,10.815,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,Melilla,,serpavi_rent_month_median_apartment,600.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2023,Melilla,,serpavi_n_rented_apartments,2467.0,count,MIVAU_SERPAVI_2011_2024
+2023,,,serpavi_n_rented_apartments,2110822.0,count,MIVAU_SERPAVI_2011_2024
+2023,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,8.166,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2023,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,589.884,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Andalucía,,serpavi_rent_m2_median_apartment,7.353,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Andalucía,,serpavi_rent_m2_p25_apartment,5.405,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Andalucía,,serpavi_rent_m2_p75_apartment,9.77,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Andalucía,,serpavi_rent_month_median_apartment,550.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Andalucía,,serpavi_n_rented_apartments,234967.0,count,MIVAU_SERPAVI_2011_2024
+2024,Aragón,,serpavi_rent_m2_median_apartment,7.097,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Aragón,,serpavi_rent_m2_p25_apartment,5.495,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Aragón,,serpavi_rent_m2_p75_apartment,8.805,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Aragón,,serpavi_rent_month_median_apartment,500.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Aragón,,serpavi_n_rented_apartments,80108.0,count,MIVAU_SERPAVI_2011_2024
+2024,Principado de Asturias,,serpavi_rent_m2_median_apartment,6.625,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Principado de Asturias,,serpavi_rent_m2_p25_apartment,5.175,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Principado de Asturias,,serpavi_rent_m2_p75_apartment,8.475,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Principado de Asturias,,serpavi_rent_month_median_apartment,467.67,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Principado de Asturias,,serpavi_n_rented_apartments,56451.0,count,MIVAU_SERPAVI_2011_2024
+2024,Illes Balears,,serpavi_rent_m2_median_apartment,9.615,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Illes Balears,,serpavi_rent_m2_p25_apartment,7.042,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Illes Balears,,serpavi_rent_m2_p75_apartment,13.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Illes Balears,,serpavi_rent_month_median_apartment,750.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Illes Balears,,serpavi_n_rented_apartments,67764.0,count,MIVAU_SERPAVI_2011_2024
+2024,Canarias,,serpavi_rent_m2_median_apartment,7.748,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Canarias,,serpavi_rent_m2_p25_apartment,5.932,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Canarias,,serpavi_rent_m2_p75_apartment,10.156,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Canarias,,serpavi_rent_month_median_apartment,550.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Canarias,,serpavi_n_rented_apartments,95399.0,count,MIVAU_SERPAVI_2011_2024
+2024,Cantabria,,serpavi_rent_m2_median_apartment,7.22,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Cantabria,,serpavi_rent_m2_p25_apartment,5.692,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Cantabria,,serpavi_rent_m2_p75_apartment,9.158,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Cantabria,,serpavi_rent_month_median_apartment,520.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Cantabria,,serpavi_n_rented_apartments,26917.0,count,MIVAU_SERPAVI_2011_2024
+2024,Castilla y León,,serpavi_rent_m2_median_apartment,5.97,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Castilla y León,,serpavi_rent_m2_p25_apartment,4.571,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Castilla y León,,serpavi_rent_m2_p75_apartment,7.564,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Castilla y León,,serpavi_rent_month_median_apartment,470.311,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Castilla y León,,serpavi_n_rented_apartments,111863.0,count,MIVAU_SERPAVI_2011_2024
+2024,Castilla-La Mancha,,serpavi_rent_m2_median_apartment,5.856,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Castilla-La Mancha,,serpavi_rent_m2_p25_apartment,4.406,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Castilla-La Mancha,,serpavi_rent_m2_p75_apartment,7.551,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Castilla-La Mancha,,serpavi_rent_month_median_apartment,471.333,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Castilla-La Mancha,,serpavi_n_rented_apartments,66524.0,count,MIVAU_SERPAVI_2011_2024
+2024,Cataluña,,serpavi_rent_m2_median_apartment,9.836,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Cataluña,,serpavi_rent_m2_p25_apartment,7.0,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Cataluña,,serpavi_rent_m2_p75_apartment,13.229,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Cataluña,,serpavi_rent_month_median_apartment,700.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Cataluña,,serpavi_n_rented_apartments,471908.0,count,MIVAU_SERPAVI_2011_2024
+2024,Comunitat Valenciana,,serpavi_rent_m2_median_apartment,6.322,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Comunitat Valenciana,,serpavi_rent_m2_p25_apartment,4.587,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Comunitat Valenciana,,serpavi_rent_m2_p75_apartment,8.667,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Comunitat Valenciana,,serpavi_rent_month_median_apartment,525.784,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Comunitat Valenciana,,serpavi_n_rented_apartments,243768.0,count,MIVAU_SERPAVI_2011_2024
+2024,Extremadura,,serpavi_rent_m2_median_apartment,4.991,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Extremadura,,serpavi_rent_m2_p25_apartment,3.797,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Extremadura,,serpavi_rent_m2_p75_apartment,6.352,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Extremadura,,serpavi_rent_month_median_apartment,425.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Extremadura,,serpavi_n_rented_apartments,26782.0,count,MIVAU_SERPAVI_2011_2024
+2024,Galicia,,serpavi_rent_m2_median_apartment,5.767,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Galicia,,serpavi_rent_m2_p25_apartment,4.167,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Galicia,,serpavi_rent_m2_p75_apartment,7.811,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Galicia,,serpavi_rent_month_median_apartment,450.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Galicia,,serpavi_n_rented_apartments,135636.0,count,MIVAU_SERPAVI_2011_2024
+2024,Comunidad de Madrid,,serpavi_rent_m2_median_apartment,12.121,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Comunidad de Madrid,,serpavi_rent_m2_p25_apartment,9.365,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Comunidad de Madrid,,serpavi_rent_m2_p75_apartment,15.969,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Comunidad de Madrid,,serpavi_rent_month_median_apartment,800.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Comunidad de Madrid,,serpavi_n_rented_apartments,474935.0,count,MIVAU_SERPAVI_2011_2024
+2024,Región de Murcia,,serpavi_rent_m2_median_apartment,5.376,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Región de Murcia,,serpavi_rent_m2_p25_apartment,3.981,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Región de Murcia,,serpavi_rent_m2_p75_apartment,7.2,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Región de Murcia,,serpavi_rent_month_median_apartment,450.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Región de Murcia,,serpavi_n_rented_apartments,47487.0,count,MIVAU_SERPAVI_2011_2024
+2024,Comunidad Foral de Navarra,,serpavi_rent_m2_median_apartment,6.86,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Comunidad Foral de Navarra,,serpavi_rent_m2_p25_apartment,5.11,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Comunidad Foral de Navarra,,serpavi_rent_m2_p75_apartment,8.68,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Comunidad Foral de Navarra,,serpavi_rent_month_median_apartment,598.36,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Comunidad Foral de Navarra,,serpavi_n_rented_apartments,23820.0,count,MIVAU_SERPAVI_2011_2024
+2024,País Vasco,,serpavi_rent_m2_median_apartment,10.09,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,País Vasco,,serpavi_rent_m2_p25_apartment,8.27,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,País Vasco,,serpavi_rent_m2_p75_apartment,12.35,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,País Vasco,,serpavi_rent_month_median_apartment,729.08,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,País Vasco,,serpavi_n_rented_apartments,86759.0,count,MIVAU_SERPAVI_2011_2024
+2024,La Rioja,,serpavi_rent_m2_median_apartment,5.914,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,La Rioja,,serpavi_rent_m2_p25_apartment,4.591,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,La Rioja,,serpavi_rent_m2_p75_apartment,7.463,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,La Rioja,,serpavi_rent_month_median_apartment,482.825,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,La Rioja,,serpavi_n_rented_apartments,16048.0,count,MIVAU_SERPAVI_2011_2024
+2024,Ceuta,,serpavi_rent_m2_median_apartment,9.449,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Ceuta,,serpavi_rent_m2_p25_apartment,7.594,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Ceuta,,serpavi_rent_m2_p75_apartment,11.957,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Ceuta,,serpavi_rent_month_median_apartment,675.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Ceuta,,serpavi_n_rented_apartments,2230.0,count,MIVAU_SERPAVI_2011_2024
+2024,Melilla,,serpavi_rent_m2_median_apartment,9.104,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Melilla,,serpavi_rent_m2_p25_apartment,7.353,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Melilla,,serpavi_rent_m2_p75_apartment,11.181,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,Melilla,,serpavi_rent_month_median_apartment,600.0,EUR/month,MIVAU_SERPAVI_2011_2024
+2024,Melilla,,serpavi_n_rented_apartments,2621.0,count,MIVAU_SERPAVI_2011_2024
+2024,,,serpavi_n_rented_apartments,2271987.0,count,MIVAU_SERPAVI_2011_2024
+2024,ES,weighted_mean_of_CCAA_medians,serpavi_rent_m2_median_apartment_national_approx,8.628,EUR/m2/month,MIVAU_SERPAVI_2011_2024
+2024,ES,weighted_mean_of_CCAA_medians,serpavi_rent_month_median_apartment_national_approx,623.91,EUR/month,MIVAU_SERPAVI_2011_2024
+2005,Catalunya,,incasol_new_contract_rent_mean,552.01,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2005,Catalunya,,incasol_new_contracts_n,52941.0,count,INCASOL_hepw33ik_qww9bvhh
+2006,Catalunya,,incasol_new_contract_rent_mean,602.76,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2006,Catalunya,,incasol_new_contracts_n,56812.0,count,INCASOL_hepw33ik_qww9bvhh
+2007,Catalunya,,incasol_new_contract_rent_mean,645.36,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2007,Catalunya,,incasol_new_contracts_n,62671.0,count,INCASOL_hepw33ik_qww9bvhh
+2008,Catalunya,,incasol_new_contract_rent_mean,677.99,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2008,Catalunya,,incasol_new_contracts_n,80126.0,count,INCASOL_hepw33ik_qww9bvhh
+2009,Catalunya,,incasol_new_contract_rent_mean,650.33,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2009,Catalunya,,incasol_new_contracts_n,97818.0,count,INCASOL_hepw33ik_qww9bvhh
+2010,Catalunya,,incasol_new_contract_rent_mean,614.55,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2010,Catalunya,,incasol_new_contracts_n,116188.0,count,INCASOL_hepw33ik_qww9bvhh
+2011,Catalunya,,incasol_new_contract_rent_mean,599.16,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2011,Catalunya,,incasol_new_contracts_n,127813.0,count,INCASOL_hepw33ik_qww9bvhh
+2012,Catalunya,,incasol_new_contract_rent_mean,571.22,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2012,Catalunya,,incasol_new_contracts_n,138621.0,count,INCASOL_hepw33ik_qww9bvhh
+2013,Catalunya,,incasol_new_contract_rent_mean,542.18,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2013,Catalunya,,incasol_new_contracts_n,150200.0,count,INCASOL_hepw33ik_qww9bvhh
+2014,Catalunya,,incasol_new_contract_rent_mean,539.54,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2014,Catalunya,,incasol_new_contracts_n,149733.0,count,INCASOL_hepw33ik_qww9bvhh
+2015,Catalunya,,incasol_new_contract_rent_mean,557.5,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2015,Catalunya,,incasol_new_contracts_n,141767.0,count,INCASOL_hepw33ik_qww9bvhh
+2016,Catalunya,,incasol_new_contract_rent_mean,595.66,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2016,Catalunya,,incasol_new_contracts_n,142714.0,count,INCASOL_hepw33ik_qww9bvhh
+2017,Catalunya,,incasol_new_contract_rent_mean,654.83,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2017,Catalunya,,incasol_new_contracts_n,156936.0,count,INCASOL_hepw33ik_qww9bvhh
+2018,Catalunya,,incasol_new_contract_rent_mean,698.36,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2018,Catalunya,,incasol_new_contracts_n,167953.0,count,INCASOL_hepw33ik_qww9bvhh
+2019-Q2,Catalunya,,incasol_new_contract_rent_mean,724.89,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2019-Q2,Catalunya,,incasol_new_contracts_n,40394.0,count,INCASOL_hepw33ik_qww9bvhh
+2019,Catalunya,,incasol_new_contract_rent_mean,735.36,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2019,Catalunya,,incasol_new_contracts_n,162520.0,count,INCASOL_hepw33ik_qww9bvhh
+2019-Q1,Catalunya,,incasol_new_contract_rent_mean,711.31,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2019-Q1,Catalunya,,incasol_new_contracts_n,41643.0,count,INCASOL_hepw33ik_qww9bvhh
+2019-Q3,Catalunya,,incasol_new_contract_rent_mean,755.39,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2019-Q3,Catalunya,,incasol_new_contracts_n,39033.0,count,INCASOL_hepw33ik_qww9bvhh
+2019-Q4,Catalunya,,incasol_new_contract_rent_mean,750.87,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2019-Q4,Catalunya,,incasol_new_contracts_n,41450.0,count,INCASOL_hepw33ik_qww9bvhh
+2020-Q2,Catalunya,,incasol_new_contract_rent_mean,724.45,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2020-Q2,Catalunya,,incasol_new_contracts_n,21053.0,count,INCASOL_hepw33ik_qww9bvhh
+2020,Catalunya,,incasol_new_contract_rent_mean,734.33,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2020,Catalunya,,incasol_new_contracts_n,135509.0,count,INCASOL_hepw33ik_qww9bvhh
+2020-Q1,Catalunya,,incasol_new_contract_rent_mean,737.84,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2020-Q1,Catalunya,,incasol_new_contracts_n,36359.0,count,INCASOL_hepw33ik_qww9bvhh
+2020-Q3,Catalunya,,incasol_new_contract_rent_mean,745.43,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2020-Q3,Catalunya,,incasol_new_contracts_n,38945.0,count,INCASOL_hepw33ik_qww9bvhh
+2020-Q4,Catalunya,,incasol_new_contract_rent_mean,725.33,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2020-Q4,Catalunya,,incasol_new_contracts_n,39152.0,count,INCASOL_hepw33ik_qww9bvhh
+2021-Q2,Catalunya,,incasol_new_contract_rent_mean,713.15,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2021-Q2,Catalunya,,incasol_new_contracts_n,42184.0,count,INCASOL_hepw33ik_qww9bvhh
+2021,Catalunya,,incasol_new_contract_rent_mean,724.09,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2021,Catalunya,,incasol_new_contracts_n,167842.0,count,INCASOL_hepw33ik_qww9bvhh
+2021-Q1,Catalunya,,incasol_new_contract_rent_mean,713.29,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2021-Q1,Catalunya,,incasol_new_contracts_n,43239.0,count,INCASOL_hepw33ik_qww9bvhh
+2021-Q3,Catalunya,,incasol_new_contract_rent_mean,737.51,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2021-Q3,Catalunya,,incasol_new_contracts_n,40934.0,count,INCASOL_hepw33ik_qww9bvhh
+2021-Q4,Catalunya,,incasol_new_contract_rent_mean,733.25,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2021-Q4,Catalunya,,incasol_new_contracts_n,41485.0,count,INCASOL_hepw33ik_qww9bvhh
+2022-Q2,Catalunya,,incasol_new_contract_rent_mean,759.91,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2022-Q2,Catalunya,,incasol_new_contracts_n,37355.0,count,INCASOL_hepw33ik_qww9bvhh
+2022,Catalunya,,incasol_new_contract_rent_mean,779.84,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2022,Catalunya,,incasol_new_contracts_n,152770.0,count,INCASOL_hepw33ik_qww9bvhh
+2022-Q1,Catalunya,,incasol_new_contract_rent_mean,738.14,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2022-Q1,Catalunya,,incasol_new_contracts_n,38513.0,count,INCASOL_hepw33ik_qww9bvhh
+2022-Q3,Catalunya,,incasol_new_contract_rent_mean,805.69,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2022-Q3,Catalunya,,incasol_new_contracts_n,37992.0,count,INCASOL_hepw33ik_qww9bvhh
+2022-Q4,Catalunya,,incasol_new_contract_rent_mean,814.99,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2022-Q4,Catalunya,,incasol_new_contracts_n,38910.0,count,INCASOL_hepw33ik_qww9bvhh
+2023-Q2,Catalunya,,incasol_new_contract_rent_mean,830.34,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2023-Q2,Catalunya,,incasol_new_contracts_n,34981.0,count,INCASOL_hepw33ik_qww9bvhh
+2023,Catalunya,,incasol_new_contract_rent_mean,835.22,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2023,Catalunya,,incasol_new_contracts_n,132988.0,count,INCASOL_hepw33ik_qww9bvhh
+2023-Q1,Catalunya,,incasol_new_contract_rent_mean,812.87,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2023-Q1,Catalunya,,incasol_new_contracts_n,36464.0,count,INCASOL_hepw33ik_qww9bvhh
+2023-Q3,Catalunya,,incasol_new_contract_rent_mean,848.39,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2023-Q3,Catalunya,,incasol_new_contracts_n,31132.0,count,INCASOL_hepw33ik_qww9bvhh
+2023-Q4,Catalunya,,incasol_new_contract_rent_mean,854.12,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2023-Q4,Catalunya,,incasol_new_contracts_n,30411.0,count,INCASOL_hepw33ik_qww9bvhh
+2024-Q2,Catalunya,,incasol_new_contract_rent_mean,822.97,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2024-Q2,Catalunya,,incasol_new_contracts_n,29313.0,count,INCASOL_hepw33ik_qww9bvhh
+2024,Catalunya,,incasol_new_contract_rent_mean,844.13,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2024,Catalunya,,incasol_new_contracts_n,118626.0,count,INCASOL_hepw33ik_qww9bvhh
+2024-Q1,Catalunya,,incasol_new_contract_rent_mean,868.91,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2024-Q1,Catalunya,,incasol_new_contracts_n,34495.0,count,INCASOL_hepw33ik_qww9bvhh
+2024-Q3,Catalunya,,incasol_new_contract_rent_mean,839.36,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2024-Q3,Catalunya,,incasol_new_contracts_n,27098.0,count,INCASOL_hepw33ik_qww9bvhh
+2024-Q4,Catalunya,,incasol_new_contract_rent_mean,840.32,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2024-Q4,Catalunya,,incasol_new_contracts_n,27722.0,count,INCASOL_hepw33ik_qww9bvhh
+2025-Q2,Catalunya,,incasol_new_contract_rent_mean,854.7,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2025-Q2,Catalunya,,incasol_new_contracts_n,26416.0,count,INCASOL_hepw33ik_qww9bvhh
+2025,Catalunya,,incasol_new_contract_rent_mean,860.67,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2025,Catalunya,,incasol_new_contracts_n,108057.0,count,INCASOL_hepw33ik_qww9bvhh
+2025-Q1,Catalunya,,incasol_new_contract_rent_mean,827.81,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2025-Q1,Catalunya,,incasol_new_contracts_n,27748.0,count,INCASOL_hepw33ik_qww9bvhh
+2025-Q3,Catalunya,,incasol_new_contract_rent_mean,876.83,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2025-Q3,Catalunya,,incasol_new_contracts_n,26962.0,count,INCASOL_hepw33ik_qww9bvhh
+2025-Q4,Catalunya,,incasol_new_contract_rent_mean,884.19,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2025-Q4,Catalunya,,incasol_new_contracts_n,26931.0,count,INCASOL_hepw33ik_qww9bvhh
+2026-Q2,Catalunya,,incasol_new_contract_rent_mean,877.81,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2026-Q2,Catalunya,,incasol_new_contracts_n,26449.0,count,INCASOL_hepw33ik_qww9bvhh
+2026-Q1,Catalunya,,incasol_new_contract_rent_mean,861.23,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2026-Q1,Catalunya,,incasol_new_contracts_n,28079.0,count,INCASOL_hepw33ik_qww9bvhh
+2007,Barcelona,,incasol_new_contract_rent_mean,766.18,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2007,Barcelona,,incasol_new_contracts_n,24162.0,count,INCASOL_hepw33ik_qww9bvhh
+2008,Barcelona,,incasol_new_contract_rent_mean,813.02,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2008,Barcelona,,incasol_new_contracts_n,27414.0,count,INCASOL_hepw33ik_qww9bvhh
+2009,Barcelona,,incasol_new_contract_rent_mean,792.89,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2009,Barcelona,,incasol_new_contracts_n,32177.0,count,INCASOL_hepw33ik_qww9bvhh
+2010,Barcelona,,incasol_new_contract_rent_mean,761.87,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2010,Barcelona,,incasol_new_contracts_n,36873.0,count,INCASOL_hepw33ik_qww9bvhh
+2011,Barcelona,,incasol_new_contract_rent_mean,752.86,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2011,Barcelona,,incasol_new_contracts_n,38156.0,count,INCASOL_hepw33ik_qww9bvhh
+2012,Barcelona,,incasol_new_contract_rent_mean,720.13,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2012,Barcelona,,incasol_new_contracts_n,41047.0,count,INCASOL_hepw33ik_qww9bvhh
+2013,Barcelona,,incasol_new_contract_rent_mean,681.56,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2013,Barcelona,,incasol_new_contracts_n,44819.0,count,INCASOL_hepw33ik_qww9bvhh
+2014,Barcelona,,incasol_new_contract_rent_mean,688.23,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2014,Barcelona,,incasol_new_contracts_n,44411.0,count,INCASOL_hepw33ik_qww9bvhh
+2015,Barcelona,,incasol_new_contract_rent_mean,734.94,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2015,Barcelona,,incasol_new_contracts_n,40623.0,count,INCASOL_hepw33ik_qww9bvhh
+2016,Barcelona,,incasol_new_contract_rent_mean,801.28,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2016,Barcelona,,incasol_new_contracts_n,42182.0,count,INCASOL_hepw33ik_qww9bvhh
+2017,Barcelona,,incasol_new_contract_rent_mean,877.28,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2017,Barcelona,,incasol_new_contracts_n,49953.0,count,INCASOL_hepw33ik_qww9bvhh
+2018,Barcelona,,incasol_new_contract_rent_mean,929.57,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2018,Barcelona,,incasol_new_contracts_n,53524.0,count,INCASOL_hepw33ik_qww9bvhh
+2019-Q3,Barcelona,,incasol_new_contract_rent_mean,1005.79,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2019-Q3,Barcelona,,incasol_new_contracts_n,12593.0,count,INCASOL_hepw33ik_qww9bvhh
+2019-Q2,Barcelona,,incasol_new_contract_rent_mean,968.89,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2019-Q2,Barcelona,,incasol_new_contracts_n,12467.0,count,INCASOL_hepw33ik_qww9bvhh
+2019-Q1,Barcelona,,incasol_new_contract_rent_mean,944.43,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2019-Q1,Barcelona,,incasol_new_contracts_n,12832.0,count,INCASOL_hepw33ik_qww9bvhh
+2019,Barcelona,,incasol_new_contract_rent_mean,978.81,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2019,Barcelona,,incasol_new_contracts_n,51294.0,count,INCASOL_hepw33ik_qww9bvhh
+2019-Q4,Barcelona,,incasol_new_contract_rent_mean,995.59,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2019-Q4,Barcelona,,incasol_new_contracts_n,13402.0,count,INCASOL_hepw33ik_qww9bvhh
+2020,Barcelona,,incasol_new_contract_rent_mean,964.81,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2020,Barcelona,,incasol_new_contracts_n,40416.0,count,INCASOL_hepw33ik_qww9bvhh
+2020-Q3,Barcelona,,incasol_new_contract_rent_mean,979.42,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2020-Q3,Barcelona,,incasol_new_contracts_n,11055.0,count,INCASOL_hepw33ik_qww9bvhh
+2020-Q2,Barcelona,,incasol_new_contract_rent_mean,960.06,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2020-Q2,Barcelona,,incasol_new_contracts_n,5727.0,count,INCASOL_hepw33ik_qww9bvhh
+2020-Q1,Barcelona,,incasol_new_contract_rent_mean,980.48,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2020-Q1,Barcelona,,incasol_new_contracts_n,11435.0,count,INCASOL_hepw33ik_qww9bvhh
+2020-Q4,Barcelona,,incasol_new_contract_rent_mean,939.1,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2020-Q4,Barcelona,,incasol_new_contracts_n,12199.0,count,INCASOL_hepw33ik_qww9bvhh
+2021-Q4,Barcelona,,incasol_new_contract_rent_mean,934.21,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2021-Q4,Barcelona,,incasol_new_contracts_n,14251.0,count,INCASOL_hepw33ik_qww9bvhh
+2021,Barcelona,,incasol_new_contract_rent_mean,918.84,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2021,Barcelona,,incasol_new_contracts_n,57158.0,count,INCASOL_hepw33ik_qww9bvhh
+2021-Q2,Barcelona,,incasol_new_contract_rent_mean,903.28,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2021-Q2,Barcelona,,incasol_new_contracts_n,14110.0,count,INCASOL_hepw33ik_qww9bvhh
+2021-Q3,Barcelona,,incasol_new_contract_rent_mean,932.31,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2021-Q3,Barcelona,,incasol_new_contracts_n,14398.0,count,INCASOL_hepw33ik_qww9bvhh
+2021-Q1,Barcelona,,incasol_new_contract_rent_mean,905.39,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2021-Q1,Barcelona,,incasol_new_contracts_n,14399.0,count,INCASOL_hepw33ik_qww9bvhh
+2022-Q4,Barcelona,,incasol_new_contract_rent_mean,1077.48,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2022-Q4,Barcelona,,incasol_new_contracts_n,12290.0,count,INCASOL_hepw33ik_qww9bvhh
+2022,Barcelona,,incasol_new_contract_rent_mean,1026.86,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2022,Barcelona,,incasol_new_contracts_n,47927.0,count,INCASOL_hepw33ik_qww9bvhh
+2022-Q3,Barcelona,,incasol_new_contract_rent_mean,1066.68,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2022-Q3,Barcelona,,incasol_new_contracts_n,11967.0,count,INCASOL_hepw33ik_qww9bvhh
+2022-Q1,Barcelona,,incasol_new_contract_rent_mean,965.38,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2022-Q1,Barcelona,,incasol_new_contracts_n,12227.0,count,INCASOL_hepw33ik_qww9bvhh
+2022-Q2,Barcelona,,incasol_new_contract_rent_mean,996.56,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2022-Q2,Barcelona,,incasol_new_contracts_n,11443.0,count,INCASOL_hepw33ik_qww9bvhh
+2023-Q2,Barcelona,,incasol_new_contract_rent_mean,1123.56,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2023-Q2,Barcelona,,incasol_new_contracts_n,10328.0,count,INCASOL_hepw33ik_qww9bvhh
+2023-Q3,Barcelona,,incasol_new_contract_rent_mean,1171.28,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2023-Q3,Barcelona,,incasol_new_contracts_n,8934.0,count,INCASOL_hepw33ik_qww9bvhh
+2023-Q1,Barcelona,,incasol_new_contract_rent_mean,1087.33,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2023-Q1,Barcelona,,incasol_new_contracts_n,10890.0,count,INCASOL_hepw33ik_qww9bvhh
+2023-Q4,Barcelona,,incasol_new_contract_rent_mean,1178.05,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2023-Q4,Barcelona,,incasol_new_contracts_n,8531.0,count,INCASOL_hepw33ik_qww9bvhh
+2023,Barcelona,,incasol_new_contract_rent_mean,1136.4,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2023,Barcelona,,incasol_new_contracts_n,38683.0,count,INCASOL_hepw33ik_qww9bvhh
+2024-Q3,Barcelona,,incasol_new_contract_rent_mean,1133.33,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2024-Q3,Barcelona,,incasol_new_contracts_n,7484.0,count,INCASOL_hepw33ik_qww9bvhh
+2024-Q1,Barcelona,,incasol_new_contract_rent_mean,1193.51,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2024-Q1,Barcelona,,incasol_new_contracts_n,9825.0,count,INCASOL_hepw33ik_qww9bvhh
+2024-Q2,Barcelona,,incasol_new_contract_rent_mean,1131.8,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2024-Q2,Barcelona,,incasol_new_contracts_n,7938.0,count,INCASOL_hepw33ik_qww9bvhh
+2024-Q4,Barcelona,,incasol_new_contract_rent_mean,1117.39,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2024-Q4,Barcelona,,incasol_new_contracts_n,7656.0,count,INCASOL_hepw33ik_qww9bvhh
+2024,Barcelona,,incasol_new_contract_rent_mean,1147.22,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2024,Barcelona,,incasol_new_contracts_n,32903.0,count,INCASOL_hepw33ik_qww9bvhh
+2025-Q3,Barcelona,,incasol_new_contract_rent_mean,1153.11,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2025-Q3,Barcelona,,incasol_new_contracts_n,7855.0,count,INCASOL_hepw33ik_qww9bvhh
+2025-Q4,Barcelona,,incasol_new_contract_rent_mean,1160.99,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2025-Q4,Barcelona,,incasol_new_contracts_n,7908.0,count,INCASOL_hepw33ik_qww9bvhh
+2025-Q2,Barcelona,,incasol_new_contract_rent_mean,1135.55,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2025-Q2,Barcelona,,incasol_new_contracts_n,7411.0,count,INCASOL_hepw33ik_qww9bvhh
+2025-Q1,Barcelona,,incasol_new_contract_rent_mean,1087.23,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2025-Q1,Barcelona,,incasol_new_contracts_n,7615.0,count,INCASOL_hepw33ik_qww9bvhh
+2025,Barcelona,,incasol_new_contract_rent_mean,1134.61,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2025,Barcelona,,incasol_new_contracts_n,30789.0,count,INCASOL_hepw33ik_qww9bvhh
+2026-Q2,Barcelona,,incasol_new_contract_rent_mean,1140.89,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2026-Q2,Barcelona,,incasol_new_contracts_n,7845.0,count,INCASOL_hepw33ik_qww9bvhh
+2026-Q1,Barcelona,,incasol_new_contract_rent_mean,1137.35,EUR/month,INCASOL_hepw33ik_qww9bvhh
+2026-Q1,Barcelona,,incasol_new_contracts_n,8156.0,count,INCASOL_hepw33ik_qww9bvhh

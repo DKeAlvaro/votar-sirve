@@ -1,0 +1,37 @@
+date,variable,value,better,label,source_id
+2008,young_rel_salary,87.77,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2009,young_rel_salary,86.52,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2010,young_rel_salary,86.76,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2011,young_rel_salary,84.15,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2012,young_rel_salary,82.24,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2013,young_rel_salary,79.19,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2014,young_rel_salary,81.72,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2015,young_rel_salary,78.99,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2016,young_rel_salary,77.64,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2017,young_rel_salary,78.26,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2018,young_rel_salary,80.59,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2019,young_rel_salary,80.19,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2020,young_rel_salary,79.84,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2021,young_rel_salary,80.5,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2022,young_rel_salary,83.44,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2023,young_rel_salary,83.34,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2024,young_rel_salary,84.98,up,Sueldo de 25-34 en % del sueldo medio de todas las edades (control: el resto de edades),INE EES/EAES
+2002,years_flat,5.23,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2006,years_flat,8.97,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2008,years_flat,8.63,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2009,years_flat,7.87,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2010,years_flat,7.46,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2011,years_flat,7.22,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2012,years_flat,6.8,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2013,years_flat,6.66,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2014,years_flat,6.25,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2015,years_flat,6.47,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2016,years_flat,6.69,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2017,years_flat,6.65,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2018,years_flat,6.58,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2019,years_flat,6.71,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2020,years_flat,6.46,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2021,years_flat,6.36,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2022,years_flat,6.19,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2023,years_flat,6.19,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES
+2024,years_flat,6.1,down,Años de sueldo joven para un piso de 80 m² (sin control internacional),MIVAU + INE EES

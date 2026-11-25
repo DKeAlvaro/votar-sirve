@@ -1,0 +1,106 @@
+date,geo,group,variable,value,unit,source_id,note
+1991,ES,,homes_completed_libres,227970.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+1991,ES,,homes_completed_protegidas,44514.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+1991,ES,,homes_completed_total,272484.0,homes,mivau_3.2+1.6,libres + protegidas
+1992,ES,,homes_completed_libres,178501.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+1992,ES,,homes_completed_protegidas,35695.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+1992,ES,,homes_completed_total,214196.0,homes,mivau_3.2+1.6,libres + protegidas
+1993,ES,,homes_completed_libres,170403.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+1993,ES,,homes_completed_protegidas,45795.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+1993,ES,,homes_completed_total,216198.0,homes,mivau_3.2+1.6,libres + protegidas
+1994,ES,,homes_completed_libres,174793.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+1994,ES,,homes_completed_protegidas,67639.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+1994,ES,,homes_completed_total,242432.0,homes,mivau_3.2+1.6,libres + protegidas
+1995,ES,,homes_completed_libres,155902.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+1995,ES,,homes_completed_protegidas,71141.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+1995,ES,,homes_completed_total,227043.0,homes,mivau_3.2+1.6,libres + protegidas
+1996,ES,,homes_completed_libres,194871.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+1996,ES,,homes_completed_protegidas,77544.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+1996,ES,,homes_completed_total,272415.0,homes,mivau_3.2+1.6,libres + protegidas
+1997,ES,,homes_completed_libres,224332.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+1997,ES,,homes_completed_protegidas,85028.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+1997,ES,,homes_completed_total,309360.0,homes,mivau_3.2+1.6,libres + protegidas
+1998,ES,,homes_completed_libres,226631.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+1998,ES,,homes_completed_protegidas,74597.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+1998,ES,,homes_completed_total,301228.0,homes,mivau_3.2+1.6,libres + protegidas
+1999,ES,,homes_completed_libres,296250.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+1999,ES,,homes_completed_protegidas,55972.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+1999,ES,,homes_completed_total,352222.0,homes,mivau_3.2+1.6,libres + protegidas
+2000,ES,,homes_completed_libres,362940.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2000,ES,,homes_completed_protegidas,52318.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2000,ES,,homes_completed_total,415258.0,homes,mivau_3.2+1.6,libres + protegidas
+2001,ES,,homes_completed_libres,452252.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2001,ES,,homes_completed_protegidas,53413.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2001,ES,,homes_completed_total,505665.0,homes,mivau_3.2+1.6,libres + protegidas
+2002,ES,,homes_completed_libres,480729.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2002,ES,,homes_completed_protegidas,37544.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2002,ES,,homes_completed_total,518273.0,homes,mivau_3.2+1.6,libres + protegidas
+2003,ES,,homes_completed_libres,462730.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2003,ES,,homes_completed_protegidas,40994.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2003,ES,,homes_completed_total,503724.0,homes,mivau_3.2+1.6,libres + protegidas
+2004,ES,,homes_completed_libres,509293.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2004,ES,,homes_completed_protegidas,54630.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2004,ES,,homes_completed_total,563923.0,homes,mivau_3.2+1.6,libres + protegidas
+2005,ES,,homes_completed_libres,528754.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2005,ES,,homes_completed_protegidas,62850.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2005,ES,,homes_completed_total,591604.0,homes,mivau_3.2+1.6,libres + protegidas
+2006,ES,,homes_completed_libres,597632.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2006,ES,,homes_completed_protegidas,60878.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2006,ES,,homes_completed_total,658510.0,homes,mivau_3.2+1.6,libres + protegidas
+2007,ES,,homes_completed_libres,579665.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2007,ES,,homes_completed_protegidas,67514.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2007,ES,,homes_completed_total,647179.0,homes,mivau_3.2+1.6,libres + protegidas
+2008,ES,,homes_completed_libres,563631.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2008,ES,,homes_completed_protegidas,68587.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2008,ES,,homes_completed_total,632218.0,homes,mivau_3.2+1.6,libres + protegidas
+2009,ES,,homes_completed_libres,356555.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2009,ES,,homes_completed_protegidas,67904.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2009,ES,,homes_completed_total,424459.0,homes,mivau_3.2+1.6,libres + protegidas
+2010,ES,,homes_completed_libres,218572.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2010,ES,,homes_completed_protegidas,58311.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2010,ES,,homes_completed_total,276883.0,homes,mivau_3.2+1.6,libres + protegidas
+2011,ES,,homes_completed_libres,121043.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2011,ES,,homes_completed_protegidas,58308.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2011,ES,,homes_completed_total,179351.0,homes,mivau_3.2+1.6,libres + protegidas
+2012,ES,,homes_completed_libres,80083.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2012,ES,,homes_completed_protegidas,53332.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2012,ES,,homes_completed_total,133415.0,homes,mivau_3.2+1.6,libres + protegidas
+2013,ES,,homes_completed_libres,43230.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2013,ES,,homes_completed_protegidas,17059.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2013,ES,,homes_completed_total,60289.0,homes,mivau_3.2+1.6,libres + protegidas
+2014,ES,,homes_completed_libres,35382.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2014,ES,,homes_completed_protegidas,15046.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2014,ES,,homes_completed_total,50428.0,homes,mivau_3.2+1.6,libres + protegidas
+2015,ES,,homes_completed_libres,41541.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2015,ES,,homes_completed_protegidas,7931.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2015,ES,,homes_completed_total,49472.0,homes,mivau_3.2+1.6,libres + protegidas
+2016,ES,,homes_completed_libres,37512.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2016,ES,,homes_completed_protegidas,7118.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2016,ES,,homes_completed_total,44630.0,homes,mivau_3.2+1.6,libres + protegidas
+2017,ES,,homes_completed_libres,49336.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2017,ES,,homes_completed_protegidas,4938.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2017,ES,,homes_completed_total,54274.0,homes,mivau_3.2+1.6,libres + protegidas
+2018,ES,,homes_completed_libres,58853.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2018,ES,,homes_completed_protegidas,5191.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2018,ES,,homes_completed_total,64044.0,homes,mivau_3.2+1.6,libres + protegidas
+2019,ES,,homes_completed_libres,71562.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2019,ES,,homes_completed_protegidas,7248.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2019,ES,,homes_completed_total,78810.0,homes,mivau_3.2+1.6,libres + protegidas
+2020,ES,,homes_completed_libres,77531.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2020,ES,,homes_completed_protegidas,9973.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2020,ES,,homes_completed_total,87504.0,homes,mivau_3.2+1.6,libres + protegidas
+2021,ES,,homes_completed_libres,84091.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2021,ES,,homes_completed_protegidas,10637.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2021,ES,,homes_completed_total,94728.0,homes,mivau_3.2+1.6,libres + protegidas
+2022,ES,,homes_completed_libres,79935.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2022,ES,,homes_completed_protegidas,9610.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2022,ES,,homes_completed_total,89545.0,homes,mivau_3.2+1.6,libres + protegidas
+2023,ES,,homes_completed_libres,80473.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2023,ES,,homes_completed_protegidas,8847.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2023,ES,,homes_completed_total,89320.0,homes,mivau_3.2+1.6,libres + protegidas
+2024,ES,,homes_completed_libres,86609.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2024,ES,,homes_completed_protegidas,14371.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2024,ES,,homes_completed_total,100980.0,homes,mivau_3.2+1.6,libres + protegidas
+2025,ES,,homes_completed_libres,80792.0,homes,mivau_3.2_libres_terminadas,Ministry note: estimated figures
+2025,ES,,homes_completed_protegidas,12858.0,homes,mivau_1.6_protegidas_calif_definitivas,"definitive qualifications (table titled ""viviendas protegidas terminadas"" before 2010); 2003-2005 estimated"
+2025,ES,,homes_completed_total,93650.0,homes,mivau_3.2+1.6,libres + protegidas
